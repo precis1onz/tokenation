@@ -74,7 +74,7 @@
 
 ⏰ **免费有效日期**：未公布截止日
 
-⚡ **频控限制**：限时：Go 方案目录标「Limited time」——LongCat 2.5 Preview Free 与 Beam Free 按 $0 计费，Step 5 Preview 额度 4x、Gemini 4 Argon Contributor 2x；官方未公布截止日。
+⚡ **频控限制**：限时：Go 方案目录标「Limited time」——LongCat 2.5 Preview Free、Beam Free（另限地区）、MiniMax M3.1 Flash Free 三款按 $0 计费，Step 5 Preview 额度 4x；官方未公布截止日。额度为 Go 方案产品内计费，不是通用 API Key。
 
 🤖 **模型评分**（按推荐指数降序，最多 3 个）：
 • minimax-m3.1-flash-free — 推荐指数 88/100（智能 70.7 · 用量 无限量）
@@ -108,7 +108,7 @@
 
 ⏰ **免费有效日期**：未公布截止日
 
-⚡ **频控限制**：限时免费（官方未公布截止日，写明「结束时间将提前在本页公告」）：① Qoder 国际版自 2026-09-18 10:00 起对全部新老个人用户开放 Qwen3.8-Flash 限时免费，计费系数由 0.1× 降至 0.0×，调用不消耗 Credits，体验版与 Credits 余额为 0 的账号同样可用；原定 2026-09-30 结束，现已延期，10/1 起继续免费。② 「经济」（Efficient）模型档位自 2026-09-03 14:00 起对付费用户不再扣除 Credits，结束时间待定，适用于 Qoder / Qoder IDE / JetBrains 插件 / CLI / QoderWake / 移动端与网页版。额度为产品内 Credits 计费豁免，不是通用 API Key。
+⚡ **频控限制**：限时免费（官方未公布截止日，写明「结束时间将提前在本页公告」）：① Qoder 国际版自 2026-09-18 10:00 起对全部新老个人用户开放 Qwen3.8-Flash 限时免费，计费系数由 0.1× 降至 0.0×，调用不消耗 Credits，体验版与 Credits 余额为 0 的账号同样可用；原定 2026-09-30 结束，现已延期，10/1 起继续免费。② 「经济」（Efficient）模型档位自 2026-09-03 14:00 起对付费用户不再扣除 Credits，结束时间待定，适用于 Qoder / Qoder IDE / JetBrains 插件 / CLI / QoderWake / 移动端与网页版。③ 每日领取 100 Credits：2026-09-18 10:00 起，国际版个人用户每天可在 Qoder 桌面端主动领取 100 通用 Credits，免费与付费个人用户均可参与，结束时间另行公告；每笔自领取之日起 30 天内有效，未到期可跨天保留，可在国际版全系产品使用。额度为产品内 Credits，不是通用 API Key。
 
 🤖 **模型评分**（按推荐指数降序，最多 3 个）：
 • Qwen3.8-Flash（调用不扣 Credits）— 推荐指数 87/100（智能 66.3 · 用量 无限量）
@@ -123,7 +123,7 @@
 
 ⏰ **免费有效日期**：未公布截止日
 
-⚡ **频控限制**：限时推广：AI Gateway 的「Limited time」促销区当前列出 24 个免费/折扣模型，促销价在请求时自动生效。免费（$0）条目包括 reflection/beam-free（Beam 1.0，501B，约 1M 上下文）、convaiinnovations/laya-free、poolside/laguna-s-2.1-free、stealth/glyph-cluster、tako-search。其中 Laya 的促销价官方标注 2026-10-31 结束；其余条目官方只标「limited time」，未公布统一截止日，故本条目按措辞型收录，各模型的单独截止日以官方模型页为准。额度为网关侧 $0 计费，不是通用 API Key。
+⚡ **频控限制**：限时推广：AI Gateway 当前 $0 免费条目共 6 个——minimax/minimax-m3.1-flash（2026-10-19 上线，官方 changelog 写明免费至 2026-10-22，且仅当请求由 MiniMax 承接时按 $0）、reflection/beam-free、nvidia/nemotron-3.5-lightning-free、stealth/glyph-cluster、convaiinnovations/laya（促销价至 2026-10-31）、convaiinnovations/laya-free；同页另有多款折扣促销。其余免费条目官方只标「limited time」，未公布统一截止日，本条目按措辞型收录，各模型单独截止日以官方模型页为准。额度为网关侧 $0 计费，不是通用 API Key。
 
 🤖 **模型评分**（按推荐指数降序，最多 3 个）：
 • reflection/beam-free — 推荐指数 80/100（智能 50.5 · 用量 无限量）

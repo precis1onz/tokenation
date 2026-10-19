@@ -74,7 +74,7 @@ Updated 2026-10-19
 
 ⏰ **Free Until**: No deadline announced
 
-⚡ **Rate Limits**: Limited time: the Go plan marks these "Limited time" - LongCat 2.5 Preview Free and Beam Free bill at $0, Step 5 Preview gets 4x allowance, Gemini 4 Argon Contributor 2x. No published end date.
+⚡ **Rate Limits**: Limited time: the Go plan marks three models at $0 - LongCat 2.5 Preview Free, Beam Free (also limited regions) and MiniMax M3.1 Flash Free - while Step 5 Preview gets a 4x allowance. No published end date. This is an in-product Go plan quota, not a general API key.
 
 🤖 **Model scores** (top 3 by recommendation score):
 • minimax-m3.1-flash-free — 88/100 (intelligence 70.7 · usage unlimited)
@@ -108,7 +108,7 @@ Updated 2026-10-19
 
 ⏰ **Free Until**: No deadline announced
 
-⚡ **Rate Limits**: Free for a limited time, with no published end date (the official page states the end date will be announced there in advance): (1) Qoder International has made Qwen3.8-Flash free for all new and existing individual users since 2026-09-18 10:00 — the billing coefficient drops from 0.1x to 0.0x so calls consume no Credits, and it works on the free/trial plan and on accounts with a zero Credits balance. It was originally due to end 2026-09-30 and has been extended. (2) The Efficient model tier has been free of Credits for paid users since 2026-09-03 14:00, end date TBD, across Qoder / Qoder IDE / JetBrains plugin / CLI / QoderWake / mobile and web. These are in-product Credits waivers, not a general API key.
+⚡ **Rate Limits**: Free for a limited time, with no published end date (the official page states the end date will be announced there in advance): (1) Qoder International has made Qwen3.8-Flash free for all new and existing individual users since 2026-09-18 10:00 - the billing coefficient drops from 0.1x to 0.0x so calls consume no Credits, and it works on the free/trial plan and on accounts with a zero Credits balance. It was originally due to end 2026-09-30 and has been extended. (2) The Efficient model tier has been free of Credits for paid users since 2026-09-03 14:00, end date TBD, across Qoder / Qoder IDE / JetBrains plugin / CLI / QoderWake / mobile and web. (3) Daily 100 Credits: since 2026-09-18 10:00 individual users of the international site can claim 100 general Credits per day in the Qoder desktop app; free and paid individual users are both eligible, the end date will be announced separately, and each grant is valid for 30 days from the claim date with unused Credits carrying across days. These are in-product Credits, not a general API key.
 
 🤖 **Model scores** (top 3 by recommendation score):
 • Qwen3.8-Flash (no Credits charged) — 87/100 (intelligence 66.3 · usage unlimited)
@@ -123,7 +123,7 @@ Updated 2026-10-19
 
 ⏰ **Free Until**: No deadline announced
 
-⚡ **Rate Limits**: Limited-time promotions: AI Gateway's "Limited time" section currently lists 24 free or discounted models, with promotional pricing applied automatically at request time. The $0 entries include reflection/beam-free (Beam 1.0, 501B, ~1M context), convaiinnovations/laya-free, poolside/laguna-s-2.1-free, stealth/glyph-cluster and tako-search. Laya's promotional pricing is officially stated to end 2026-10-31; the rest are labelled only "limited time" with no shared end date, so this entry is filed as wording-typed and each model's own deadline is authoritative. These are gateway-side $0 rates, not a general API key.
+⚡ **Rate Limits**: Limited-time promotions: AI Gateway currently lists 6 $0 entries - minimax/minimax-m3.1-flash (added 2026-10-19, free through 2026-10-22 per the official changelog, and only when MiniMax serves the request), reflection/beam-free, nvidia/nemotron-3.5-lightning-free, stealth/glyph-cluster, convaiinnovations/laya (promotional pricing through 2026-10-31) and convaiinnovations/laya-free - plus several discounted promos on the same page. The remaining free entries are labelled only "limited time" with no shared end date, so this entry is filed as wording-typed and each model page is authoritative for its own deadline. These are gateway-side $0 rates, not a general API key.
 
 🤖 **Model scores** (top 3 by recommendation score):
 • reflection/beam-free — 80/100 (intelligence 50.5 · usage unlimited)
