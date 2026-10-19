@@ -132,13 +132,14 @@ Updated 2026-10-19
 
 ⏰ **Free Until**: Ongoing
 
-⚡ **Rate Limits**: Free variants (IDs ending in :free) are capped per minute and per day, with limits that depend on lifetime credits purchased.
+⚡ **Rate Limits**: Models carrying the `:free` suffix are billed at $0, and the platform maintains a dedicated free-models collection (ranked by real usage over the trailing 7 days; currently includes nvidia/nemotron-3-ultra-550b-a55b:free, nvidia/nemotron-3.5-lightning:free and poolside/laguna-s-2.1:free). Free models are capped by per-minute and per-day free request limits that scale with the account's cumulative credit purchases. `openrouter/free` routes a request to a suitable free model automatically.
 
 🤖 **Recommended Free Models** (1~3):
-• Model 1: nvidia/nemotron-3.5-super-vl:free (multimodal and long context)
-• Model 2: xingchen-agi/xing4.0-29b-a4b:free (Chinese and tool calling)
+• Model 1: nvidia/nemotron-3-ultra-550b-a55b:free (1M context, top of the weekly usage list)
+• Model 2: nvidia/nemotron-3.5-lightning:free (lightweight MoE, high throughput)
+• Model 3: poolside/laguna-s-2.1:free (coding agent model)
 
-🔗 **Get Started**: [OpenRouter sign-up](https://openrouter.ai/sign-up)
+🔗 **Get Started**: [OpenRouter](https://openrouter.ai/collections/free-models)
 
 ---
 

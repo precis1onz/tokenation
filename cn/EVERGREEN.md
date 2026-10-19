@@ -132,13 +132,14 @@
 
 ⏰ **免费有效日期**：长期有效
 
-⚡ **频控限制**：带 :free 后缀的模型受平台每分钟与每天免费请求上限约束，具体数值随账号累计充值额变化。
+⚡ **频控限制**：带 `:free` 后缀的模型按 $0 计费，平台提供专门的免费模型集合页（按近 7 天实际用量排名，当前含 nvidia/nemotron-3-ultra-550b-a55b:free、nvidia/nemotron-3.5-lightning:free、poolside/laguna-s-2.1:free 等）。免费模型受每分钟与每天免费请求上限约束，具体数值随账号累计充值额变化。也可用 `openrouter/free` 由平台自动路由到合适的免费模型。
 
 🤖 **推荐免费模型**（1~3个）：
-• 模型1：nvidia/nemotron-3.5-super-vl:free（多模态与长上下文）
-• 模型2：xingchen-agi/xing4.0-29b-a4b:free（中文与工具调用）
+• 模型1：nvidia/nemotron-3-ultra-550b-a55b:free（1M 上下文，周用量榜第一）
+• 模型2：nvidia/nemotron-3.5-lightning:free（轻量 MoE，高吞吐）
+• 模型3：poolside/laguna-s-2.1:free（编码代理模型）
 
-🔗 **获取/注册链接**：[OpenRouter sign-up](https://openrouter.ai/sign-up)
+🔗 **获取/注册链接**：[OpenRouter](https://openrouter.ai/collections/free-models)
 
 ---
 

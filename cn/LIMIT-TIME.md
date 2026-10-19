@@ -37,7 +37,22 @@
 
 ---
 
-3. **OpenCode Go**
+3. **Ollama**
+
+🏷️ **活动/类型**：限时活动
+
+⏰ **免费有效日期**：未公布截止日
+
+⚡ **频控限制**：限时免费：Reflection 的首个开源权重模型 Beam（约 501B 总参数 / 23B 激活的 MoE，1M token 上下文窗口，Apache 2.0）在 Ollama 上「free for a limited time only / 限时免费」，官方博客 2026-10-16 发布，未公布截止日。通过 Ollama Cloud 调用（`ollama run beam:cloud`，也可用 `ollama launch claude --model beam:cloud` 接入编码代理），官方称该端点零数据保留（ZDR）。额度为 Ollama Cloud 产品内额度，不是通用 API Key。
+
+🤖 **推荐免费模型**（1~3个）：
+• 模型1：beam:cloud（Reflection Beam，501B MoE / 23B 激活，1M 上下文）
+
+🔗 **获取/注册链接**：[Ollama](https://ollama.com/download)
+
+---
+
+4. **OpenCode Go**
 
 🏷️ **活动/类型**：限时活动
 
@@ -54,7 +69,7 @@
 
 ---
 
-4. **OpenCode Zen**
+5. **OpenCode Zen**
 
 🏷️ **活动/类型**：限时活动
 
@@ -71,7 +86,7 @@
 
 ---
 
-5. **Qoder**
+6. **Qoder**
 
 🏷️ **活动/类型**：限时活动
 
@@ -86,18 +101,20 @@
 
 ---
 
-6. **Vercel AI Gateway**
+7. **Vercel AI Gateway**
 
 🏷️ **活动/类型**：限时活动
 
 ⏰ **免费有效日期**：未公布截止日
 
-⚡ **频控限制**：限时免费：Reflection Beam 1.0（501B）以 reflection/beam-free 提供，输入输出均 $0，约 1M 上下文；官方标「for a limited time」，未公布截止日。
+⚡ **频控限制**：限时推广：AI Gateway 的「Limited time」促销区当前列出 24 个免费/折扣模型，促销价在请求时自动生效。免费（$0）条目包括 reflection/beam-free（Beam 1.0，501B，约 1M 上下文）、convaiinnovations/laya-free、poolside/laguna-s-2.1-free、stealth/glyph-cluster、tako-search。其中 Laya 的促销价官方标注 2026-10-31 结束；其余条目官方只标「limited time」，未公布统一截止日，故本条目按措辞型收录，各模型的单独截止日以官方模型页为准。额度为网关侧 $0 计费，不是通用 API Key。
 
 🤖 **推荐免费模型**（1~3个）：
-• 模型1：reflection/beam-free（约 1M 上下文）
+• 模型1：convaiinnovations/laya-free（Laya，促销价至 2026-10-31）
+• 模型2：poolside/laguna-s-2.1-free（Laguna S 2.1，编码代理模型）
+• 模型3：reflection/beam-free（Beam 1.0，501B，约 1M 上下文）
 
-🔗 **获取/注册链接**：[Vercel AI Gateway](https://vercel.com/ai-gateway/models)
+🔗 **获取/注册链接**：[Vercel AI Gateway](https://vercel.com/ai-gateway)
 
 ---
 

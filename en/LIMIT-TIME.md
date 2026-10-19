@@ -37,7 +37,22 @@ Updated 2026-10-19
 
 ---
 
-3. **OpenCode Go**
+3. **Ollama**
+
+🏷️ **Type**: Limited-time promotion
+
+⏰ **Free Until**: No deadline announced
+
+⚡ **Rate Limits**: Free for a limited time: Reflection's first open-weight model, Beam (~501B total / 23B active MoE parameters, 1M-token context, Apache 2.0), is available on Ollama free for a limited time — announced on the official blog 2026-10-16 with no end date published. Access is through Ollama Cloud (`ollama run beam:cloud`, or `ollama launch claude --model beam:cloud` to wire it into a coding agent); Ollama states the endpoint runs with full zero data retention (ZDR). This is an Ollama Cloud in-product quota, not a general API key.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: beam:cloud (Reflection Beam, 501B MoE / 23B active, 1M context)
+
+🔗 **Get Started**: [Ollama](https://ollama.com/download)
+
+---
+
+4. **OpenCode Go**
 
 🏷️ **Type**: Limited-time promotion
 
@@ -54,7 +69,7 @@ Updated 2026-10-19
 
 ---
 
-4. **OpenCode Zen**
+5. **OpenCode Zen**
 
 🏷️ **Type**: Limited-time promotion
 
@@ -71,7 +86,7 @@ Updated 2026-10-19
 
 ---
 
-5. **Qoder**
+6. **Qoder**
 
 🏷️ **Type**: Limited-time promotion
 
@@ -86,18 +101,20 @@ Updated 2026-10-19
 
 ---
 
-6. **Vercel AI Gateway**
+7. **Vercel AI Gateway**
 
 🏷️ **Type**: Limited-time promotion
 
 ⏰ **Free Until**: No deadline announced
 
-⚡ **Rate Limits**: Limited time: Reflection Beam 1.0 (501B) is free as reflection/beam-free, $0 input and output, about 1M context. Official wording is "for a limited time" with no published end date.
+⚡ **Rate Limits**: Limited-time promotions: AI Gateway's "Limited time" section currently lists 24 free or discounted models, with promotional pricing applied automatically at request time. The $0 entries include reflection/beam-free (Beam 1.0, 501B, ~1M context), convaiinnovations/laya-free, poolside/laguna-s-2.1-free, stealth/glyph-cluster and tako-search. Laya's promotional pricing is officially stated to end 2026-10-31; the rest are labelled only "limited time" with no shared end date, so this entry is filed as wording-typed and each model's own deadline is authoritative. These are gateway-side $0 rates, not a general API key.
 
 🤖 **Recommended Free Models** (1~3):
-• Model 1: reflection/beam-free (~1M context)
+• Model 1: convaiinnovations/laya-free (Laya, promotional pricing ends 2026-10-31)
+• Model 2: poolside/laguna-s-2.1-free (Laguna S 2.1, coding agent model)
+• Model 3: reflection/beam-free (Beam 1.0, 501B, ~1M context)
 
-🔗 **Get Started**: [Vercel AI Gateway](https://vercel.com/ai-gateway/models)
+🔗 **Get Started**: [Vercel AI Gateway](https://vercel.com/ai-gateway)
 
 ---
 
