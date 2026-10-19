@@ -37,7 +37,23 @@ Updated 2026-10-19
 
 ---
 
-3. **Ollama**
+3. **AiHubMix**
+
+🏷️ **Type**: Limited-time promotion
+
+⏰ **Free Until**: No deadline announced
+
+⚡ **Rate Limits**: Free models on a relay/aggregator: the platform states Qwen3.8 Flash and Max are free to call "as part of GMI Cloud's promotional campaign", lasting "30 days from launch or until the campaign credits are exhausted, whichever comes first" — so there is no single calendar deadline that applies to every user. The same page also publishes per-model discount windows (e.g. deepseek-v4.1-flash-1017). Calls go through the platform's own key, not a vendor-direct quota.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: qwen3.8-flash-free (GMI Cloud subsidy, $0 billed, 1M context)
+• Model 2: qwen3.8-max-free (GMI Cloud subsidy, $0 billed, text/image/video input)
+
+🔗 **Get Started**: [AiHubMix](https://aihubmix.com/models)
+
+---
+
+4. **Ollama**
 
 🏷️ **Type**: Limited-time promotion
 
@@ -52,7 +68,7 @@ Updated 2026-10-19
 
 ---
 
-4. **OpenCode Go**
+5. **OpenCode Go**
 
 🏷️ **Type**: Limited-time promotion
 
@@ -69,7 +85,7 @@ Updated 2026-10-19
 
 ---
 
-5. **OpenCode Zen**
+6. **OpenCode Zen**
 
 🏷️ **Type**: Limited-time promotion
 
@@ -86,7 +102,7 @@ Updated 2026-10-19
 
 ---
 
-6. **Qoder**
+7. **Qoder**
 
 🏷️ **Type**: Limited-time promotion
 
@@ -101,7 +117,7 @@ Updated 2026-10-19
 
 ---
 
-7. **Vercel AI Gateway**
+8. **Vercel AI Gateway**
 
 🏷️ **Type**: Limited-time promotion
 

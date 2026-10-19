@@ -4,7 +4,22 @@ Updated 2026-10-19
 
 ---
 
-1. **Cloudflare Workers AI**
+1. **302.AI**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: New-account credit on a relay/aggregator: the official FAQ states that every registered user who binds an invite code receives a USD 1 trial credit usable across all platform features. The credit is deducted at platform rates and works with any model. No expiry is published (it is not tied to a calendar date), so what remains depends on each account. Credit is on the platform's own key, not a vendor-direct quota.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: Platform-wide credit (The sign-up trial credit covers calls to any model on the platform)
+
+🔗 **Get Started**: [302.AI](https://302.ai/)
+
+---
+
+2. **Cloudflare Workers AI**
 
 🏷️ **Type**: Free tier
 
@@ -19,7 +34,7 @@ Updated 2026-10-19
 
 ---
 
-2. **Cohere Trial API**
+3. **Cohere Trial API**
 
 🏷️ **Type**: Free tier
 
@@ -34,7 +49,7 @@ Updated 2026-10-19
 
 ---
 
-3. **Gemini CLI**
+4. **Gemini CLI**
 
 🏷️ **Type**: Free tier
 
@@ -49,7 +64,7 @@ Updated 2026-10-19
 
 ---
 
-4. **GitHub Copilot Free**
+5. **GitHub Copilot Free**
 
 🏷️ **Type**: Free tier
 
@@ -64,7 +79,7 @@ Updated 2026-10-19
 
 ---
 
-5. **Google Gemini API**
+6. **Google Gemini API**
 
 🏷️ **Type**: Free tier
 
@@ -80,7 +95,7 @@ Updated 2026-10-19
 
 ---
 
-6. **GroqCloud**
+7. **GroqCloud**
 
 🏷️ **Type**: Free tier
 
@@ -96,7 +111,22 @@ Updated 2026-10-19
 
 ---
 
-7. **Mistral AI Studio**
+8. **Jiekou.AI**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: New-account credit on a relay/aggregator: the official announcement (2025-09-29) states a sign-up trial credit with no threshold to start, plus invite and top-up rebate programmes. Neither the amount nor an expiry is published — what lands in the account is authoritative, and how much remains depends on each account. The platform describes pay-as-you-go balance as never expiring. Credit is on the platform's own key, not a vendor-direct quota.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: Platform-wide credit (The sign-up trial credit covers calls to any model on the platform)
+
+🔗 **Get Started**: [Jiekou.AI](https://jiekou.ai/)
+
+---
+
+9. **Mistral AI Studio**
 
 🏷️ **Type**: Free tier
 
@@ -111,7 +141,7 @@ Updated 2026-10-19
 
 ---
 
-8. **Novita AI**
+10. **Novita AI**
 
 🏷️ **Type**: Free tier
 
@@ -126,7 +156,7 @@ Updated 2026-10-19
 
 ---
 
-9. **OpenRouter**
+11. **OpenRouter**
 
 🏷️ **Type**: Free tier
 
@@ -143,7 +173,7 @@ Updated 2026-10-19
 
 ---
 
-10. **SiliconFlow**
+12. **SiliconFlow**
 
 🏷️ **Type**: Free tier
 
@@ -158,7 +188,7 @@ Updated 2026-10-19
 
 ---
 
-11. **Together AI**
+13. **Together AI**
 
 🏷️ **Type**: Free tier
 
@@ -173,7 +203,7 @@ Updated 2026-10-19
 
 ---
 
-12. **WorkBuddy (Tencent)**
+14. **WorkBuddy (Tencent)**
 
 🏷️ **Type**: Free tier
 
@@ -188,7 +218,7 @@ Updated 2026-10-19
 
 ---
 
-13. **Zhipu AI (BigModel)**
+15. **Zhipu AI (BigModel)**
 
 🏷️ **Type**: Free tier
 
@@ -204,7 +234,7 @@ Updated 2026-10-19
 
 ---
 
-14. **Cerebras Inference**
+16. **Cerebras Inference**
 
 🏷️ **Type**: New-account credit
 
