@@ -27,11 +27,11 @@ Updated 2026-10-19
 
 ⏰ **Free Until**: 2026-10-31 (over 7 days left)
 
-⚡ **Rate Limits**: Limited time: DeepSeek V4.1 Flash (1017) free through 2026-10-31; Step 5 Preview free Oct 12-25; Hunyuan Hy3 and Hy4 preview (night) both extended to 2026-10-31. No credits charged during the promo, rate-limited with automatic reset.Scoring basis: the promo publishes no standalone quota, so the usage leg uses the 25M tokens/day fallback at half weight.
+⚡ **Rate Limits**: Limited time: DeepSeek V4.1 Flash (1017) free through 2026-10-31; Step 5 Preview free Oct 12-25; Hunyuan Hy3 and Hy4 preview (night) both extended to 2026-10-31. No credits are charged during the promo, so it counts as unmetered usage; rate-limited with automatic reset.
 
 🤖 **Model scores** (top 3 by recommendation score):
-• deepseek-v4.1-flash-1017 (free through Oct 31) — 55/100 (intelligence 75.2 · usage ≈312 req/day)
-• step-5-preview (exclusive free Oct 12-25) — 54/100 (intelligence 72.8 · usage ≈312 req/day)
+• deepseek-v4.1-flash-1017 (promo: no credits charged) — 90/100 (intelligence 75.2 · usage unlimited)
+• step-5-preview (promo: no credits charged) — 89/100 (intelligence 72.8 · usage unlimited)
 
 🔗 **Get Started**: [WorkBuddy](https://www.workbuddy.ai/)
 
