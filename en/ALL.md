@@ -1,98 +1,169 @@
-Updated 2026-10-18
+Updated 2026-10-19
 
-🎁 **Live Free LLM API & Deals TOP 50** (2026.10.18)
+🎁 **Live Free LLM API & Deals TOP 50** (2026.10.19)
 
 ---
 
-1. **Google Gemini API**
+1. **Cloudflare Workers AI**
 
 🏷️ **Type**: Free tier
 
 ⏰ **Free Until**: Ongoing
 
-⚡ **Rate Limits**: RPM, TPM and RPD vary by model and project; check AI Studio, no fixed limits guaranteed.
-
-🤖 **Recommended Free Models** (1~3):
-• Model 1: gemini-3.5-flash-lite (high-frequency light tasks)
-• Model 2: gemini-3.8-flash (long tasks and code)
-
-🔗 **Get Started**: [AI Studio API Key](https://aistudio.google.com/apikey)
-
----
-
-2. **GroqCloud**
-
-🏷️ **Type**: Free tier
-
-⏰ **Free Until**: Ongoing
-
-⚡ **Rate Limits**: Per model; GPT OSS 120B/20B and Qwen3.8-27B get 30 RPM, 1,000 RPD, 8K TPM, 200K TPD; see console Limits.
-
-🤖 **Recommended Free Models** (1~3):
-• Model 1: openai/gpt-oss-120b (general reasoning)
-• Model 2: openai/gpt-oss-20b (light and fast)
-• Model 3: qwen/qwen3.8-27b (Chinese and general tasks)
-
-🔗 **Get Started**: [Groq API Keys](https://console.groq.com/keys)
-
----
-
-3. **Cerebras Inference**
-
-🏷️ **Type**: New-account credit
-
-⏰ **Free Until**: 30 days from activation or grant (remaining time varies by account) (remaining time varies by account)
-
-⚡ **Rate Limits**: Free trial models get 5 RPM, 30K uncached TPM, 90K total TPM, 1M TPH, 1M TPD; a verified payment method is required for the $5 credit.
-
-🤖 **Recommended Free Models** (1~3):
-• Model 1: gpt-oss-120b (general reasoning)
-• Model 2: qwen-3.8-27b (Chinese and general tasks)
-
-🔗 **Get Started**: [Cerebras Cloud](https://cloud.cerebras.ai/)
-
----
-
-4. **Cloudflare Workers AI**
-
-🏷️ **Type**: Free tier
-
-⏰ **Free Until**: Ongoing
-
-⚡ **Rate Limits**: 10,000 free Neurons per day, reset at 00:00 UTC; text generation defaults to 300 RPM, some models need a paid plan.
+⚡ **Rate Limits**: Workers Free includes 10,000 Neurons per day, reset at 00:00 UTC. Upgrade to Workers Paid after that.
 
 🤖 **Recommended Free Models** (1~3):
 • Model 1: @cf/google/gemma-4-26b-a4b-it (multimodal and reasoning)
-• Model 2: @cf/qwen/qwen2.5-coder-32b-instruct (code generation)
 
 🔗 **Get Started**: [Cloudflare Workers AI](https://dash.cloudflare.com/)
 
 ---
 
-5. **Cohere Trial API**
+2. **GitHub Copilot Free**
 
 🏷️ **Type**: Free tier
 
 ⏰ **Free Until**: Ongoing
 
-⚡ **Rate Limits**: Trial keys allow 1,000 API calls per month and 20 calls per minute on Command A, R+, R and R7B.
+⚡ **Rate Limits**: Copilot Free includes 2,000 completions per month and auto model selection only, for individuals without org access.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: Auto (automatic model selection) (auto selection only on free)
+
+🔗 **Get Started**: [Copilot plans](https://github.com/copilot)
+
+---
+
+3. **GroqCloud**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: On the free plan, gpt-oss-120b and qwen3.8-27b each get 30 RPM, 1,000 RPD, 8K TPM, 200K TPD.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: openai/gpt-oss-120b (30 RPM, 1,000 RPD)
+• Model 2: qwen/qwen3.8-27b (30 RPM, 1,000 RPD)
+
+🔗 **Get Started**: [Groq API Keys](https://console.groq.com/keys)
+
+---
+
+4. **SiliconFlow**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: Free models have fixed limits that do not change with spend tier. Chat models range from 1,000-10,000 RPM and 50K-5M TPM.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: Qwen/Qwen2-7B-Instruct (free model)
+
+🔗 **Get Started**: [SiliconFlow console](https://cloud.siliconflow.com/)
+
+---
+
+5. **Zhipu AI (BigModel)**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: Flash series models are listed as free, with 128K-200K context. Concurrency and RPM are documented per model.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: glm-4.7-flash (free text model, 200K context)
+• Model 2: glm-4.6v-flash (free visual reasoning)
+
+🔗 **Get Started**: [BigModel console](https://open.bigmodel.cn/)
+
+---
+
+6. **Gemini CLI**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: Sign in with a personal Google account for free use. Quota is request-based and not published as an API RPM.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: gemini-4-flash (free quota in the CLI)
+
+🔗 **Get Started**: [Gemini CLI](https://github.com/google-gemini/gemini-cli)
+
+---
+
+7. **Mistral AI Studio**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: The free plan includes Studio access with limited chat, search and image generation. No unified RPM/RPD published.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: mistral-small-latest (general chat)
+
+🔗 **Get Started**: [Mistral Studio](https://console.mistral.ai/)
+
+---
+
+8. **OpenCode Zen**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: Fifteen catalog models marked free (-free in the ID) are free for a limited time. No RPM/RPD published.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: deepseek-v4.1-flash-free (limited-time free model)
+• Model 2: glm-5.3-flash-free (limited-time free model)
+
+🔗 **Get Started**: [OpenCode Zen](https://opencode.ai/docs/zen/)
+
+---
+
+9. **Cohere Trial API**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: Trial key calls are free and rate limited, not for production or commercial use. Switch to a production key to scale.
 
 🤖 **Recommended Free Models** (1~3):
 • Model 1: command-a-03-2025 (general generation)
-• Model 2: command-r7b-12-2024 (light chat)
-• Model 3: embed-v4.0 (text embeddings)
 
 🔗 **Get Started**: [Cohere API Keys](https://dashboard.cohere.com/api-keys)
 
 ---
 
-6. **OpenRouter**
+10. **Novita AI**
 
 🏷️ **Type**: Free tier
 
 ⏰ **Free Until**: Ongoing
 
-⚡ **Rate Limits**: Free plans allow 50 requests per day; free models also carry model-level and anti-abuse limits.
+⚡ **Rate Limits**: Some models are marked free on the pricing page. Others bill per token. Free-model limits appear on each model page.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: apodex-1.1-mini (listed as Free)
+
+🔗 **Get Started**: [Novita AI](https://novita.ai/pricing)
+
+---
+
+11. **OpenRouter**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: Free variants (IDs ending in :free) are capped per minute and per day, with limits that depend on lifetime credits purchased.
 
 🤖 **Recommended Free Models** (1~3):
 • Model 1: nvidia/nemotron-3.5-super-vl:free (multimodal and long context)
@@ -102,67 +173,64 @@ Updated 2026-10-18
 
 ---
 
-7. **Alibaba Cloud Model Studio**
+12. **WorkBuddy (Tencent)**
+
+🏷️ **Type**: Free tier
+
+⏰ **Free Until**: Ongoing
+
+⚡ **Rate Limits**: The free plan grants 100 credits per month, plus 250 sign-up credits valid for 14 days. Free users get auto model selection only.
+
+🤖 **Recommended Free Models** (1~3):
+• Model 1: Auto (automatic model routing) (no single model ID on the free plan)
+
+🔗 **Get Started**: [WorkBuddy subscription](https://www.workbuddy.ai/docs/workbuddy/Subscription)
+
+---
+
+13. **Cerebras Inference**
 
 🏷️ **Type**: New-account credit
 
-⏰ **Free Until**: 90 days from activation or grant (remaining time varies by account) (remaining time depends on activation date)
+⏰ **Free Until**: 30 days from activation or grant (remaining time varies by account)
 
-⚡ **Rate Limits**: Each model gets its own quota, usually 1,000,000 combined input and output tokens; Beijing region and mainland China deployment only; overage may be billed.
+⚡ **Rate Limits**: New accounts get $5 in credits after adding a verified payment method, expiring in 30 days. Cerebras states there is no permanent free tier.
 
 🤖 **Recommended Free Models** (1~3):
-• Model 1: qwen-plus (general Chinese tasks)
-• Model 2: qwen3.6-plus (reasoning and long tasks)
-• Model 3: qwen-max (complex reasoning)
+• Model 1: full public model catalog (per-model limits across the public catalog)
 
-🔗 **Get Started**: [Model Studio console](https://bailian.console.aliyun.com/)
+🔗 **Get Started**: [Cerebras Cloud](https://cloud.cerebras.ai/)
 
 ---
 
-8. **SiliconFlow**
+14. **Google Gemini API**
 
 🏷️ **Type**: Free tier
 
 ⏰ **Free Until**: Ongoing
 
-⚡ **Rate Limits**: Free models carry fixed rate limits; see the official Models page for per-model values.
+⚡ **Rate Limits**: The free tier uses RPM, RPD and TPM limits from the AI Studio rate limit page, applied per project, with RPD reset at midnight Pacific time.
 
 🤖 **Recommended Free Models** (1~3):
-• Model 1: Qwen/Qwen2-7B-Instruct (Chinese instructions)
-• Model 2: THUDM/glm-4-9b-chat (Chinese chat)
-• Model 3: mistralai/Mistral-7B-Instruct-v0.2 (light multilingual)
+• Model 1: gemini-3.5-flash-lite (free tier input and output)
+• Model 2: gemini-3.8-flash (available on free tier)
 
-🔗 **Get Started**: [SiliconFlow console](https://cloud.siliconflow.com/)
+🔗 **Get Started**: [AI Studio API Key](https://aistudio.google.com/apikey)
 
 ---
 
-9. **Mistral AI Studio**
+15. **Together AI**
 
 🏷️ **Type**: Free tier
 
 ⏰ **Free Until**: Ongoing
 
-⚡ **Rate Limits**: Free mode has usage and rate limits shown on the account Limits page; no unified RPM/RPD/TPD published.
+⚡ **Rate Limits**: Some open models are marked Free on the pricing page while others bill per token. Free-model limits are shown on the model page.
 
 🤖 **Recommended Free Models** (1~3):
-• Model 1: mistral-small-latest (general chat)
+• Model 1: tev1-4b-experimental (listed as Free)
 
-🔗 **Get Started**: [Mistral Studio](https://console.mistral.ai/)
-
----
-
-10. **WorkBuddy (Tencent)**
-
-🏷️ **Type**: Free tier
-
-⏰ **Free Until**: Ongoing
-
-⚡ **Rate Limits**: Free personal plan grants 100 credits per month; free users cannot pin a single model, routing is automatic.
-
-🤖 **Recommended Free Models** (1~3):
-• Model 1: Auto 模型调度 (routed by task complexity; no single model ID)
-
-🔗 **Get Started**: [WorkBuddy subscription docs](https://www.workbuddy.ai/docs/workbuddy/Subscription)
+🔗 **Get Started**: [Together AI](https://www.together.ai/pricing)
 
 ---
 
