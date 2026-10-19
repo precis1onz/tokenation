@@ -1,4 +1,4 @@
-![updated](https://img.shields.io/badge/updated-2026--10--19-blue) ![offers](https://img.shields.io/badge/offers-24-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success)
+![updated](https://img.shields.io/badge/updated-2026--10--19-blue) ![offers](https://img.shields.io/badge/offers-21-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success)
 
 # Tokenation
 
