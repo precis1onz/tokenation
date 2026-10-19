@@ -1,6 +1,6 @@
 Updated 2026-10-19
 
-🎁 **Live Free LLM API & Deals TOP 50** (2026.10.19)
+🎁 **Live Free LLM API** (2026.10.19)
 
 ---
 
