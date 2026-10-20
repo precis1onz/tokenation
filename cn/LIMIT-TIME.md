@@ -1,4 +1,4 @@
-各平台限时免费活动，按推荐指数从高到低排列
+各平台限时免费活动，按推荐指数从高到低排列，口径见首页
 
 （更新至 2026-10-19）
 
@@ -10,7 +10,7 @@
 | **OpenCode Go** | `minimax-m3.1-flash-free` | MiniMax 多模态模型 | LongCat/Beam/MiniMax 三款限免 | 未公布截止日 | **88.27** | [→](https://opencode.ai/docs/go/) |
 | **OpenCode Zen** | `minimax-m3.1-flash-free` | MiniMax 多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **88.27** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `glm-5.3-flash-free` | 智谱原生多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
-| **Qoder** | `Qwen3.8-Flash` | 阿里通义多模态推理模型 | Qwen3.8-Flash 限免；每日领 100 Credits | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Qoder** | `Qwen3.8-Flash` | 阿里通义多模态推理模型 | Qwen3.8-Flash 限免，每日领 100 Credits | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **OpenCode Zen** | `mimo-v2.6-flash-free` | 小米开源基础模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **85.27** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Go** | `beam-free` | Reflection 开源推理模型 Beam 1.0 | LongCat/Beam/MiniMax 三款限免 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
 | **OpenCode Zen** | `beam-free` | Reflection 开源推理模型 Beam 1.0 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/zen/) |
