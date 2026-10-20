@@ -1,6 +1,8 @@
 ![updated](https://img.shields.io/badge/updated-2026--10--20-blue) ![offers](https://img.shields.io/badge/offers-14-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
 
-# Tokenation
+<a id="top"></a>**中文读者**：[直达中文部分](#cn) · [中文 Top 15](#top15-cn) · [中文评分说明](#score-cn)　|　**English**: [Top 15](#top15-en) · [How the score works](#score-en)
+
+# Tokenation <a id="en"></a>
 
 Tokenation collects free LLM API offers and checks every entry against the provider's own pages. Offers are split into two kinds:
 
@@ -10,7 +12,7 @@ Each row records the provider, the model ID, a one-line overview, the free quota
 **Limited-time offers**: announced by the provider as free for a limited time, either with a fixed end date \
 or with no published deadline (the entry says so). Offers whose announced deadline has already passed are removed.
 
-## Top 15 by Tokenation score
+## Top 15 by Tokenation score <a id="top15-en"></a>
 
 The 15 best deals on the site right now, ranked by the Tokenation score.
 
@@ -34,7 +36,7 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 
 Top 15 of 43 scored model rows. Scoring rule below. Full lists below.
 
-## How the score works
+## How the score works <a id="score-en"></a>
 
 Every offer here carries one number from 0 to 100, so an offer you have never touched can be compared against one you already pay for. Free API tiers change every week, and signing up to test each one costs a weekend, so the score compresses that decision into a single number. It measures how much usable inference you get for free right now. It is not a ranking of model quality.
 
@@ -48,9 +50,11 @@ Every offer here carries one number from 0 to 100, so an offer you have never to
 - [English: Evergreen free tiers](en/EVERGREEN.md)
 - [English: Limited-time offers](en/LIMIT-TIME.md)
 
+[↑ Back to top](#top) · [Chinese version](#cn)
+
 ---
 
-# Tokenation（中文）
+# Tokenation（中文） <a id="cn"></a>
 
 Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实。条目分两类：
 
@@ -60,7 +64,7 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 **限时免费（Limit-time）**，官方明示的限时免费 offer，含两类：写明固定截止日的，以及只写「限时」\
 未公布截止日的（会在日期字段注明）。已过公布截止日的条目一律移除。
 
-## 推荐指数榜 · Top 15
+## 推荐指数榜 · Top 15 <a id="top15-cn"></a>
 
 本站此刻最值的 15 单，按推荐指数从高到低。
 
@@ -84,7 +88,7 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 
 上表从 43 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
 
-## 评分怎么看
+## 评分怎么看 <a id="score-cn"></a>
 
 本站每个条目都带一个 0 到 100 的分数，让你能拿一个没试过的免费额度，和一个已经在用的放在一起比。免费额度每周都在变，逐个注册去试要花掉一个周末，这个分数把这件事压缩成一个数字。它量的是此刻免费能拿到多少可用推理，不是模型强弱排名。
 
@@ -97,3 +101,5 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 - [中文：限时免费](cn/LIMIT-TIME.md)
 - [英文：常态免费](en/EVERGREEN.md)
 - [英文：限时免费](en/LIMIT-TIME.md)
+
+[↑ 回到顶部](#top) · [English version](#en)
