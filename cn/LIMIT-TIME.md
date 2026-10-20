@@ -4,24 +4,7 @@
 
 ---
 
-1. **AutoClaw（智谱）**
-
-🏷️ **活动/类型**：限时活动
-
-⏰ **免费有效日期**：2026-10-25（剩余 6 天）
-
-⚡ **频控限制**：限时登录送额度：桌面 Agent 客户端 AutoClaw 在活动期内登录即领。国际站 Official 公告：10/19（UTC+8）登录领 3,000 credits（30M tokens），10/20–10/25 每日登录领 500 credits（5M tokens），当日额度当日 24:00（UTC+8）清零，须当天用掉。中文站同期另有活动：10.15–10.21 任意一天登录领 2 亿 Tokens（20,000 积分，每账号限领一次，领取后 7 天内有效）；10.15–10.25 每日登录领 500 积分，付费会员 800 积分。额度为 AutoClaw 产品内 credits，只能在该客户端内使用，不是通用 API Key。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• GLM-5.3（每日 500 credits）— 推荐指数 66/100（智能 74.7 · 用量 62 次/天）
-• GLM-5.3-Flash（每日 500 credits）— 推荐指数 64/100（智能 69.7 · 用量 62 次/天）
-• GLM-5-Turbo（每日 500 credits）— 推荐指数 44/100（智能 19.0 · 用量 62 次/天）
-
-🔗 **获取/注册链接**：[AutoClaw](https://autoclaw.z.ai/)
-
----
-
-2. **WorkBuddy 国际版（腾讯）**
+1. **WorkBuddy 国际版（腾讯）**
 
 🏷️ **活动/类型**：限时活动
 
@@ -37,55 +20,7 @@
 
 ---
 
-3. **AiHubMix**
-
-🏷️ **活动/类型**：限时活动
-
-⏰ **免费有效日期**：未公布截止日
-
-⚡ **频控限制**：中转聚合平台上的免费模型：官方写明「通过 GMI Cloud 免费活动，Qwen3.8 Flash / Max 在 AIHubMix 限时免费开放调用。活动自上线之日起持续 30 天，或至活动额度用完为止，以先到者为准」。因为额度用完即止，官方没有给出对所有用户统一的日历截止日。同一页面还有按模型公布的限时折扣（如 deepseek-v4.1-flash-1017 标注促销窗口）。免费调用走平台自有 key，不是厂商直连额度。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• qwen3.8-max-free — 推荐指数 55/100（智能 75.7 · 用量 ≈312 次/天）
-• qwen3.8-flash-free — 推荐指数 33/100（智能 19.0 · 用量 ≈312 次/天）
-
-🔗 **获取/注册链接**：[AiHubMix](https://aihubmix.com/models)
-
----
-
-4. **Ollama**
-
-🏷️ **活动/类型**：限时活动
-
-⏰ **免费有效日期**：未公布截止日
-
-⚡ **频控限制**：限时免费：Reflection 的首个开源权重模型 Beam（约 501B 总参数 / 23B 激活的 MoE，1M token 上下文窗口，Apache 2.0）在 Ollama 上「free for a limited time only / 限时免费」，官方博客 2026-10-16 发布，未公布截止日。通过 Ollama Cloud 调用（`ollama run beam:cloud`，也可用 `ollama launch claude --model beam:cloud` 接入编码代理），官方称该端点零数据保留（ZDR）。额度为 Ollama Cloud 产品内额度，不是通用 API Key。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• beam:cloud — 推荐指数 45/100（智能 50.5 · 用量 ≈312 次/天）
-
-🔗 **获取/注册链接**：[Ollama](https://ollama.com/download)
-
----
-
-5. **OpenCode Go**
-
-🏷️ **活动/类型**：限时活动
-
-⏰ **免费有效日期**：未公布截止日
-
-⚡ **频控限制**：限时：Go 方案目录标「Limited time」——LongCat 2.5 Preview Free、Beam Free（另限地区）、MiniMax M3.1 Flash Free 三款按 $0 计费，Step 5 Preview 额度 4x；官方未公布截止日。额度为 Go 方案产品内计费，不是通用 API Key。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• minimax-m3.1-flash-free — 推荐指数 88/100（智能 70.7 · 用量 无限量）
-• beam-free — 推荐指数 80/100（智能 50.5 · 用量 无限量）
-• longcat-2.5-preview-free — 推荐指数 73/100（智能 31.8 · 用量 无限量）
-
-🔗 **获取/注册链接**：[OpenCode Go](https://opencode.ai/docs/go/)
-
----
-
-6. **OpenCode Zen**
+2. **OpenCode Zen**
 
 🏷️ **活动/类型**：限时活动
 
@@ -102,7 +37,24 @@
 
 ---
 
-7. **Qoder**
+3. **OpenCode Go**
+
+🏷️ **活动/类型**：限时活动
+
+⏰ **免费有效日期**：未公布截止日
+
+⚡ **频控限制**：限时：Go 方案目录标「Limited time」——LongCat 2.5 Preview Free、Beam Free（另限地区）、MiniMax M3.1 Flash Free 三款按 $0 计费，Step 5 Preview 额度 4x；官方未公布截止日。额度为 Go 方案产品内计费，不是通用 API Key。
+
+🤖 **模型评分**（按推荐指数降序，最多 3 个）：
+• minimax-m3.1-flash-free — 推荐指数 88/100（智能 70.7 · 用量 无限量）
+• beam-free — 推荐指数 80/100（智能 50.5 · 用量 无限量）
+• longcat-2.5-preview-free — 推荐指数 73/100（智能 31.8 · 用量 无限量）
+
+🔗 **获取/注册链接**：[OpenCode Go](https://opencode.ai/docs/go/)
+
+---
+
+4. **Qoder**
 
 🏷️ **活动/类型**：限时活动
 
@@ -117,7 +69,7 @@
 
 ---
 
-8. **Vercel AI Gateway**
+5. **Vercel AI Gateway**
 
 🏷️ **活动/类型**：限时活动
 
@@ -131,6 +83,54 @@
 • convaiinnovations/laya-free — 推荐指数 68/100（智能 19.0 · 用量 无限量）
 
 🔗 **获取/注册链接**：[Vercel AI Gateway](https://vercel.com/ai-gateway)
+
+---
+
+6. **AutoClaw（智谱）**
+
+🏷️ **活动/类型**：限时活动
+
+⏰ **免费有效日期**：2026-10-25（剩余 6 天）
+
+⚡ **频控限制**：限时登录送额度：桌面 Agent 客户端 AutoClaw 在活动期内登录即领。国际站 Official 公告：10/19（UTC+8）登录领 3,000 credits（30M tokens），10/20–10/25 每日登录领 500 credits（5M tokens），当日额度当日 24:00（UTC+8）清零，须当天用掉。中文站同期另有活动：10.15–10.21 任意一天登录领 2 亿 Tokens（20,000 积分，每账号限领一次，领取后 7 天内有效）；10.15–10.25 每日登录领 500 积分，付费会员 800 积分。额度为 AutoClaw 产品内 credits，只能在该客户端内使用，不是通用 API Key。
+
+🤖 **模型评分**（按推荐指数降序，最多 3 个）：
+• GLM-5.3（每日 500 credits）— 推荐指数 66/100（智能 74.7 · 用量 62 次/天）
+• GLM-5.3-Flash（每日 500 credits）— 推荐指数 64/100（智能 69.7 · 用量 62 次/天）
+• GLM-5-Turbo（每日 500 credits）— 推荐指数 44/100（智能 19.0 · 用量 62 次/天）
+
+🔗 **获取/注册链接**：[AutoClaw](https://autoclaw.z.ai/)
+
+---
+
+7. **AiHubMix**
+
+🏷️ **活动/类型**：限时活动
+
+⏰ **免费有效日期**：未公布截止日
+
+⚡ **频控限制**：中转聚合平台上的免费模型：官方写明「通过 GMI Cloud 免费活动，Qwen3.8 Flash / Max 在 AIHubMix 限时免费开放调用。活动自上线之日起持续 30 天，或至活动额度用完为止，以先到者为准」。因为额度用完即止，官方没有给出对所有用户统一的日历截止日。同一页面还有按模型公布的限时折扣（如 deepseek-v4.1-flash-1017 标注促销窗口）。免费调用走平台自有 key，不是厂商直连额度。
+
+🤖 **模型评分**（按推荐指数降序，最多 3 个）：
+• qwen3.8-max-free — 推荐指数 55/100（智能 75.7 · 用量 ≈312 次/天）
+• qwen3.8-flash-free — 推荐指数 33/100（智能 19.0 · 用量 ≈312 次/天）
+
+🔗 **获取/注册链接**：[AiHubMix](https://aihubmix.com/models)
+
+---
+
+8. **Ollama**
+
+🏷️ **活动/类型**：限时活动
+
+⏰ **免费有效日期**：未公布截止日
+
+⚡ **频控限制**：限时免费：Reflection 的首个开源权重模型 Beam（约 501B 总参数 / 23B 激活的 MoE，1M token 上下文窗口，Apache 2.0）在 Ollama 上「free for a limited time only / 限时免费」，官方博客 2026-10-16 发布，未公布截止日。通过 Ollama Cloud 调用（`ollama run beam:cloud`，也可用 `ollama launch claude --model beam:cloud` 接入编码代理），官方称该端点零数据保留（ZDR）。额度为 Ollama Cloud 产品内额度，不是通用 API Key。
+
+🤖 **模型评分**（按推荐指数降序，最多 3 个）：
+• beam:cloud — 推荐指数 45/100（智能 50.5 · 用量 ≈312 次/天）
+
+🔗 **获取/注册链接**：[Ollama](https://ollama.com/download)
 
 ---
 

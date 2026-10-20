@@ -16,8 +16,8 @@ Updated 2026-10-19.
 
 | Provider | Lead model | Free quota | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- |
-| **OpenCode Zen** | deepseek-v4.1-flash-free (and 8 more models; 5 more models unscored) | 14 free models at $0, in-app only | No deadline announced | **90/100** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy Intl (Tencent)** | deepseek-v4.1-flash-1017 (and 1 more model) | DeepSeek V4.1 Flash & more, no credit burn | 2026-10-31 (over 7 days left) | **90/100** | [→](https://www.workbuddy.ai/) |
+| **OpenCode Zen** | deepseek-v4.1-flash-free (and 8 more models; 5 more models unscored) | 14 free models at $0, in-app only | No deadline announced | **90/100** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Go** | step-5-preview (and 3 more models) | LongCat, Beam, MiniMax free | No deadline announced | **88/100** | [→](https://opencode.ai/docs/go/) |
 | **Qoder** | Qwen3.8-Flash | Qwen3.8-Flash free; 100 Credits daily | No deadline announced | **87/100** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **Vercel AI Gateway** | reflection/beam-free (and 1 more model; 4 more models unscored) | 6 free models at $0, plus discounts | No deadline announced | **80/100** | [→](https://vercel.com/ai-gateway) |
@@ -50,8 +50,8 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 
 | 平台 | 主打模型 | 免费额度 | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- |
-| **OpenCode Zen** | deepseek-v4.1-flash-free（及另外 8 个模型；另有 5 个模型未评分） | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **90/100** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy 国际版（腾讯）** | deepseek-v4.1-flash-1017（及另外 1 个模型） | DeepSeek V4.1 Flash 等限免，调用不扣积分 | 2026-10-31（剩余超7天） | **90/100** | [→](https://www.workbuddy.ai/) |
+| **OpenCode Zen** | deepseek-v4.1-flash-free（及另外 8 个模型；另有 5 个模型未评分） | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **90/100** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Go** | step-5-preview（及另外 3 个模型） | LongCat/Beam/MiniMax 三款限免 | 未公布截止日 | **88/100** | [→](https://opencode.ai/docs/go/) |
 | **Qoder** | Qwen3.8-Flash | Qwen3.8-Flash 限免；每日领 100 Credits | 未公布截止日 | **87/100** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **Vercel AI Gateway** | reflection/beam-free（及另外 1 个模型；另有 4 个模型未评分） | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **80/100** | [→](https://vercel.com/ai-gateway) |
