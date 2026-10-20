@@ -10,8 +10,6 @@ Each row records the provider, the model ID, a one-line overview, the free quota
 **Limited-time offers**: announced by the provider as free for a limited time, either with a fixed end date \
 or with no published deadline (the entry says so). Offers whose announced deadline has already passed are removed.
 
-Updated 2026-10-19.
-
 ## How the score works
 
 Every offer here carries one number from 0 to 100, so an offer you have never touched can be compared against one you already pay for. Free API tiers change every week, and signing up to test each one costs a weekend, so the score compresses that decision into a single number. It measures how much usable inference you get for free right now. It is not a ranking of model quality.
@@ -60,8 +58,6 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 
 **限时免费（Limit-time）**，官方明示的限时免费 offer，含两类：写明固定截止日的，以及只写「限时」\
 未公布截止日的（会在日期字段注明）。已过公布截止日的条目一律移除。
-
-更新至 2026-10-19。
 
 ## 评分怎么看
 
