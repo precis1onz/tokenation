@@ -1,4 +1,4 @@
-![updated](https://img.shields.io/badge/updated-2026--10--20-blue) ![offers](https://img.shields.io/badge/offers-21-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
+![updated](https://img.shields.io/badge/updated-2026--10--20-blue) ![offers](https://img.shields.io/badge/offers-17-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
 
 # Tokenation
 
@@ -28,11 +28,11 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 | **Google Gemini API** | Evergreen | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Free tier capped by RPM/RPD/TPM | Ongoing | **75.25** | [→](https://aistudio.google.com/apikey) |
 | **Vercel AI Gateway** | Limited-time | `nvidia/nemotron-3.5-lightning-free` | NVIDIA open MoE with 3B active of 30B parameters. | 6 free models at $0, plus discounts | No deadline announced | **68.60** | [→](https://vercel.com/ai-gateway) |
 | **GroqCloud** | Evergreen | `openai/gpt-oss-120b` | OpenAI open-weight 117B MoE for reasoning and agentic work. | 30 RPM, 1,000 RPD, 200K TPD | Ongoing | **67.73** | [→](https://console.groq.com/keys) |
-| **Vercel AI Gateway** | Limited-time | `convaiinnovations/laya-free` | Laya from Convai Innovations, free with no model card. | 6 free models at $0, plus discounts | No deadline announced | **67.60** | [→](https://vercel.com/ai-gateway) |
-| **Together AI** | Evergreen | `tev1-4b-experimental` | Experimental 4B model listed by Together AI, no model card. | Free for selected open models | Ongoing | **67.60** | [→](https://www.together.ai/pricing) |
+| **Vercel AI Gateway** | Limited-time | `poolside/laguna-s-2.1-free` | Latest coding-agent model from Poolside. | 6 free models at $0, plus discounts | No deadline announced | **67.60** | [→](https://vercel.com/ai-gateway) |
 | **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 30M tokens on Oct 19, then 5M/day | 2026-10-25 (in 5 days) | **65.92** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3-flash` | Native multimodal model from Z.ai. | 30M tokens on Oct 19, then 5M/day | 2026-10-25 (in 5 days) | **63.92** | [→](https://autoclaw.z.ai/) |
 
-Top 15 of 62 scored model rows. Scoring rule below. Full lists below.
+Top 15 of 55 scored model rows. Scoring rule below. Full lists below.
 
 ## How the score works
 
@@ -41,6 +41,7 @@ Every offer here carries one number from 0 to 100, so an offer you have never to
 - Intelligence, 40%: the model's Artificial Analysis index.
 - Free quota, 60%: how much you can actually run before you hit a wall.
 - Every score traces back to the provider's own page, rechecked daily.
+- Out of scope, so never scored: decision models that return typed answers instead of text, routing endpoints (an "auto" model selection), and models under 20B total parameters.
 
 - [Chinese: Evergreen free tiers](cn/EVERGREEN.md)
 - [Chinese: Limited-time offers](cn/LIMIT-TIME.md)
@@ -77,11 +78,11 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 | **Google Gemini API** | 常态 | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | 免费层按 RPM/RPD/TPM 限额 | 长期有效 | **75.25** | [→](https://aistudio.google.com/apikey) |
 | **Vercel AI Gateway** | 限时 | `nvidia/nemotron-3.5-lightning-free` | 英伟达开源 MoE，激活 3B、总参 30B | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **68.60** | [→](https://vercel.com/ai-gateway) |
 | **GroqCloud** | 常态 | `openai/gpt-oss-120b` | OpenAI 开源 117B MoE，面向推理与 Agent | 30 RPM、1,000 RPD、200K TPD | 长期有效 | **67.73** | [→](https://console.groq.com/keys) |
-| **Vercel AI Gateway** | 限时 | `convaiinnovations/laya-free` | Convai 的 Laya，免费上架但未公布说明 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
-| **Together AI** | 常态 | `tev1-4b-experimental` | Together 实验性 4B 模型，未公布模型说明 | 部分开源模型免费 | 长期有效 | **67.60** | [→](https://www.together.ai/pricing) |
+| **Vercel AI Gateway** | 限时 | `poolside/laguna-s-2.1-free` | Poolside 最新编码 Agent 模型 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
 | **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 10/19 领 30M tokens，其余每日 5M | 2026-10-25（剩余 5 天） | **65.92** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw（智谱）** | 限时 | `glm-5.3-flash` | 智谱原生多模态模型 | 10/19 领 30M tokens，其余每日 5M | 2026-10-25（剩余 5 天） | **63.92** | [→](https://autoclaw.z.ai/) |
 
-上表从 62 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
+上表从 55 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
 
 ## 评分怎么看
 
@@ -90,6 +91,7 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 - 智能占 40%：取模型在 Artificial Analysis 智能指数上的位置。
 - 免费额度占 60%：真跑起来撞墙之前能用多少。
 - 每个分数都能追回厂商自己的页面，每天重新核实一次。
+- 不参与评分：只返回类型化结果的决策模型、路由端点（auto 自动选模），以及总参数低于 20B 的模型。
 
 - [中文：常态免费](cn/EVERGREEN.md)
 - [中文：限时免费](cn/LIMIT-TIME.md)

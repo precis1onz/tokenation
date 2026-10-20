@@ -23,10 +23,8 @@ Updated 2026-10-20
 | **Vercel AI Gateway** | `nvidia/nemotron-3.5-lightning-free` | NVIDIA open MoE with 3B active of 30B parameters. | 6 free models at $0, plus discounts | No deadline announced | **68.60** | [→](https://vercel.com/ai-gateway) |
 | **OpenCode Zen** | `big-pickle` | Codename model on OpenCode Zen. No capability details published. | 14 free models at $0, in-app only | No deadline announced | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `exo-free` | Codename model on OpenCode Zen. No capability details published. | 14 free models at $0, in-app only | No deadline announced | **67.60** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Zen** | `jev-1.13-free` | TypeSafe System One model returning typed decisions, not free text. | 14 free models at $0, in-app only | No deadline announced | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `ll-alpha-free` | Codename model on OpenCode Zen. No capability details published. | 14 free models at $0, in-app only | No deadline announced | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `mimo-v2.5-free` | Native omnimodal model by Xiaomi. | 14 free models at $0, in-app only | No deadline announced | **67.60** | [→](https://opencode.ai/docs/zen/) |
-| **Vercel AI Gateway** | `convaiinnovations/laya-free` | Laya from Convai Innovations, free with no model card. | 6 free models at $0, plus discounts | No deadline announced | **67.60** | [→](https://vercel.com/ai-gateway) |
 | **Vercel AI Gateway** | `poolside/laguna-s-2.1-free` | Latest coding-agent model from Poolside. | 6 free models at $0, plus discounts | No deadline announced | **67.60** | [→](https://vercel.com/ai-gateway) |
 | **Vercel AI Gateway** | `stealth/cat-jam` | Anonymous stealth model. The gateway publishes no details. | 6 free models at $0, plus discounts | No deadline announced | **67.60** | [→](https://vercel.com/ai-gateway) |
 | **Vercel AI Gateway** | `stealth/glyph-cluster` | Anonymous stealth model. The gateway publishes no details. | 6 free models at $0, plus discounts | No deadline announced | **67.60** | [→](https://vercel.com/ai-gateway) |

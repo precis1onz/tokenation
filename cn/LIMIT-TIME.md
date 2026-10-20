@@ -23,10 +23,8 @@
 | **Vercel AI Gateway** | `nvidia/nemotron-3.5-lightning-free` | 英伟达开源 MoE，激活 3B、总参 30B | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **68.60** | [→](https://vercel.com/ai-gateway) |
 | **OpenCode Zen** | `big-pickle` | OpenCode Zen 上的代号模型，官方未公布能力说明 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `exo-free` | OpenCode Zen 上的代号模型，官方未公布能力说明 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Zen** | `jev-1.13-free` | TypeSafe 结构化决策模型，返回类型化结果而非文本 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `ll-alpha-free` | OpenCode Zen 上的代号模型，官方未公布能力说明 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `mimo-v2.5-free` | 小米原生全模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
-| **Vercel AI Gateway** | `convaiinnovations/laya-free` | Convai 的 Laya，免费上架但未公布说明 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
 | **Vercel AI Gateway** | `poolside/laguna-s-2.1-free` | Poolside 最新编码 Agent 模型 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
 | **Vercel AI Gateway** | `stealth/cat-jam` | 匿名测试模型，网关未公布任何说明 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
 | **Vercel AI Gateway** | `stealth/glyph-cluster` | 匿名测试模型，网关未公布任何说明 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
