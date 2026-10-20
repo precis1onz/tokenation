@@ -1,4 +1,4 @@
-![updated](https://img.shields.io/badge/updated-2026--10--19-blue) ![offers](https://img.shields.io/badge/offers-21-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
+![updated](https://img.shields.io/badge/updated-2026--10--20-blue) ![offers](https://img.shields.io/badge/offers-21-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
 
 # Tokenation
 
@@ -20,7 +20,7 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 | **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 14 free models at $0, in-app only | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy Intl (Tencent)** | Limited-time | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | DeepSeek V4.1 Flash etc., no credit burn | 2026-10-31 (over 7 days left) | **89.13** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Go** | Limited-time | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | LongCat, Beam, MiniMax free | No deadline announced | **88.27** | [→](https://opencode.ai/docs/go/) |
-| **OpenCode Zen** | Limited-time | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | 14 free models at $0, in-app only | No deadline announced | **88.27** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | Limited-time | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | 14 free models at $0, in-app only | 2026-10-22 (in 2 days) | **88.27** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | Limited-time | `glm-5.3-flash-free` | Native multimodal model from Z.ai. | 14 free models at $0, in-app only | No deadline announced | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | Limited-time | `qwen3.8-flash` | Multimodal reasoning model from Alibaba Qwen. | Qwen3.8-Flash free, 100 Credits daily | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **GroqCloud** | Evergreen | `qwen/qwen3.8-27b` | Open-weight dense vision-language model from Qwen. | 30 RPM, 1,000 RPD, 200K TPD | Ongoing | **82.47** | [→](https://console.groq.com/keys) |
@@ -69,7 +69,7 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 | **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy 国际版（腾讯）** | 限时 | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | DeepSeek V4.1 Flash 等限免，调用不扣积分 | 2026-10-31（剩余超7天） | **89.13** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Go** | 限时 | `minimax-m3.1-flash-free` | MiniMax 多模态模型 | LongCat/Beam/MiniMax 三款限免 | 未公布截止日 | **88.27** | [→](https://opencode.ai/docs/go/) |
-| **OpenCode Zen** | 限时 | `minimax-m3.1-flash-free` | MiniMax 多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **88.27** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | 限时 | `minimax-m3.1-flash-free` | MiniMax 多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 2026-10-22（剩余 2 天） | **88.27** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | 限时 | `glm-5.3-flash-free` | 智谱原生多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | 限时 | `qwen3.8-flash` | 阿里通义多模态推理模型 | Qwen3.8-Flash 限免，每日领 100 Credits | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **GroqCloud** | 常态 | `qwen/qwen3.8-27b` | 通义开源 27B 稠密视觉语言模型 | 30 RPM、1,000 RPD、200K TPD | 长期有效 | **82.47** | [→](https://console.groq.com/keys) |
