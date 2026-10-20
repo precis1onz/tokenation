@@ -4,10 +4,8 @@ Updated 2026-10-20
 
 | Provider | Model ID | Overview | Free quota | Score | Link |
 | --- | --- | --- | --- | --- | --- |
-| **GroqCloud** | `qwen/qwen3.8-27b` | Open-weight dense vision-language model from Qwen. | 30 RPM, 1,000 RPD, 200K TPD | **82.47** | [→](https://console.groq.com/keys) |
 | **Novita AI** | `apodex-1.1-mini` | Listed by Novita without a published model card. | Some models free, rest billed per token | **77.60** | [→](https://novita.ai/pricing) |
 | **Google Gemini API** | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Free tier capped by RPM/RPD/TPM | **75.25** | [→](https://aistudio.google.com/apikey) |
-| **GroqCloud** | `openai/gpt-oss-120b` | OpenAI open-weight 117B MoE for reasoning and agentic work. | 30 RPM, 1,000 RPD, 200K TPD | **67.73** | [→](https://console.groq.com/keys) |
 | **Google Gemini API** | `gemini-3.5-flash-lite` | High-efficiency Google model with upgraded agentic capabilities. | Free tier capped by RPM/RPD/TPM | **62.79** | [→](https://aistudio.google.com/apikey) |
 | **OpenRouter** | `minimax/minimax-m3.1-flash:free` | Multimodal model from MiniMax. | :free models at $0, caps rise with spend | **62.41** | [→](https://openrouter.ai/collections/free-models) |
 | **Gemini CLI** | `gemini-4-flash` | Gemini 4 Flash in the CLI free tier. No separate model card published. | Free with Google login, request-metered | **60.03** | [→](https://github.com/google-gemini/gemini-cli) |
@@ -24,7 +22,9 @@ Updated 2026-10-20
 | **OpenRouter** | `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free` | NVIDIA 30B-A3B open multimodal model. | :free models at $0, caps rise with spend | **41.01** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `cohere/north-mini-code:free` | Cohere's first agentic coding model, debut of the North family. | :free models at $0, caps rise with spend | **40.75** | [→](https://openrouter.ai/collections/free-models) |
 | **Cloudflare Workers AI** | `@cf/google/gemma-4-26b-a4b-it` | Instruction-tuned MoE model from Google DeepMind. | 10,000 Neurons/day (UTC reset) | **36.09** | [→](https://dash.cloudflare.com/) |
+| **GroqCloud** | `qwen/qwen3.8-27b` | Open-weight dense vision-language model from Qwen. | 30 RPM, 1,000 RPD, 200K TPD | **33.35** | [→](https://console.groq.com/keys) |
 | **Zhipu AI (BigModel)** | `glm-4.6v-flash` | Multimodal model for visual understanding and long-context reasoning. | Flash models free, 128K-200K context | **32.56** | [→](https://open.bigmodel.cn/) |
 | **Zhipu AI (BigModel)** | `glm-4.7-flash` | 30B-class Z.ai model balancing performance and efficiency. | Flash models free, 128K-200K context | **32.56** | [→](https://open.bigmodel.cn/) |
 | **Mistral AI Studio** | `mistral-small-latest` | Mistral Small 4, the latest small model from Mistral. | Limited free quota, no published RPM | **32.49** | [→](https://console.mistral.ai/) |
 | **Cohere Trial API** | `command-a-03-2025` | Cohere's top model for tool use, RAG and multilingual, 256K context. | Free trial key, no commercial use | **31.11** | [→](https://dashboard.cohere.com/api-keys) |
+| **GroqCloud** | `openai/gpt-oss-120b` | OpenAI open-weight 117B MoE for reasoning and agentic work. | 30 RPM, 1,000 RPD, 200K TPD | **18.61** | [→](https://console.groq.com/keys) |

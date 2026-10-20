@@ -22,15 +22,15 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 | **OpenCode Zen** | Limited-time | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | 14 free models at $0, in-app only | 2026-10-22 (in 2 days) | **88.27** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | Limited-time | `glm-5.3-flash-free` | Native multimodal model from Z.ai. | 14 free models at $0, in-app only | No deadline announced | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | Limited-time | `qwen3.8-flash` | Multimodal reasoning model from Alibaba Qwen. | Qwen3.8-Flash free, 100 Credits daily | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
-| **GroqCloud** | Evergreen | `qwen/qwen3.8-27b` | Open-weight dense vision-language model from Qwen. | 30 RPM, 1,000 RPD, 200K TPD | Ongoing | **82.47** | [→](https://console.groq.com/keys) |
 | **Vercel AI Gateway** | Limited-time | `reflection/beam-free` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | 6 free models at $0, plus discounts | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
 | **Novita AI** | Evergreen | `apodex-1.1-mini` | Listed by Novita without a published model card. | Some models free, rest billed per token | Ongoing | **77.60** | [→](https://novita.ai/pricing) |
 | **Google Gemini API** | Evergreen | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Free tier capped by RPM/RPD/TPM | Ongoing | **75.25** | [→](https://aistudio.google.com/apikey) |
 | **Vercel AI Gateway** | Limited-time | `nvidia/nemotron-3.5-lightning-free` | NVIDIA open MoE with 3B active of 30B parameters. | 6 free models at $0, plus discounts | No deadline announced | **68.60** | [→](https://vercel.com/ai-gateway) |
-| **GroqCloud** | Evergreen | `openai/gpt-oss-120b` | OpenAI open-weight 117B MoE for reasoning and agentic work. | 30 RPM, 1,000 RPD, 200K TPD | Ongoing | **67.73** | [→](https://console.groq.com/keys) |
 | **Vercel AI Gateway** | Limited-time | `poolside/laguna-s-2.1-free` | Latest coding-agent model from Poolside. | 6 free models at $0, plus discounts | No deadline announced | **67.60** | [→](https://vercel.com/ai-gateway) |
 | **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 30M tokens on Oct 19, then 5M/day | 2026-10-25 (in 5 days) | **65.92** | [→](https://autoclaw.z.ai/) |
 | **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3-flash` | Native multimodal model from Z.ai. | 30M tokens on Oct 19, then 5M/day | 2026-10-25 (in 5 days) | **63.92** | [→](https://autoclaw.z.ai/) |
+| **Google Gemini API** | Evergreen | `gemini-3.5-flash-lite` | High-efficiency Google model with upgraded agentic capabilities. | Free tier capped by RPM/RPD/TPM | Ongoing | **62.79** | [→](https://aistudio.google.com/apikey) |
+| **OpenRouter** | Evergreen | `minimax/minimax-m3.1-flash:free` | Multimodal model from MiniMax. | :free models at $0, caps rise with spend | Ongoing | **62.41** | [→](https://openrouter.ai/collections/free-models) |
 
 Top 15 of 55 scored model rows. Scoring rule below. Full lists below.
 
@@ -72,15 +72,15 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 | **OpenCode Zen** | 限时 | `minimax-m3.1-flash-free` | MiniMax 多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 2026-10-22（剩余 2 天） | **88.27** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | 限时 | `glm-5.3-flash-free` | 智谱原生多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | 限时 | `qwen3.8-flash` | 阿里通义多模态推理模型 | Qwen3.8-Flash 限免，每日领 100 Credits | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
-| **GroqCloud** | 常态 | `qwen/qwen3.8-27b` | 通义开源 27B 稠密视觉语言模型 | 30 RPM、1,000 RPD、200K TPD | 长期有效 | **82.47** | [→](https://console.groq.com/keys) |
 | **Vercel AI Gateway** | 限时 | `reflection/beam-free` | Reflection 开源推理模型 Beam 1.0 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
 | **Novita AI** | 常态 | `apodex-1.1-mini` | Novita 上架，但未公布模型说明 | 部分模型免费，其余按 Token 计 | 长期有效 | **77.60** | [→](https://novita.ai/pricing) |
 | **Google Gemini API** | 常态 | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | 免费层按 RPM/RPD/TPM 限额 | 长期有效 | **75.25** | [→](https://aistudio.google.com/apikey) |
 | **Vercel AI Gateway** | 限时 | `nvidia/nemotron-3.5-lightning-free` | 英伟达开源 MoE，激活 3B、总参 30B | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **68.60** | [→](https://vercel.com/ai-gateway) |
-| **GroqCloud** | 常态 | `openai/gpt-oss-120b` | OpenAI 开源 117B MoE，面向推理与 Agent | 30 RPM、1,000 RPD、200K TPD | 长期有效 | **67.73** | [→](https://console.groq.com/keys) |
 | **Vercel AI Gateway** | 限时 | `poolside/laguna-s-2.1-free` | Poolside 最新编码 Agent 模型 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
 | **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 10/19 领 30M tokens，其余每日 5M | 2026-10-25（剩余 5 天） | **65.92** | [→](https://autoclaw.z.ai/) |
 | **AutoClaw（智谱）** | 限时 | `glm-5.3-flash` | 智谱原生多模态模型 | 10/19 领 30M tokens，其余每日 5M | 2026-10-25（剩余 5 天） | **63.92** | [→](https://autoclaw.z.ai/) |
+| **Google Gemini API** | 常态 | `gemini-3.5-flash-lite` | 谷歌高性价比模型，强化 Agent 能力 | 免费层按 RPM/RPD/TPM 限额 | 长期有效 | **62.79** | [→](https://aistudio.google.com/apikey) |
+| **OpenRouter** | 常态 | `minimax/minimax-m3.1-flash:free` | MiniMax 多模态模型 | :free 模型 $0，限额随充值额变化 | 长期有效 | **62.41** | [→](https://openrouter.ai/collections/free-models) |
 
 上表从 55 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
 
