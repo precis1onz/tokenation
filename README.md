@@ -22,7 +22,7 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 | **OpenCode Go** | Limited-time | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | LongCat, Beam, MiniMax free | No deadline announced | **88.27** | [→](https://opencode.ai/docs/go/) |
 | **OpenCode Zen** | Limited-time | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | 14 free models at $0, in-app only | No deadline announced | **88.27** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | Limited-time | `glm-5.3-flash-free` | Native multimodal model from Z.ai. | 14 free models at $0, in-app only | No deadline announced | **87.87** | [→](https://opencode.ai/docs/zen/) |
-| **Qoder** | Limited-time | `Qwen3.8-Flash` | Multimodal reasoning model from Alibaba Qwen. | Qwen3.8-Flash free, 100 Credits daily | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Qoder** | Limited-time | `qwen3.8-flash` | Multimodal reasoning model from Alibaba Qwen. | Qwen3.8-Flash free, 100 Credits daily | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **GroqCloud** | Evergreen | `qwen/qwen3.8-27b` | Open-weight dense vision-language model from Qwen. | 30 RPM, 1,000 RPD, 200K TPD | Ongoing | **82.47** | [→](https://console.groq.com/keys) |
 | **OpenCode Go** | Limited-time | `beam-free` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | LongCat, Beam, MiniMax free | No deadline announced | **80.20** | [→](https://opencode.ai/docs/go/) |
 | **Vercel AI Gateway** | Limited-time | `reflection/beam-free` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | 6 free models at $0, plus discounts | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
@@ -71,7 +71,7 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 | **OpenCode Go** | 限时 | `minimax-m3.1-flash-free` | MiniMax 多模态模型 | LongCat/Beam/MiniMax 三款限免 | 未公布截止日 | **88.27** | [→](https://opencode.ai/docs/go/) |
 | **OpenCode Zen** | 限时 | `minimax-m3.1-flash-free` | MiniMax 多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **88.27** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | 限时 | `glm-5.3-flash-free` | 智谱原生多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
-| **Qoder** | 限时 | `Qwen3.8-Flash` | 阿里通义多模态推理模型 | Qwen3.8-Flash 限免，每日领 100 Credits | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Qoder** | 限时 | `qwen3.8-flash` | 阿里通义多模态推理模型 | Qwen3.8-Flash 限免，每日领 100 Credits | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **GroqCloud** | 常态 | `qwen/qwen3.8-27b` | 通义开源 27B 稠密视觉语言模型 | 30 RPM、1,000 RPD、200K TPD | 长期有效 | **82.47** | [→](https://console.groq.com/keys) |
 | **OpenCode Go** | 限时 | `beam-free` | Reflection 开源推理模型 Beam 1.0 | LongCat/Beam/MiniMax 三款限免 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
 | **Vercel AI Gateway** | 限时 | `reflection/beam-free` | Reflection 开源推理模型 Beam 1.0 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
