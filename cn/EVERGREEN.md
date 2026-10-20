@@ -1,206 +1,35 @@
+各平台常态免费额度，按推荐指数从高到低排列
+
 （更新至 2026-10-19）
 
-🎁 **最新有效免费 LLM API**（2026.10.19）
-
----
-
-1. **GroqCloud**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：免费方案下 gpt-oss-120b 与 qwen3.8-27b 均为 30 RPM、1,000 RPD、8K TPM、200K TPD。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• qwen/qwen3.8-27b — 推荐指数 82/100（智能 56.2 · 用量 1,000 次/天）
-• openai/gpt-oss-120b — 推荐指数 68/100（智能 19.3 · 用量 1,000 次/天）
-
-🔗 **获取/注册链接**：[Groq API Keys](https://console.groq.com/keys)
-
----
-
-2. **Novita AI**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：定价页对部分模型标注免费，其余按 Tokens 计费，免费模型限流以模型详情页为准。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• apodex-1.1-mini — 推荐指数 78/100（智能 44.0 · 用量 无限量）
-
-🔗 **获取/注册链接**：[Novita AI](https://novita.ai/pricing)
-
----
-
-3. **Google Gemini API**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：免费层按 RPM、RPD、TPM 限额，数值见 AI Studio Rate Limit 页面，按项目计算，RPD 于太平洋时间午夜重置。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• gemini-3.8-flash — 推荐指数 75/100（智能 68.2 · 用量 250 次/天）
-• gemini-3.5-flash-lite — 推荐指数 63/100（智能 37.0 · 用量 250 次/天）
-
-🔗 **获取/注册链接**：[AI Studio API Key](https://aistudio.google.com/apikey)
-
----
-
-4. **Together AI**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：定价页对部分开源模型标注 Free，其余按 Token 计费，免费模型的限流按模型页显示。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• tev1-4b-experimental — 推荐指数 68/100（智能 19.0 · 用量 无限量）
-
-🔗 **获取/注册链接**：[Together AI](https://www.together.ai/pricing)
-
----
-
-5. **OpenRouter**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：带 `:free` 后缀的模型按 $0 计费，平台提供专门的免费模型集合页（按近 7 天实际用量排名，当前含 nvidia/nemotron-3-ultra-550b-a55b:free、nvidia/nemotron-3.5-lightning:free、poolside/laguna-s-2.1:free 等）。免费模型受每分钟与每天免费请求上限约束，具体数值随账号累计充值额变化。也可用 `openrouter/free` 由平台自动路由到合适的免费模型。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• minimax/minimax-m3.1-flash:free（50 RPD（未充值））— 推荐指数 62/100（智能 70.7 · 用量 50 次/天）
-• nvidia/nemotron-3.5-super-vl:free（50 RPD（未充值））— 推荐指数 52/100（智能 44.2 · 用量 50 次/天）
-• thinkingmachines/inkling-small:free（50 RPD（未充值））— 推荐指数 51/100（智能 42.8 · 用量 50 次/天）
-
-🔗 **获取/注册链接**：[OpenRouter](https://openrouter.ai/collections/free-models)
-
----
-
-6. **Gemini CLI**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：用个人 Google 账号登录可免费使用，额度按请求数计时，官方未公布与 API Key 等价的 RPM 数值。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• gemini-4-flash — 推荐指数 60/100（智能 87.7 · 用量 ≈312 次/天）
-
-🔗 **获取/注册链接**：[Gemini CLI](https://github.com/google-gemini/gemini-cli)
-
----
-
-7. **GitHub Copilot Free**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：Free 方案每月 2,000 次代码补全，模型只能自动选择；仅限无组织授权的个人开发者。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• Auto (automatic model selection) — 推荐指数 44/100（智能 19.0 · 用量 67 次/天）
-
-🔗 **获取/注册链接**：[Copilot plans](https://github.com/copilot)
-
----
-
-8. **Cloudflare Workers AI**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：Workers Free 方案每天 10,000 Neurons，UTC 00:00 重置，用尽后需升级 Workers Paid。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• @cf/google/gemma-4-26b-a4b-it — 推荐指数 36/100（智能 27.8 · 用量 ≈312 次/天）
-
-🔗 **获取/注册链接**：[Cloudflare Workers AI](https://dash.cloudflare.com/)
-
----
-
-9. **WorkBuddy（腾讯）**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：Free 方案每月 100 Credits，新用户注册再送 250 Credits（14 天有效），Free 用户只能用 Auto 调度。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• Auto (automatic model routing) — 推荐指数 33/100（智能 19.0 · 用量 ≈312 次/天）
-
-🔗 **获取/注册链接**：[WorkBuddy subscription](https://www.workbuddy.ai/docs/workbuddy/Subscription)
-
----
-
-10. **Zhipu AI（智谱）**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：Flash 系列模型官方标注免费，上下文 128K-200K，具体并发与 RPM 见各模型文档。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• glm-4.6v-flash — 推荐指数 33/100（智能 19.0 · 用量 ≈312 次/天）
-• glm-4.7-flash — 推荐指数 33/100（智能 19.0 · 用量 ≈312 次/天）
-
-🔗 **获取/注册链接**：[BigModel console](https://open.bigmodel.cn/)
-
----
-
-11. **Mistral AI Studio**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：Free 方案可使用 Studio 与限定的聊天、搜索、生图额度，官方未公布统一 RPM/RPD。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• mistral-small-latest — 推荐指数 32/100（智能 18.8 · 用量 ≈312 次/天）
-
-🔗 **获取/注册链接**：[Mistral Studio](https://console.mistral.ai/)
-
----
-
-12. **Cohere Trial API**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：Trial key 调用免费但有限流，不可用于生产或商业用途；到期后需切换 Production key 按量计费。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• command-a-03-2025 — 推荐指数 31/100（智能 11.7 · 用量 20 次/天）
-
-🔗 **获取/注册链接**：[Cohere API Keys](https://dashboard.cohere.com/api-keys)
-
----
-
-13. **SiliconFlow（硅基流动）**
-
-🏷️ **活动/类型**：常态免费Tier
-
-⏰ **免费有效日期**：长期有效
-
-⚡ **频控限制**：免费模型限流固定，不随充值档位变化；语言模型整体 RPM 范围 1000-10000、TPM 50000-5000000。
-
-🤖 **模型评分**（按推荐指数降序，最多 3 个）：
-• Qwen/Qwen2-7B-Instruct — 推荐指数 31/100（智能 19.0 · 用量 ≈225 次/天）
-
-🔗 **获取/注册链接**：[SiliconFlow console](https://cloud.siliconflow.com/)
-
----
-
+| 平台 | 模型 ID | 介绍 | 免费额度 | 推荐指数 | 链接 |
+| --- | --- | --- | --- | --- | --- |
+| **GroqCloud** | `qwen/qwen3.8-27b` | 通义开源 27B 稠密视觉语言模型 | 30 RPM、1,000 RPD、200K TPD | **82.47** | [→](https://console.groq.com/keys) |
+| **Novita AI** | `apodex-1.1-mini` | Novita 上架，但未公布模型说明 | 部分模型免费，其余按 Token 计 | **77.60** | [→](https://novita.ai/pricing) |
+| **Google Gemini API** | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | 免费层按 RPM/RPD/TPM 限额 | **75.25** | [→](https://aistudio.google.com/apikey) |
+| **GroqCloud** | `openai/gpt-oss-120b` | OpenAI 开源 117B MoE，面向推理与 Agent | 30 RPM、1,000 RPD、200K TPD | **67.73** | [→](https://console.groq.com/keys) |
+| **Together AI** | `tev1-4b-experimental` | Together 实验性 4B 模型，未公布模型说明 | 部分开源模型免费 | **67.60** | [→](https://www.together.ai/pricing) |
+| **Google Gemini API** | `gemini-3.5-flash-lite` | 谷歌高性价比模型，强化 Agent 能力 | 免费层按 RPM/RPD/TPM 限额 | **62.79** | [→](https://aistudio.google.com/apikey) |
+| **OpenRouter** | `minimax/minimax-m3.1-flash:free` | MiniMax 多模态模型 | :free 模型 $0，限额随充值额变化 | **62.41** | [→](https://openrouter.ai/collections/free-models) |
+| **Gemini CLI** | `gemini-4-flash` | Gemini 4 Flash，CLI 免费档，未公布模型卡 | 个人账号登录免费，按请求计 | **60.03** | [→](https://github.com/google-gemini/gemini-cli) |
+| **OpenRouter** | `nvidia/nemotron-3.5-super-vl:free` | 英伟达开源多模态 MoE，激活 12B、总参 120B | :free 模型 $0，限额随充值额变化 | **51.81** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `thinkingmachines/inkling-small:free` | 开源多模态 MoE，激活 12B、总参 276B | :free 模型 $0，限额随充值额变化 | **51.28** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `thinkingmachines/inkling:free` | 开源多模态 MoE，激活 41B | :free 模型 $0，限额随充值额变化 | **50.81** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `nvidia/nemotron-3-ultra-550b-a55b:free` | 英伟达开源前沿推理与编排模型，激活 55B | :free 模型 $0，限额随充值额变化 | **49.41** | [→](https://openrouter.ai/collections/free-models) |
+| **GitHub Copilot Free** | `Auto (automatic model selection)` | 不指定固定模型，产品按请求自动选择 | 每月 2,000 次补全 | **44.21** | [→](https://github.com/copilot) |
+| **OpenRouter** | `nvidia/nemotron-3.5-lightning:free` | 英伟达开源 MoE，激活 3B、总参 30B | :free 模型 $0，限额随充值额变化 | **42.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `inception/mercury-decide:free` | Mercury 扩散模型变体，未公布说明 | :free 模型 $0，限额随充值额变化 | **42.35** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `dots-studio/dots-3-note-preview:free` | Dots Studio 开源权重 MoE，激活 16B | :free 模型 $0，限额随充值额变化 | **41.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `liquid/lfm-2.5-2.6b:free` | Liquid AI 轻量推理模型 | :free 模型 $0，限额随充值额变化 | **41.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `nvidia/nemotron-3-super-120b-a12b:free` | 英伟达 120B 混合 MoE，激活 12B | :free 模型 $0，限额随充值额变化 | **41.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `poolside/laguna-s-2.1:free` | Poolside 最新编码 Agent 模型 | :free 模型 $0，限额随充值额变化 | **41.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `poolside/laguna-xs-2.1:free` | Poolside 33B-A3B 轻量编码 Agent 模型 | :free 模型 $0，限额随充值额变化 | **41.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `nvidia/nemotron-3-nano-omni-30b-a3b-reasoning:free` | 英伟达 30B-A3B 开源多模态模型 | :free 模型 $0，限额随充值额变化 | **41.01** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `cohere/north-mini-code:free` | Cohere 首个 Agent 编码模型 | :free 模型 $0，限额随充值额变化 | **40.75** | [→](https://openrouter.ai/collections/free-models) |
+| **Cloudflare Workers AI** | `@cf/google/gemma-4-26b-a4b-it` | 谷歌 DeepMind 指令微调 MoE 模型 | 每天 10,000 Neurons（UTC 重置） | **36.09** | [→](https://dash.cloudflare.com/) |
+| **WorkBuddy（腾讯）** | `Auto (automatic model routing)` | 不指定固定模型，产品按请求自动选择 | 每月 100 Credits，新用户 +250 | **32.56** | [→](https://www.workbuddy.ai/docs/workbuddy/Subscription) |
+| **Zhipu AI（智谱）** | `glm-4.6v-flash` | 智谱多模态模型，强于视觉理解与长上下文推理 | Flash 系列免费，上下文 128K-200K | **32.56** | [→](https://open.bigmodel.cn/) |
+| **Zhipu AI（智谱）** | `glm-4.7-flash` | 智谱 30B 级模型，兼顾性能与成本 | Flash 系列免费，上下文 128K-200K | **32.56** | [→](https://open.bigmodel.cn/) |
+| **Mistral AI Studio** | `mistral-small-latest` | Mistral Small 4，最新一代小型模型 | Free 方案限定额度，未公布统一 RPM | **32.49** | [→](https://console.mistral.ai/) |
+| **SiliconFlow（硅基流动）** | `Qwen/Qwen2-7B-Instruct` | 开源权重 7B 指令微调 Qwen2 模型 | 免费模型固定限流，1,000-10,000 RPM | **31.14** | [→](https://cloud.siliconflow.com/) |
+| **Cohere Trial API** | `command-a-03-2025` | Cohere 旗舰，长于工具调用与多语言 | Trial key 免费，有限流，禁商用 | **31.11** | [→](https://dashboard.cohere.com/api-keys) |

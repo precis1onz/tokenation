@@ -16,14 +16,14 @@ Updated 2026-10-19.
 
 | Provider | Lead model | Free quota | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- |
-| **WorkBuddy Intl (Tencent)** | deepseek-v4.1-flash-1017 (and 1 more model) | DeepSeek V4.1 Flash & more, no credit burn | 2026-10-31 (over 7 days left) | **90/100** | [→](https://www.workbuddy.ai/) |
-| **OpenCode Zen** | deepseek-v4.1-flash-free (and 8 more models; 5 more models unscored) | 14 free models at $0, in-app only | No deadline announced | **90/100** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Go** | step-5-preview (and 3 more models) | LongCat, Beam, MiniMax free | No deadline announced | **88/100** | [→](https://opencode.ai/docs/go/) |
-| **Qoder** | Qwen3.8-Flash | Qwen3.8-Flash free; 100 Credits daily | No deadline announced | **87/100** | [→](https://docs.qoder.com/zh/events/flashoffer) |
-| **Vercel AI Gateway** | reflection/beam-free (and 1 more model; 4 more models unscored) | 6 free models at $0, plus discounts | No deadline announced | **80/100** | [→](https://vercel.com/ai-gateway) |
-| **AutoClaw (Z.ai / Zhipu)** | GLM-5.3 (and 1 more model; 1 more model unscored) | 30M tokens on Oct 19, then 5M/day | 2026-10-25 (in 6 days) | **66/100** | [→](https://autoclaw.z.ai/) |
-| **AiHubMix** | qwen3.8-max-free (1 more model unscored) | Qwen3.8 Flash/Max free | No deadline announced | **55/100** | [→](https://aihubmix.com/models) |
-| **Ollama** | beam:cloud | Beam free for a limited time (1M ctx) | No deadline announced | **45/100** | [→](https://ollama.com/download) |
+| **WorkBuddy Intl (Tencent)** | deepseek-v4.1-flash-1017 (and 1 more model) | DeepSeek V4.1 Flash & more, no credit burn | 2026-10-31 (over 7 days left) | **90.07** | [→](https://www.workbuddy.ai/) |
+| **OpenCode Zen** | deepseek-v4.1-flash-free (and 8 more models; 5 more models unscored) | 14 free models at $0, in-app only | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Go** | step-5-preview (and 3 more models) | LongCat, Beam, MiniMax free | No deadline announced | **88.27** | [→](https://opencode.ai/docs/go/) |
+| **Qoder** | Qwen3.8-Flash | Qwen3.8-Flash free; 100 Credits daily | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Vercel AI Gateway** | reflection/beam-free (and 1 more model; 4 more models unscored) | 6 free models at $0, plus discounts | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
+| **AutoClaw (Z.ai / Zhipu)** | GLM-5.3 (and 1 more model; 1 more model unscored) | 30M tokens on Oct 19, then 5M/day | 2026-10-25 (in 6 days) | **65.92** | [→](https://autoclaw.z.ai/) |
+| **AiHubMix** | qwen3.8-max-free (1 more model unscored) | Qwen3.8 Flash/Max free | No deadline announced | **55.23** | [→](https://aihubmix.com/models) |
+| **Ollama** | beam:cloud | Beam free for a limited time (1M ctx) | No deadline announced | **45.16** | [→](https://ollama.com/download) |
 
 8 limited-time offers — sorted by recommendation score; full entries below.
 
@@ -50,14 +50,14 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 
 | 平台 | 主打模型 | 免费额度 | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- |
-| **WorkBuddy 国际版（腾讯）** | deepseek-v4.1-flash-1017（及另外 1 个模型） | DeepSeek V4.1 Flash 等限免，调用不扣积分 | 2026-10-31（剩余超7天） | **90/100** | [→](https://www.workbuddy.ai/) |
-| **OpenCode Zen** | deepseek-v4.1-flash-free（及另外 8 个模型；另有 5 个模型未评分） | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **90/100** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Go** | step-5-preview（及另外 3 个模型） | LongCat/Beam/MiniMax 三款限免 | 未公布截止日 | **88/100** | [→](https://opencode.ai/docs/go/) |
-| **Qoder** | Qwen3.8-Flash | Qwen3.8-Flash 限免；每日领 100 Credits | 未公布截止日 | **87/100** | [→](https://docs.qoder.com/zh/events/flashoffer) |
-| **Vercel AI Gateway** | reflection/beam-free（及另外 1 个模型；另有 4 个模型未评分） | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **80/100** | [→](https://vercel.com/ai-gateway) |
-| **AutoClaw（智谱）** | GLM-5.3（及另外 1 个模型；另有 1 个模型未评分） | 10/19 领 30M tokens，其余每日 5M | 2026-10-25（剩余 6 天） | **66/100** | [→](https://autoclaw.z.ai/) |
-| **AiHubMix** | qwen3.8-max-free（另有 1 个模型未评分） | Qwen3.8 Flash/Max 免费调用 | 未公布截止日 | **55/100** | [→](https://aihubmix.com/models) |
-| **Ollama** | beam:cloud | Beam 限时免费（1M 上下文） | 未公布截止日 | **45/100** | [→](https://ollama.com/download) |
+| **WorkBuddy 国际版（腾讯）** | deepseek-v4.1-flash-1017（及另外 1 个模型） | DeepSeek V4.1 Flash 等限免，调用不扣积分 | 2026-10-31（剩余超7天） | **90.07** | [→](https://www.workbuddy.ai/) |
+| **OpenCode Zen** | deepseek-v4.1-flash-free（及另外 8 个模型；另有 5 个模型未评分） | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Go** | step-5-preview（及另外 3 个模型） | LongCat/Beam/MiniMax 三款限免 | 未公布截止日 | **88.27** | [→](https://opencode.ai/docs/go/) |
+| **Qoder** | Qwen3.8-Flash | Qwen3.8-Flash 限免；每日领 100 Credits | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Vercel AI Gateway** | reflection/beam-free（及另外 1 个模型；另有 4 个模型未评分） | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
+| **AutoClaw（智谱）** | GLM-5.3（及另外 1 个模型；另有 1 个模型未评分） | 10/19 领 30M tokens，其余每日 5M | 2026-10-25（剩余 6 天） | **65.92** | [→](https://autoclaw.z.ai/) |
+| **AiHubMix** | qwen3.8-max-free（另有 1 个模型未评分） | Qwen3.8 Flash/Max 免费调用 | 未公布截止日 | **55.23** | [→](https://aihubmix.com/models) |
+| **Ollama** | beam:cloud | Beam 限时免费（1M 上下文） | 未公布截止日 | **45.16** | [→](https://ollama.com/download) |
 
 限时 8 条；按推荐指数降序，完整条目见下方限时清单。
 
