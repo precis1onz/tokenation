@@ -7,8 +7,8 @@ Updated 2026-10-20
 | **WorkBuddy Intl (Tencent)** | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | DeepSeek V4.1 Flash etc., no credit burn | 2026-10-31 (over 7 days left) | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 14 free models at $0, in-app only | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy Intl (Tencent)** | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | DeepSeek V4.1 Flash etc., no credit burn | 2026-10-31 (over 7 days left) | **89.13** | [→](https://www.workbuddy.ai/) |
-| **OpenCode Zen** | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | 14 free models at $0, in-app only | 2026-10-22 (in 2 days) | **88.27** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Go** | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | LongCat, Beam, MiniMax free | No deadline announced | **88.27** | [→](https://opencode.ai/docs/go/) |
+| **OpenCode Zen** | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | 14 free models at $0, in-app only | 2026-10-22 (in 2 days) | **88.47** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Go** | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | LongCat, Beam, MiniMax free | No deadline announced | **88.47** | [→](https://opencode.ai/docs/go/) |
 | **OpenCode Zen** | `glm-5.3-flash-free` | Native multimodal model from Z.ai. | 14 free models at $0, in-app only | No deadline announced | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | `qwen3.8-flash` | Multimodal reasoning model from Alibaba Qwen. | Qwen3.8-Flash free, 100 Credits daily | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **OpenCode Zen** | `mimo-v2.6-flash-free` | Open-source foundation model from Xiaomi. | 14 free models at $0, in-app only | No deadline announced | **85.27** | [→](https://opencode.ai/docs/zen/) |
@@ -17,10 +17,6 @@ Updated 2026-10-20
 | **Vercel AI Gateway** | `reflection/beam-free` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | 6 free models at $0, plus discounts | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
 | **OpenCode Zen** | `nemotron-3.5-super-vl-free` | NVIDIA open multimodal MoE, 12B active of 120B. | 14 free models at $0, in-app only | No deadline announced | **77.67** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `nemotron-3-ultra-free` | Open frontier-reasoning and orchestration model from NVIDIA, 55B active. | 14 free models at $0, in-app only | No deadline announced | **75.27** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Go** | `longcat-2.5-preview-free` | Meituan LongCat 2.5 preview. No card published for this version. | LongCat, Beam, MiniMax free | No deadline announced | **72.73** | [→](https://opencode.ai/docs/go/) |
-| **OpenCode Zen** | `longcat-2.5-preview-free` | Meituan LongCat 2.5 preview. No card published for this version. | 14 free models at $0, in-app only | No deadline announced | **72.73** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Zen** | `nemotron-3.5-lightning-free` | NVIDIA open MoE with 3B active of 30B parameters. | 14 free models at $0, in-app only | No deadline announced | **68.60** | [→](https://opencode.ai/docs/zen/) |
-| **Vercel AI Gateway** | `nvidia/nemotron-3.5-lightning-free` | NVIDIA open MoE with 3B active of 30B parameters. | 6 free models at $0, plus discounts | No deadline announced | **68.60** | [→](https://vercel.com/ai-gateway) |
 | **OpenCode Zen** | `big-pickle` | Codename model on OpenCode Zen. No capability details published. | 14 free models at $0, in-app only | No deadline announced | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `exo-free` | Codename model on OpenCode Zen. No capability details published. | 14 free models at $0, in-app only | No deadline announced | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `ll-alpha-free` | Codename model on OpenCode Zen. No capability details published. | 14 free models at $0, in-app only | No deadline announced | **67.60** | [→](https://opencode.ai/docs/zen/) |

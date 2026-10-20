@@ -1,4 +1,4 @@
-![updated](https://img.shields.io/badge/updated-2026--10--20-blue) ![offers](https://img.shields.io/badge/offers-17-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
+![updated](https://img.shields.io/badge/updated-2026--10--20-blue) ![offers](https://img.shields.io/badge/offers-14-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
 
 # Tokenation
 
@@ -14,25 +14,25 @@ or with no published deadline (the entry says so). Offers whose announced deadli
 
 The 15 best deals on the site right now, ranked by the Tokenation score.
 
-| Provider | Type | Model ID | Overview | Free quota | Free until | Score | Link |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **WorkBuddy Intl (Tencent)** | Limited-time | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | DeepSeek V4.1 Flash etc., no credit burn | 2026-10-31 (over 7 days left) | **90.07** | [→](https://www.workbuddy.ai/) |
-| **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 14 free models at $0, in-app only | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
-| **WorkBuddy Intl (Tencent)** | Limited-time | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | DeepSeek V4.1 Flash etc., no credit burn | 2026-10-31 (over 7 days left) | **89.13** | [→](https://www.workbuddy.ai/) |
-| **OpenCode Zen** | Limited-time | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | 14 free models at $0, in-app only | 2026-10-22 (in 2 days) | **88.27** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Zen** | Limited-time | `glm-5.3-flash-free` | Native multimodal model from Z.ai. | 14 free models at $0, in-app only | No deadline announced | **87.87** | [→](https://opencode.ai/docs/zen/) |
-| **Qoder** | Limited-time | `qwen3.8-flash` | Multimodal reasoning model from Alibaba Qwen. | Qwen3.8-Flash free, 100 Credits daily | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
-| **Vercel AI Gateway** | Limited-time | `reflection/beam-free` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | 6 free models at $0, plus discounts | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
-| **Novita AI** | Evergreen | `apodex-1.1-mini` | Listed by Novita without a published model card. | Some models free, rest billed per token | Ongoing | **77.60** | [→](https://novita.ai/pricing) |
-| **Google Gemini API** | Evergreen | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Free tier capped by RPM/RPD/TPM | Ongoing | **75.25** | [→](https://aistudio.google.com/apikey) |
-| **Vercel AI Gateway** | Limited-time | `nvidia/nemotron-3.5-lightning-free` | NVIDIA open MoE with 3B active of 30B parameters. | 6 free models at $0, plus discounts | No deadline announced | **68.60** | [→](https://vercel.com/ai-gateway) |
-| **Vercel AI Gateway** | Limited-time | `poolside/laguna-s-2.1-free` | Latest coding-agent model from Poolside. | 6 free models at $0, plus discounts | No deadline announced | **67.60** | [→](https://vercel.com/ai-gateway) |
-| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 30M tokens on Oct 19, then 5M/day | 2026-10-25 (in 5 days) | **65.92** | [→](https://autoclaw.z.ai/) |
-| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3-flash` | Native multimodal model from Z.ai. | 30M tokens on Oct 19, then 5M/day | 2026-10-25 (in 5 days) | **63.92** | [→](https://autoclaw.z.ai/) |
-| **Google Gemini API** | Evergreen | `gemini-3.5-flash-lite` | High-efficiency Google model with upgraded agentic capabilities. | Free tier capped by RPM/RPD/TPM | Ongoing | **62.79** | [→](https://aistudio.google.com/apikey) |
-| **OpenRouter** | Evergreen | `minimax/minimax-m3.1-flash:free` | Multimodal model from MiniMax. | :free models at $0, caps rise with spend | Ongoing | **62.41** | [→](https://openrouter.ai/collections/free-models) |
+| Provider | Type | Model ID | Overview | Free quota | AA | Free until | Score | Link |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **WorkBuddy Intl (Tencent)** | Limited-time | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | DeepSeek V4.1 Flash etc., no credit burn | 45.1 | 2026-10-31 (over 7 days left) | **90.07** | [→](https://www.workbuddy.ai/) |
+| **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 14 free models at $0, in-app only | 45.1 | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
+| **WorkBuddy Intl (Tencent)** | Limited-time | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | DeepSeek V4.1 Flash etc., no credit burn | 43.7 | 2026-10-31 (over 7 days left) | **89.13** | [→](https://www.workbuddy.ai/) |
+| **OpenCode Zen** | Limited-time | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | 14 free models at $0, in-app only | 42.7 | 2026-10-22 (in 2 days) | **88.47** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | Limited-time | `glm-5.3-flash-free` | Native multimodal model from Z.ai. | 14 free models at $0, in-app only | 41.8 | No deadline announced | **87.87** | [→](https://opencode.ai/docs/zen/) |
+| **Qoder** | Limited-time | `qwen3.8-flash` | Multimodal reasoning model from Alibaba Qwen. | Qwen3.8-Flash free, 100 Credits daily | 39.8 | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Vercel AI Gateway** | Limited-time | `reflection/beam-free` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | 6 free models at $0, plus discounts | 30.3 | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
+| **Google Gemini API** | Evergreen | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Free tier capped by RPM/RPD/TPM | 40.9 | Ongoing | **75.25** | [→](https://aistudio.google.com/apikey) |
+| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 30M tokens on Oct 19, then 5M/day | 44.8 | 2026-10-25 (in 5 days) | **65.92** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3-flash` | Native multimodal model from Z.ai. | 30M tokens on Oct 19, then 5M/day | 41.8 | 2026-10-25 (in 5 days) | **63.92** | [→](https://autoclaw.z.ai/) |
+| **OpenRouter** | Evergreen | `minimax/minimax-m3.1-flash:free` | Multimodal model from MiniMax. | :free models at $0, caps rise with spend | 42.7 | Ongoing | **62.61** | [→](https://openrouter.ai/collections/free-models) |
+| **Gemini CLI** | Evergreen | `gemini-4-flash` | Gemini 4 Flash in the CLI free tier. No separate model card published. | Free with Google login, request-metered | 52.6 | Ongoing | **60.03** | [→](https://github.com/google-gemini/gemini-cli) |
+| **AiHubMix** | Limited-time | `qwen3.8-max-free` | 2.4T-parameter MoE flagship from Alibaba Qwen, with text, image and video input. | Qwen3.8 Flash/Max free | 45.4 | No deadline announced | **55.23** | [→](https://aihubmix.com/models) |
+| **Ollama** | Limited-time | `beam:cloud` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | Beam free for a limited time (1M ctx) | 30.3 | No deadline announced | **45.16** | [→](https://ollama.com/download) |
+| **GroqCloud** | Evergreen | `qwen/qwen3.8-27b` | Open-weight dense vision-language model from Qwen. | 30 RPM, 1,000 RPD, 200K TPD | 33.7 | Ongoing | **33.35** | [→](https://console.groq.com/keys) |
 
-Top 15 of 55 scored model rows. Scoring rule below. Full lists below.
+Top 15 of 43 scored model rows. Scoring rule below. Full lists below.
 
 ## How the score works
 
@@ -64,25 +64,25 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 
 本站此刻最值的 15 单，按推荐指数从高到低。
 
-| 平台 | 类型 | 模型 ID | 介绍 | 免费额度 | 截止 | 推荐指数 | 链接 |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **WorkBuddy 国际版（腾讯）** | 限时 | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | DeepSeek V4.1 Flash 等限免，调用不扣积分 | 2026-10-31（剩余超7天） | **90.07** | [→](https://www.workbuddy.ai/) |
-| **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
-| **WorkBuddy 国际版（腾讯）** | 限时 | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | DeepSeek V4.1 Flash 等限免，调用不扣积分 | 2026-10-31（剩余超7天） | **89.13** | [→](https://www.workbuddy.ai/) |
-| **OpenCode Zen** | 限时 | `minimax-m3.1-flash-free` | MiniMax 多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 2026-10-22（剩余 2 天） | **88.27** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Zen** | 限时 | `glm-5.3-flash-free` | 智谱原生多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
-| **Qoder** | 限时 | `qwen3.8-flash` | 阿里通义多模态推理模型 | Qwen3.8-Flash 限免，每日领 100 Credits | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
-| **Vercel AI Gateway** | 限时 | `reflection/beam-free` | Reflection 开源推理模型 Beam 1.0 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
-| **Novita AI** | 常态 | `apodex-1.1-mini` | Novita 上架，但未公布模型说明 | 部分模型免费，其余按 Token 计 | 长期有效 | **77.60** | [→](https://novita.ai/pricing) |
-| **Google Gemini API** | 常态 | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | 免费层按 RPM/RPD/TPM 限额 | 长期有效 | **75.25** | [→](https://aistudio.google.com/apikey) |
-| **Vercel AI Gateway** | 限时 | `nvidia/nemotron-3.5-lightning-free` | 英伟达开源 MoE，激活 3B、总参 30B | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **68.60** | [→](https://vercel.com/ai-gateway) |
-| **Vercel AI Gateway** | 限时 | `poolside/laguna-s-2.1-free` | Poolside 最新编码 Agent 模型 | 6 个免费模型（$0），另有折扣促销 | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
-| **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 10/19 领 30M tokens，其余每日 5M | 2026-10-25（剩余 5 天） | **65.92** | [→](https://autoclaw.z.ai/) |
-| **AutoClaw（智谱）** | 限时 | `glm-5.3-flash` | 智谱原生多模态模型 | 10/19 领 30M tokens，其余每日 5M | 2026-10-25（剩余 5 天） | **63.92** | [→](https://autoclaw.z.ai/) |
-| **Google Gemini API** | 常态 | `gemini-3.5-flash-lite` | 谷歌高性价比模型，强化 Agent 能力 | 免费层按 RPM/RPD/TPM 限额 | 长期有效 | **62.79** | [→](https://aistudio.google.com/apikey) |
-| **OpenRouter** | 常态 | `minimax/minimax-m3.1-flash:free` | MiniMax 多模态模型 | :free 模型 $0，限额随充值额变化 | 长期有效 | **62.41** | [→](https://openrouter.ai/collections/free-models) |
+| 平台 | 类型 | 模型 ID | 介绍 | 免费额度 | AA | 截止 | 推荐指数 | 链接 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| **WorkBuddy 国际版（腾讯）** | 限时 | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | DeepSeek V4.1 Flash 等限免，调用不扣积分 | 45.1 | 2026-10-31（剩余超7天） | **90.07** | [→](https://www.workbuddy.ai/) |
+| **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 14 个 free 模型 $0，仅限应用内调用 | 45.1 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
+| **WorkBuddy 国际版（腾讯）** | 限时 | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | DeepSeek V4.1 Flash 等限免，调用不扣积分 | 43.7 | 2026-10-31（剩余超7天） | **89.13** | [→](https://www.workbuddy.ai/) |
+| **OpenCode Zen** | 限时 | `minimax-m3.1-flash-free` | MiniMax 多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 42.7 | 2026-10-22（剩余 2 天） | **88.47** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | 限时 | `glm-5.3-flash-free` | 智谱原生多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 41.8 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
+| **Qoder** | 限时 | `qwen3.8-flash` | 阿里通义多模态推理模型 | Qwen3.8-Flash 限免，每日领 100 Credits | 39.8 | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Vercel AI Gateway** | 限时 | `reflection/beam-free` | Reflection 开源推理模型 Beam 1.0 | 6 个免费模型（$0），另有折扣促销 | 30.3 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
+| **Google Gemini API** | 常态 | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | 免费层按 RPM/RPD/TPM 限额 | 40.9 | 长期有效 | **75.25** | [→](https://aistudio.google.com/apikey) |
+| **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 10/19 领 30M tokens，其余每日 5M | 44.8 | 2026-10-25（剩余 5 天） | **65.92** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw（智谱）** | 限时 | `glm-5.3-flash` | 智谱原生多模态模型 | 10/19 领 30M tokens，其余每日 5M | 41.8 | 2026-10-25（剩余 5 天） | **63.92** | [→](https://autoclaw.z.ai/) |
+| **OpenRouter** | 常态 | `minimax/minimax-m3.1-flash:free` | MiniMax 多模态模型 | :free 模型 $0，限额随充值额变化 | 42.7 | 长期有效 | **62.61** | [→](https://openrouter.ai/collections/free-models) |
+| **Gemini CLI** | 常态 | `gemini-4-flash` | Gemini 4 Flash，CLI 免费档，未公布模型卡 | 个人账号登录免费，按请求计 | 52.6 | 长期有效 | **60.03** | [→](https://github.com/google-gemini/gemini-cli) |
+| **AiHubMix** | 限时 | `qwen3.8-max-free` | 通义 2.4 万亿参数 MoE 旗舰，支持文本图像视频输入 | Qwen3.8 Flash/Max 免费调用 | 45.4 | 未公布截止日 | **55.23** | [→](https://aihubmix.com/models) |
+| **Ollama** | 限时 | `beam:cloud` | Reflection 开源推理模型 Beam 1.0 | Beam 限时免费（1M 上下文） | 30.3 | 未公布截止日 | **45.16** | [→](https://ollama.com/download) |
+| **GroqCloud** | 常态 | `qwen/qwen3.8-27b` | 通义开源 27B 稠密视觉语言模型 | 30 RPM、1,000 RPD、200K TPD | 33.7 | 长期有效 | **33.35** | [→](https://console.groq.com/keys) |
 
-上表从 55 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
+上表从 43 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
 
 ## 评分怎么看
 
