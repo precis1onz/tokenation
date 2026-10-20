@@ -16,7 +16,7 @@ Updated 2026-10-19.
 
 | Provider | Lead model | Free quota | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- |
-| **WorkBuddy Intl (Tencent)** | deepseek-v4.1-flash-1017 (and 1 more model) | DeepSeek V4.1 Flash & more, no credit burn | 2026-10-31 (over 7 days left) | **90.07** | [→](https://www.workbuddy.ai/) |
+| **WorkBuddy Intl (Tencent)** | deepseek-v4.1-flash-1017 (and 1 more model) | DeepSeek V4.1 Flash etc., no credit burn | 2026-10-31 (over 7 days left) | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | deepseek-v4.1-flash-free (and 8 more models; 5 more models unscored) | 14 free models at $0, in-app only | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Go** | step-5-preview (and 3 more models) | LongCat, Beam, MiniMax free | No deadline announced | **88.27** | [→](https://opencode.ai/docs/go/) |
 | **Qoder** | Qwen3.8-Flash | Qwen3.8-Flash free; 100 Credits daily | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |

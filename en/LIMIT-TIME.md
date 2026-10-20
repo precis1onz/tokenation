@@ -4,9 +4,9 @@ Updated 2026-10-19
 
 | Provider | Model ID | Overview | Free quota | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- | --- |
-| **WorkBuddy Intl (Tencent)** | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | DeepSeek V4.1 Flash & more, no credit… | 2026-10-31 (over 7 days left) | **90.07** | [→](https://www.workbuddy.ai/) |
+| **WorkBuddy Intl (Tencent)** | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | DeepSeek V4.1 Flash etc., no credit burn | 2026-10-31 (over 7 days left) | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 14 free models at $0, in-app only | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
-| **WorkBuddy Intl (Tencent)** | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | DeepSeek V4.1 Flash & more, no credit… | 2026-10-31 (over 7 days left) | **89.13** | [→](https://www.workbuddy.ai/) |
+| **WorkBuddy Intl (Tencent)** | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | DeepSeek V4.1 Flash etc., no credit burn | 2026-10-31 (over 7 days left) | **89.13** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Go** | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | LongCat, Beam, MiniMax free | No deadline announced | **88.27** | [→](https://opencode.ai/docs/go/) |
 | **OpenCode Zen** | `minimax-m3.1-flash-free` | Multimodal model from MiniMax. | 14 free models at $0, in-app only | No deadline announced | **88.27** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `glm-5.3-flash-free` | Native multimodal model from Z.ai. | 14 free models at $0, in-app only | No deadline announced | **87.87** | [→](https://opencode.ai/docs/zen/) |
