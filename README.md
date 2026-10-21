@@ -1,4 +1,4 @@
-![updated](https://img.shields.io/badge/updated-2026--10--21-blue) ![offers](https://img.shields.io/badge/offers-14-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
+![updated](https://img.shields.io/badge/updated-2026--10--21-blue) ![offers](https://img.shields.io/badge/offers-13-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
 
 <a id="top"></a>**中文读者**：[直达中文部分](#cn) · [中文 Top 15](#top15-cn) · [中文评分说明](#score-cn)　|　**English**: [Top 15](#top15-en) · [How the score works](#score-en)
 
@@ -12,9 +12,9 @@ Each row records the provider, the model ID, a one-line overview, the free quota
 **Limited-time offers**: announced by the provider as free for a limited time, either with a fixed end date \
 or with no published deadline (the entry says so). Offers whose announced deadline has already passed are removed.
 
-## Top 15 by Tokenation score<a id="top15-en"></a>
+## Top 14 by Tokenation score<a id="top15-en"></a>
 
-The 15 best deals on the site right now, ranked by the Tokenation score.
+The 14 best deals on the site right now, ranked by the Tokenation score.
 
 | Provider | Type | Model ID | Overview | Free quota | AA | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -29,12 +29,11 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 | **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 30M/day Oct 19-20, then 5M/day | 44.8 | 2026-10-25 (in 4 days) | **65.92** | [→](https://autoclaw.z.ai/) |
 | **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3-flash` | Native multimodal model from Z.ai. | 30M/day Oct 19-20, then 5M/day | 41.8 | 2026-10-25 (in 4 days) | **63.92** | [→](https://autoclaw.z.ai/) |
 | **OpenRouter** | Evergreen | `minimax/minimax-m3.1-flash:free` | Multimodal model from MiniMax. | :free models at $0, caps rise with spend | 42.7 | Ongoing | **62.61** | [→](https://openrouter.ai/collections/free-models) |
-| **Gemini CLI** | Evergreen | `gemini-4-flash` | Gemini 4 Flash in the CLI free tier. No separate model card published. | Free with Google login, request-metered | 52.6 | Ongoing | **60.03** | [→](https://github.com/google-gemini/gemini-cli) |
 | **AiHubMix** | Limited-time | `qwen3.8-max-free` | 2.4T-parameter MoE flagship from Alibaba Qwen, with text, image and video input. | Qwen3.8 Flash/Max free | 45.4 | No deadline announced | **55.23** | [→](https://aihubmix.com/models) |
 | **Ollama** | Limited-time | `beam:cloud` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | Beam free for a limited time (1M ctx) | 30.3 | No deadline announced | **45.16** | [→](https://ollama.com/download) |
 | **GroqCloud** | Evergreen | `qwen/qwen3.8-27b` | Open-weight dense vision-language model from Qwen. | 30 RPM, 1,000 RPD, 200K TPD | 33.7 | Ongoing | **33.35** | [→](https://console.groq.com/keys) |
 
-Top 15 of 43 scored model rows. Scoring rule below. Full lists below.
+Top 14 of 40 scored model rows. Scoring rule below. Full lists below.
 
 ## How the score works<a id="score-en"></a>
 
@@ -64,9 +63,9 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 **限时免费（Limit-time）**，官方明示的限时免费 offer，含两类：写明固定截止日的，以及只写「限时」\
 未公布截止日的（会在日期字段注明）。已过公布截止日的条目一律移除。
 
-## 推荐指数榜 · Top 15<a id="top15-cn"></a>
+## 推荐指数榜 · Top 14<a id="top15-cn"></a>
 
-本站此刻最值的 15 单，按推荐指数从高到低。
+本站此刻最值的 14 单，按推荐指数从高到低。
 
 | 平台 | 类型 | 模型 ID | 介绍 | 免费额度 | AA | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -81,12 +80,11 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 | **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 10/19–10/20 每日 30M，其余每日 5M | 44.8 | 2026-10-25（剩余 4 天） | **65.92** | [→](https://autoclaw.z.ai/) |
 | **AutoClaw（智谱）** | 限时 | `glm-5.3-flash` | 智谱原生多模态模型 | 10/19–10/20 每日 30M，其余每日 5M | 41.8 | 2026-10-25（剩余 4 天） | **63.92** | [→](https://autoclaw.z.ai/) |
 | **OpenRouter** | 常态 | `minimax/minimax-m3.1-flash:free` | MiniMax 多模态模型 | :free 模型 $0，限额随充值额变化 | 42.7 | 长期有效 | **62.61** | [→](https://openrouter.ai/collections/free-models) |
-| **Gemini CLI** | 常态 | `gemini-4-flash` | Gemini 4 Flash，CLI 免费档，未公布模型卡 | 个人账号登录免费，按请求计 | 52.6 | 长期有效 | **60.03** | [→](https://github.com/google-gemini/gemini-cli) |
 | **AiHubMix** | 限时 | `qwen3.8-max-free` | 通义 2.4 万亿参数 MoE 旗舰，支持文本图像视频输入 | Qwen3.8 Flash/Max 免费调用 | 45.4 | 未公布截止日 | **55.23** | [→](https://aihubmix.com/models) |
 | **Ollama** | 限时 | `beam:cloud` | Reflection 开源推理模型 Beam 1.0 | Beam 限时免费（1M 上下文） | 30.3 | 未公布截止日 | **45.16** | [→](https://ollama.com/download) |
 | **GroqCloud** | 常态 | `qwen/qwen3.8-27b` | 通义开源 27B 稠密视觉语言模型 | 30 RPM、1,000 RPD、200K TPD | 33.7 | 长期有效 | **33.35** | [→](https://console.groq.com/keys) |
 
-上表从 43 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
+上表从 40 行已评分条目中取前 14 行，评分口径见下节。完整清单见下方四个列表。
 
 ## 评分怎么看<a id="score-cn"></a>
 

@@ -8,7 +8,6 @@ Updated 2026-10-21
 | **Google Gemini API** | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Free tier capped by RPM/RPD/TPM | **75.25** | [→](https://aistudio.google.com/apikey) |
 | **Google Gemini API** | `gemini-3.5-flash-lite` | High-efficiency Google model with upgraded agentic capabilities. | Free tier capped by RPM/RPD/TPM | **62.79** | [→](https://aistudio.google.com/apikey) |
 | **OpenRouter** | `minimax/minimax-m3.1-flash:free` | Multimodal model from MiniMax. | :free models at $0, caps rise with spend | **62.61** | [→](https://openrouter.ai/collections/free-models) |
-| **Gemini CLI** | `gemini-4-flash` | Gemini 4 Flash in the CLI free tier. No separate model card published. | Free with Google login, request-metered | **60.03** | [→](https://github.com/google-gemini/gemini-cli) |
 | **OpenRouter** | `nvidia/nemotron-3.5-super-vl:free` | NVIDIA open multimodal MoE, 12B active of 120B. | :free models at $0, caps rise with spend | **51.81** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `thinkingmachines/inkling-small:free` | Open-weight multimodal MoE, 12B active of 276B. | :free models at $0, caps rise with spend | **51.28** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `thinkingmachines/inkling:free` | Open-weight multimodal MoE, 41B active. | :free models at $0, caps rise with spend | **50.81** | [→](https://openrouter.ai/collections/free-models) |

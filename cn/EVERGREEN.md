@@ -8,7 +8,6 @@
 | **Google Gemini API** | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | 免费层按 RPM/RPD/TPM 限额 | **75.25** | [→](https://aistudio.google.com/apikey) |
 | **Google Gemini API** | `gemini-3.5-flash-lite` | 谷歌高性价比模型，强化 Agent 能力 | 免费层按 RPM/RPD/TPM 限额 | **62.79** | [→](https://aistudio.google.com/apikey) |
 | **OpenRouter** | `minimax/minimax-m3.1-flash:free` | MiniMax 多模态模型 | :free 模型 $0，限额随充值额变化 | **62.61** | [→](https://openrouter.ai/collections/free-models) |
-| **Gemini CLI** | `gemini-4-flash` | Gemini 4 Flash，CLI 免费档，未公布模型卡 | 个人账号登录免费，按请求计 | **60.03** | [→](https://github.com/google-gemini/gemini-cli) |
 | **OpenRouter** | `nvidia/nemotron-3.5-super-vl:free` | 英伟达开源多模态 MoE，激活 12B、总参 120B | :free 模型 $0，限额随充值额变化 | **51.81** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `thinkingmachines/inkling-small:free` | 开源多模态 MoE，激活 12B、总参 276B | :free 模型 $0，限额随充值额变化 | **51.28** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `thinkingmachines/inkling:free` | 开源多模态 MoE，激活 41B | :free 模型 $0，限额随充值额变化 | **50.81** | [→](https://openrouter.ai/collections/free-models) |
