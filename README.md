@@ -12,13 +12,12 @@ Each row records the provider, the model ID, a one-line overview, the free quota
 **Limited-time offers**: announced by the provider as free for a limited time, either with a fixed end date \
 or with no published deadline (the entry says so). Offers whose announced deadline has already passed are removed.
 
-## Top 15 by Tokenation score<a id="top15-en"></a>
+## Top 14 by Tokenation score<a id="top15-en"></a>
 
-The 15 best deals on the site right now, ranked by the Tokenation score.
+The 14 best deals on the site right now, ranked by the Tokenation score.
 
 | Provider | Type | Model ID | Overview | Free quota | AA | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Qoder** | Limited-time | `qwen3.8-max` | 2.4T-parameter MoE flagship from Alibaba Qwen, with text, image and video input. | Flash + Efficient free, 100 credits/day | 45.4 | No deadline announced | **90.27** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **WorkBuddy Intl (Tencent)** | Limited-time | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | Free models, no credit burn; +30/day | 45.1 | 2026-10-31 (over 7 days left) | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 14 free models at $0, in-app only | 45.1 | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy Intl (Tencent)** | Limited-time | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | Free models, no credit burn; +30/day | 43.7 | 2026-10-31 (over 7 days left) | **89.13** | [→](https://www.workbuddy.ai/) |
@@ -34,7 +33,7 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 | **Ollama** | Limited-time | `beam:cloud` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | Beam free for a limited time (1M ctx) | 30.3 | No deadline announced | **45.16** | [→](https://ollama.com/download) |
 | **GroqCloud** | Evergreen | `qwen/qwen3.8-27b` | Open-weight dense vision-language model from Qwen. | 30 RPM, 1,000 RPD, 200K TPD | 33.7 | Ongoing | **33.35** | [→](https://console.groq.com/keys) |
 
-Top 15 of 41 scored model rows. Scoring rule below. Full lists below.
+Top 14 of 40 scored model rows. Scoring rule below. Full lists below.
 
 ## How the score works<a id="score-en"></a>
 
@@ -64,13 +63,12 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 **限时免费（Limit-time）**，官方明示的限时免费 offer，含两类：写明固定截止日的，以及只写「限时」\
 未公布截止日的（会在日期字段注明）。已过公布截止日的条目一律移除。
 
-## 推荐指数榜 · Top 15<a id="top15-cn"></a>
+## 推荐指数榜 · Top 14<a id="top15-cn"></a>
 
-本站此刻最值的 15 单，按推荐指数从高到低。
+本站此刻最值的 14 单，按推荐指数从高到低。
 
 | 平台 | 类型 | 模型 ID | 介绍 | 免费额度 | AA | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Qoder** | 限时 | `qwen3.8-max` | 通义 2.4 万亿参数 MoE 旗舰，支持文本图像视频输入 | Flash 与 Efficient 档不扣 Credits，每日领 100 | 45.4 | 未公布截止日 | **90.27** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **WorkBuddy 国际版（腾讯）** | 限时 | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | 限免模型不扣积分，另每日 30 Credits | 45.1 | 2026-10-31（剩余超7天） | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 14 个 free 模型 $0，仅限应用内调用 | 45.1 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy 国际版（腾讯）** | 限时 | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | 限免模型不扣积分，另每日 30 Credits | 43.7 | 2026-10-31（剩余超7天） | **89.13** | [→](https://www.workbuddy.ai/) |
@@ -86,7 +84,7 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 | **Ollama** | 限时 | `beam:cloud` | Reflection 开源推理模型 Beam 1.0 | Beam 限时免费（1M 上下文） | 30.3 | 未公布截止日 | **45.16** | [→](https://ollama.com/download) |
 | **GroqCloud** | 常态 | `qwen/qwen3.8-27b` | 通义开源 27B 稠密视觉语言模型 | 30 RPM、1,000 RPD、200K TPD | 33.7 | 长期有效 | **33.35** | [→](https://console.groq.com/keys) |
 
-上表从 41 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
+上表从 40 行已评分条目中取前 14 行，评分口径见下节。完整清单见下方四个列表。
 
 ## 评分怎么看<a id="score-cn"></a>
 

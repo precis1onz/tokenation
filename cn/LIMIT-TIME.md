@@ -4,7 +4,6 @@
 
 | 平台 | 模型 ID | 介绍 | 免费额度 | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Qoder** | `qwen3.8-max` | 通义 2.4 万亿参数 MoE 旗舰，支持文本图像视频输入 | Flash 与 Efficient 档不扣 Credits，每日领 100 | 未公布截止日 | **90.27** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **WorkBuddy 国际版（腾讯）** | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余超7天） | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy 国际版（腾讯）** | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余超7天） | **89.13** | [→](https://www.workbuddy.ai/) |

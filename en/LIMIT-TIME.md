@@ -4,7 +4,6 @@ Updated 2026-10-22
 
 | Provider | Model ID | Overview | Free quota | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Qoder** | `qwen3.8-max` | 2.4T-parameter MoE flagship from Alibaba Qwen, with text, image and video input. | Flash + Efficient free, 100 credits/day | No deadline announced | **90.27** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **WorkBuddy Intl (Tencent)** | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | Free models, no credit burn; +30/day | 2026-10-31 (over 7 days left) | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 14 free models at $0, in-app only | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy Intl (Tencent)** | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | Free models, no credit burn; +30/day | 2026-10-31 (over 7 days left) | **89.13** | [→](https://www.workbuddy.ai/) |
