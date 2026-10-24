@@ -20,7 +20,9 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **WorkBuddy Intl (Tencent)** | Limited-time | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | Free models, no credit burn; +30/day | 45.1 | 2026-10-31 (in 7 days) | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 14 free models at $0, in-app only | 45.1 | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
+| **ZCode (Z.ai)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 500M tokens (shared across both models) | 44.8 | 2026-10-26 (in 2 days) | **89.87** | [→](https://zcode.z.ai/) |
 | **WorkBuddy Intl (Tencent)** | Limited-time | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | Free models, no credit burn; +30/day | 43.7 | 2026-10-31 (in 7 days) | **89.13** | [→](https://www.workbuddy.ai/) |
+| **ZCode (Z.ai)** | Limited-time | `glm-5.3-flash` | Native multimodal model from Z.ai. | 500M tokens (shared across both models) | 41.8 | 2026-10-26 (in 2 days) | **87.87** | [→](https://zcode.z.ai/) |
 | **OpenCode Zen** | Limited-time | `glm-5.3-flash-free` | Native multimodal model from Z.ai. | 14 free models at $0, in-app only | 41.8 | No deadline announced | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | Limited-time | `qwen3.8-flash` | Multimodal reasoning model from Alibaba Qwen. | Flash + Efficient free, 100 credits/day | 39.8 | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **OpenCode Zen** | Limited-time | `mimo-v2.6-flash-free` | Open-source foundation model from Xiaomi. | 14 free models at $0, in-app only | 37.9 | No deadline announced | **85.27** | [→](https://opencode.ai/docs/zen/) |
@@ -31,8 +33,6 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 | **OpenRouter** | Evergreen | `minimax/minimax-m3.1-flash:free` | Multimodal model from MiniMax. | :free models at $0, caps rise with spend | 42.7 | Ongoing | **62.61** | [→](https://openrouter.ai/collections/free-models) |
 | **AiHubMix** | Limited-time | `xiaomi-mimo-v2.6-pro-free` | Xiaomi MiMo V2.6 Pro flagship. | 64 models at $0; after $1 top-up 100… | 46.3 | No deadline announced | **53.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | Limited-time | `qwen3.8-max-free` | Alibaba Qwen3.8 flagship, text/image/video input. | 64 models at $0; after $1 top-up 100… | 45.4 | No deadline announced | **52.87** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | Limited-time | `coding-glm-5.3-free` | Z.ai GLM 5.3 coding variant. | 64 models at $0; after $1 top-up 100… | 44.8 | No deadline announced | **52.47** | [→](https://aihubmix.com/models/free) |
-| **Ollama** | Limited-time | `beam:cloud` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | Beam free for a limited time (1M ctx) | 30.3 | No deadline announced | **45.16** | [→](https://ollama.com/download) |
 
 Top 15 of 85 scored model rows. Scoring rule below. Full lists below.
 
@@ -72,7 +72,9 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **WorkBuddy 国际版（腾讯）** | 限时 | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | 限免模型不扣积分，另每日 30 Credits | 45.1 | 2026-10-31（剩余 7 天） | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 14 个 free 模型 $0，仅限应用内调用 | 45.1 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
+| **ZCode（智谱 Z.ai）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 5 亿 Tokens（两模型共享） | 44.8 | 2026-10-26（剩余 2 天） | **89.87** | [→](https://zcode.z.ai/) |
 | **WorkBuddy 国际版（腾讯）** | 限时 | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | 限免模型不扣积分，另每日 30 Credits | 43.7 | 2026-10-31（剩余 7 天） | **89.13** | [→](https://www.workbuddy.ai/) |
+| **ZCode（智谱 Z.ai）** | 限时 | `glm-5.3-flash` | 智谱原生多模态模型 | 5 亿 Tokens（两模型共享） | 41.8 | 2026-10-26（剩余 2 天） | **87.87** | [→](https://zcode.z.ai/) |
 | **OpenCode Zen** | 限时 | `glm-5.3-flash-free` | 智谱原生多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 41.8 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | 限时 | `qwen3.8-flash` | 阿里通义多模态推理模型 | Flash 与 Efficient 档不扣 Credits，每日领 100 | 39.8 | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **OpenCode Zen** | 限时 | `mimo-v2.6-flash-free` | 小米开源基础模型 | 14 个 free 模型 $0，仅限应用内调用 | 37.9 | 未公布截止日 | **85.27** | [→](https://opencode.ai/docs/zen/) |
@@ -83,8 +85,6 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 | **OpenRouter** | 常态 | `minimax/minimax-m3.1-flash:free` | MiniMax 多模态模型 | :free 模型 $0，限额随充值额变化 | 42.7 | 长期有效 | **62.61** | [→](https://openrouter.ai/collections/free-models) |
 | **AiHubMix** | 限时 | `xiaomi-mimo-v2.6-pro-free` | 小米 MiMo V2.6 Pro 旗舰版 | 64 个模型 $0，充值后 100 请求/天、1M tokens/天 | 46.3 | 未公布截止日 | **53.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | 限时 | `qwen3.8-max-free` | 通义 Qwen3.8 旗舰，文本图像视频输入 | 64 个模型 $0，充值后 100 请求/天、1M tokens/天 | 45.4 | 未公布截止日 | **52.87** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | 限时 | `coding-glm-5.3-free` | 智谱 GLM 5.3 编码专用版 | 64 个模型 $0，充值后 100 请求/天、1M tokens/天 | 44.8 | 未公布截止日 | **52.47** | [→](https://aihubmix.com/models/free) |
-| **Ollama** | 限时 | `beam:cloud` | Reflection 开源推理模型 Beam 1.0 | Beam 限时免费（1M 上下文） | 30.3 | 未公布截止日 | **45.16** | [→](https://ollama.com/download) |
 
 上表从 85 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
 

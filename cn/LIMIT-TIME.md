@@ -6,7 +6,9 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | **WorkBuddy 国际版（腾讯）** | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余 7 天） | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
+| **ZCode（智谱 Z.ai）** | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 5 亿 Tokens（两模型共享） | 2026-10-26（剩余 2 天） | **89.87** | [→](https://zcode.z.ai/) |
 | **WorkBuddy 国际版（腾讯）** | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余 7 天） | **89.13** | [→](https://www.workbuddy.ai/) |
+| **ZCode（智谱 Z.ai）** | `glm-5.3-flash` | 智谱原生多模态模型 | 5 亿 Tokens（两模型共享） | 2026-10-26（剩余 2 天） | **87.87** | [→](https://zcode.z.ai/) |
 | **OpenCode Zen** | `glm-5.3-flash-free` | 智谱原生多模态模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | `qwen3.8-flash` | 阿里通义多模态推理模型 | Flash 与 Efficient 档不扣 Credits，每日领 100 | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **OpenCode Zen** | `mimo-v2.6-flash-free` | 小米开源基础模型 | 14 个 free 模型 $0，仅限应用内调用 | 未公布截止日 | **85.27** | [→](https://opencode.ai/docs/zen/) |
@@ -72,5 +74,3 @@
 | **AiHubMix** | `xiaomi-mimo-v2-pro-free` | 小米 MiMo V2 Pro 旗舰版 | 64 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xiaomi-mimo-v2.5-free` | 小米 MiMo V2.5 基础版 | 64 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xiaomi-mimo-v2.5-pro-free` | 小米 MiMo V2.5 Pro 旗舰版 | 64 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **ZCode（智谱 Z.ai）** | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 5 亿 Tokens（两模型共享） | 2026-10-26（剩余 2 天） | **29.87** | [→](https://zcode.z.ai/) |
-| **ZCode（智谱 Z.ai）** | `glm-5.3-flash` | 智谱原生多模态模型 | 5 亿 Tokens（两模型共享） | 2026-10-26（剩余 2 天） | **27.87** | [→](https://zcode.z.ai/) |

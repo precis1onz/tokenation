@@ -6,7 +6,9 @@ Updated 2026-10-24
 | --- | --- | --- | --- | --- | --- | --- |
 | **WorkBuddy Intl (Tencent)** | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | Free models, no credit burn; +30/day | 2026-10-31 (in 7 days) | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 14 free models at $0, in-app only | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
+| **ZCode (Z.ai)** | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 500M tokens (shared across both models) | 2026-10-26 (in 2 days) | **89.87** | [→](https://zcode.z.ai/) |
 | **WorkBuddy Intl (Tencent)** | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | Free models, no credit burn; +30/day | 2026-10-31 (in 7 days) | **89.13** | [→](https://www.workbuddy.ai/) |
+| **ZCode (Z.ai)** | `glm-5.3-flash` | Native multimodal model from Z.ai. | 500M tokens (shared across both models) | 2026-10-26 (in 2 days) | **87.87** | [→](https://zcode.z.ai/) |
 | **OpenCode Zen** | `glm-5.3-flash-free` | Native multimodal model from Z.ai. | 14 free models at $0, in-app only | No deadline announced | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | `qwen3.8-flash` | Multimodal reasoning model from Alibaba Qwen. | Flash + Efficient free, 100 credits/day | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **OpenCode Zen** | `mimo-v2.6-flash-free` | Open-source foundation model from Xiaomi. | 14 free models at $0, in-app only | No deadline announced | **85.27** | [→](https://opencode.ai/docs/zen/) |
@@ -72,5 +74,3 @@ Updated 2026-10-24
 | **AiHubMix** | `xiaomi-mimo-v2-pro-free` | Xiaomi MiMo V2 Pro flagship. | 64 models at $0; after $1 top-up 100… | No deadline announced | **30.20** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xiaomi-mimo-v2.5-free` | Xiaomi MiMo V2.5 base model. | 64 models at $0; after $1 top-up 100… | No deadline announced | **30.20** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xiaomi-mimo-v2.5-pro-free` | Xiaomi MiMo V2.5 Pro flagship. | 64 models at $0; after $1 top-up 100… | No deadline announced | **30.20** | [→](https://aihubmix.com/models/free) |
-| **ZCode (Z.ai)** | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 500M tokens (shared across both models) | 2026-10-26 (in 2 days) | **29.87** | [→](https://zcode.z.ai/) |
-| **ZCode (Z.ai)** | `glm-5.3-flash` | Native multimodal model from Z.ai. | 500M tokens (shared across both models) | 2026-10-26 (in 2 days) | **27.87** | [→](https://zcode.z.ai/) |
