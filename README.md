@@ -1,4 +1,4 @@
-![updated](https://img.shields.io/badge/updated-2026--10--24-blue) ![offers](https://img.shields.io/badge/offers-13-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
+![updated](https://img.shields.io/badge/updated-2026--10--24-blue) ![offers](https://img.shields.io/badge/offers-14-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
 
 <a id="top"></a>**中文读者**：[直达中文部分](#cn) · [中文 Top 15](#top15-cn) · [中文评分说明](#score-cn)　|　**English**: [Top 15](#top15-en) · [How the score works](#score-en)
 
@@ -34,7 +34,7 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 | **AiHubMix** | Limited-time | `coding-glm-5.3-free` | Z.ai GLM 5.3 coding variant. | 64 models at $0; after $1 top-up 100… | 44.8 | No deadline announced | **52.47** | [→](https://aihubmix.com/models/free) |
 | **Ollama** | Limited-time | `beam:cloud` | Beam 1.0, Reflection's open-weight reasoning model for coding agents. | Beam free for a limited time (1M ctx) | 30.3 | No deadline announced | **45.16** | [→](https://ollama.com/download) |
 
-Top 15 of 83 scored model rows. Scoring rule below. Full lists below.
+Top 15 of 85 scored model rows. Scoring rule below. Full lists below.
 
 ## How the score works<a id="score-en"></a>
 
@@ -86,7 +86,7 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 | **AiHubMix** | 限时 | `coding-glm-5.3-free` | 智谱 GLM 5.3 编码专用版 | 64 个模型 $0，充值后 100 请求/天、1M tokens/天 | 44.8 | 未公布截止日 | **52.47** | [→](https://aihubmix.com/models/free) |
 | **Ollama** | 限时 | `beam:cloud` | Reflection 开源推理模型 Beam 1.0 | Beam 限时免费（1M 上下文） | 30.3 | 未公布截止日 | **45.16** | [→](https://ollama.com/download) |
 
-上表从 83 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
+上表从 85 行已评分条目中取前 15 行，评分口径见下节。完整清单见下方四个列表。
 
 ## 评分怎么看<a id="score-cn"></a>
 

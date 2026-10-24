@@ -72,3 +72,5 @@
 | **AiHubMix** | `xiaomi-mimo-v2-pro-free` | 小米 MiMo V2 Pro 旗舰版 | 64 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xiaomi-mimo-v2.5-free` | 小米 MiMo V2.5 基础版 | 64 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xiaomi-mimo-v2.5-pro-free` | 小米 MiMo V2.5 Pro 旗舰版 | 64 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **ZCode（智谱 Z.ai）** | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 5 亿 Tokens（两模型共享） | 2026-10-26（剩余 2 天） | **29.87** | [→](https://zcode.z.ai/) |
+| **ZCode（智谱 Z.ai）** | `glm-5.3-flash` | 智谱原生多模态模型 | 5 亿 Tokens（两模型共享） | 2026-10-26（剩余 2 天） | **27.87** | [→](https://zcode.z.ai/) |

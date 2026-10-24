@@ -72,3 +72,5 @@ Updated 2026-10-24
 | **AiHubMix** | `xiaomi-mimo-v2-pro-free` | Xiaomi MiMo V2 Pro flagship. | 64 models at $0; after $1 top-up 100… | No deadline announced | **30.20** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xiaomi-mimo-v2.5-free` | Xiaomi MiMo V2.5 base model. | 64 models at $0; after $1 top-up 100… | No deadline announced | **30.20** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xiaomi-mimo-v2.5-pro-free` | Xiaomi MiMo V2.5 Pro flagship. | 64 models at $0; after $1 top-up 100… | No deadline announced | **30.20** | [→](https://aihubmix.com/models/free) |
+| **ZCode (Z.ai)** | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 500M tokens (shared across both models) | 2026-10-26 (in 2 days) | **29.87** | [→](https://zcode.z.ai/) |
+| **ZCode (Z.ai)** | `glm-5.3-flash` | Native multimodal model from Z.ai. | 500M tokens (shared across both models) | 2026-10-26 (in 2 days) | **27.87** | [→](https://zcode.z.ai/) |
