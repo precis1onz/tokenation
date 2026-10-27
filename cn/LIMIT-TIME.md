@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | --- | --- |
 | **WorkBuddy 国际版（腾讯）** | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余 4 天） | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
-| **Qoder** | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | Flash 免费；DeepSeek 限免至 10/31 | 未公布截止日 | **90.07** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Qoder** | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | Flash 免费；DeepSeek 限免至 10/31 | 2026-10-31（剩余 4 天） | **90.07** | [→](https://docs.qoder.com/zh/events/deepseek-flash-free) |
 | **WorkBuddy 国际版（腾讯）** | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余 4 天） | **89.13** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `glm-5.3-flash-free` | 智谱原生多模态模型 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | `qwen3.8-flash` | 阿里通义多模态推理模型 | Flash 免费；DeepSeek 限免至 10/31 | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |

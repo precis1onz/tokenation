@@ -6,7 +6,7 @@ Updated 2026-10-27
 | --- | --- | --- | --- | --- | --- | --- |
 | **WorkBuddy Intl (Tencent)** | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | Free models, no credit burn; +30/day | 2026-10-31 (in 4 days) | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 9 models fully Free, in-app only | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
-| **Qoder** | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | Flash free; DeepSeek free to 10/31 | No deadline announced | **90.07** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Qoder** | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | Flash free; DeepSeek free to 10/31 | 2026-10-31 (in 4 days) | **90.07** | [→](https://docs.qoder.com/zh/events/deepseek-flash-free) |
 | **WorkBuddy Intl (Tencent)** | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | Free models, no credit burn; +30/day | 2026-10-31 (in 4 days) | **89.13** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `glm-5.3-flash-free` | Native multimodal model from Z.ai. | 9 models fully Free, in-app only | No deadline announced | **87.87** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | `qwen3.8-flash` | Multimodal reasoning model from Alibaba Qwen. | Flash free; DeepSeek free to 10/31 | No deadline announced | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
