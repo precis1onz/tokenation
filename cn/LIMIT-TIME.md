@@ -1,26 +1,26 @@
 各平台限时免费活动，按推荐指数从高到低排列，口径见首页
 
-（更新至 2026-10-26）
+（更新至 2026-10-27）
 
 | 平台 | 模型 ID | 介绍 | 免费额度 | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- | --- |
-| **WorkBuddy 国际版（腾讯）** | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余 5 天） | **90.07** | [→](https://www.workbuddy.ai/) |
+| **WorkBuddy 国际版（腾讯）** | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余 4 天） | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
-| **ZCode（智谱 Z.ai）** | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 5 亿 Tokens（两模型共享） | 2026-10-26（剩余 0 天） | **89.87** | [→](https://zcode.z.ai/) |
-| **WorkBuddy 国际版（腾讯）** | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余 5 天） | **89.13** | [→](https://www.workbuddy.ai/) |
-| **ZCode（智谱 Z.ai）** | `glm-5.3-flash` | 智谱原生多模态模型 | 5 亿 Tokens（两模型共享） | 2026-10-26（剩余 0 天） | **87.87** | [→](https://zcode.z.ai/) |
+| **Qoder** | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | Flash 免费；DeepSeek 限免至 10/31 | 未公布截止日 | **90.07** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **WorkBuddy 国际版（腾讯）** | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余 4 天） | **89.13** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | `glm-5.3-flash-free` | 智谱原生多模态模型 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
-| **Qoder** | `qwen3.8-flash` | 阿里通义多模态推理模型 | Flash 与 Efficient 档不扣 Credits，每日领 100 | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Qoder** | `qwen3.8-flash` | 阿里通义多模态推理模型 | Flash 免费；DeepSeek 限免至 10/31 | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
 | **OpenCode Zen** | `mimo-v2.6-flash-free` | 小米开源基础模型 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **85.27** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Go** | `beam-free` | Reflection 开源推理模型 Beam 1.0 | Beam Free 一款限免，不限量但限区 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
+| **OpenCode Go** | `beam-free` | Reflection 开源推理模型 Beam 1.0 | Beam Free 与 Iceman 两限免，不限量 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
 | **OpenCode Zen** | `beam-free` | Reflection 开源推理模型 Beam 1.0 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/zen/) |
 | **Vercel AI Gateway** | `reflection/beam-free` | Reflection 开源推理模型 Beam 1.0 | 4 个免费模型（$0），另有折扣促销 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
 | **OpenCode Zen** | `nemotron-3.5-super-vl-free` | 英伟达开源多模态 MoE，激活 12B、总参 120B | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **77.67** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Zen** | `nemotron-3-ultra-free` | 英伟达开源前沿推理与编排模型，激活 55B | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **75.27** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Go** | `iceman-contributor-free` | 官方未公布能力与参数量，仅标限时免费 | Beam Free 与 Iceman 两限免，不限量 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/go/) |
 | **OpenCode Zen** | `big-pickle` | OpenCode Zen 上的代号模型，官方未公布能力说明 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **Vercel AI Gateway** | `poolside/laguna-s-2.1-free` | Poolside 最新编码 Agent 模型 | 4 个免费模型（$0），另有折扣促销 | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
-| **AutoClaw（智谱）** | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 登录领 4,000 万 Tokens（每账号一次） | 2026-11-01（剩余 6 天） | **65.92** | [→](https://autoclaw.z.ai/) |
-| **AutoClaw（智谱）** | `glm-5.3-flash` | 智谱原生多模态模型 | 登录领 4,000 万 Tokens（每账号一次） | 2026-11-01（剩余 6 天） | **63.92** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw（智谱）** | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 登录领 4,000 万 Tokens（每账号一次） | 2026-11-01（剩余 5 天） | **65.92** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw（智谱）** | `glm-5.3-flash` | 智谱原生多模态模型 | 登录领 4,000 万 Tokens（每账号一次） | 2026-11-01（剩余 5 天） | **63.92** | [→](https://autoclaw.z.ai/) |
 | **AiHubMix** | `xiaomi-mimo-v2.6-pro-free` | 小米 MiMo V2.6 Pro 旗舰版 | 67 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **53.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `qwen3.8-max-free` | 通义 Qwen3.8 旗舰，文本图像视频输入 | 67 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **52.87** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `coding-glm-5.3-free` | 智谱 GLM 5.3 编码专用版 | 67 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **52.47** | [→](https://aihubmix.com/models/free) |
@@ -28,7 +28,7 @@
 | **AiHubMix** | `gemini-3.8-flash-free` | 谷歌 Gemini 3.8 Flash | 67 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **49.87** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xiaomi-mimo-v2.6-flash-free` | 小米 MiMo V2.6 Flash 快速版 | 67 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **47.87** | [→](https://aihubmix.com/models/free) |
 | **Ollama** | `beam:cloud` | Reflection 开源推理模型 Beam 1.0 | Beam 限时免费（1M 上下文） | 未公布截止日 | **45.16** | [→](https://ollama.com/download) |
-| **AutoClaw（智谱）** | `glm-5-turbo` | 智谱快速推理模型，面向 Agent 环境优化 | 登录领 4,000 万 Tokens（每账号一次） | 2026-11-01（剩余 6 天） | **43.65** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw（智谱）** | `glm-5-turbo` | 智谱快速推理模型，面向 Agent 环境优化 | 登录领 4,000 万 Tokens（每账号一次） | 2026-11-01（剩余 5 天） | **43.65** | [→](https://autoclaw.z.ai/) |
 | **AiHubMix** | `coding-minimax-m3-free` | MiniMax M3 编码版 | 67 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **42.07** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `hy3-free` | 腾讯混元 Hy3 | 67 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **39.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `gemini-3.5-flash-lite-free` | 谷歌 Gemini 3.5 Flash Lite 轻量版 | 67 个模型 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **37.40** | [→](https://aihubmix.com/models/free) |
