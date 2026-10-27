@@ -18,7 +18,7 @@ The 15 best deals on the site right now, ranked by the Tokenation score.
 
 | Provider | Type | Model ID | Overview | Free quota | AA | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Qoder** | Limited-time | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | Flash free; DeepSeek free to 10/31 | 45.1 | No deadline announced | **90.07** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Qoder** | Limited-time | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | Flash free; DeepSeek free to 10/31 | 45.1 | 2026-10-31 | **90.07** | [→](https://docs.qoder.com/zh/events/deepseek-flash-free) |
 | **WorkBuddy Intl (Tencent)** | Limited-time | `deepseek-v4.1-flash-1017` | October 2026 snapshot of DeepSeek V4.1 Flash. | Free models, no credit burn; +30/day | 45.1 | 2026-10-31 (in 4 days) | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | Sparse MoE model from DeepSeek, first on its CED architecture. | 9 models fully Free, in-app only | 45.1 | No deadline announced | **90.07** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy Intl (Tencent)** | Limited-time | `step-5-preview` | StepFun flagship for agentic work, sparse MoE with 27B active. | Free models, no credit burn; +30/day | 43.7 | 2026-10-31 (in 4 days) | **89.13** | [→](https://www.workbuddy.ai/) |
@@ -70,7 +70,7 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 
 | 平台 | 类型 | 模型 ID | 介绍 | 免费额度 | AA | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Qoder** | 限时 | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | Flash 免费；DeepSeek 限免至 10/31 | 45.1 | 未公布截止日 | **90.07** | [→](https://docs.qoder.com/zh/events/flashoffer) |
+| **Qoder** | 限时 | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | Flash 免费；DeepSeek 限免至 10/31 | 45.1 | 2026-10-31 | **90.07** | [→](https://docs.qoder.com/zh/events/deepseek-flash-free) |
 | **WorkBuddy 国际版（腾讯）** | 限时 | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | 限免模型不扣积分，另每日 30 Credits | 45.1 | 2026-10-31（剩余 4 天） | **90.07** | [→](https://www.workbuddy.ai/) |
 | **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 9 个模型全项 Free，仅限应用内调用 | 45.1 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
 | **WorkBuddy 国际版（腾讯）** | 限时 | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | 限免模型不扣积分，另每日 30 Credits | 43.7 | 2026-10-31（剩余 4 天） | **89.13** | [→](https://www.workbuddy.ai/) |
