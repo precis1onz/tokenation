@@ -1,62 +1,59 @@
 各平台限时免费活动，按推荐指数从高到低排列，口径见首页
 
-（更新至 2026-10-30）
+（更新至 2026-11-01）
 
 | 平台 | 模型 ID | 介绍 | 免费额度 | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- | --- |
-| **Qoder** | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | Flash 免费；DeepSeek 限免至 10/31 | 2026-10-31（剩余 1 天） | **90.07** | [→](https://docs.qoder.com/zh/events/flashoffer) |
-| **WorkBuddy 国际版（腾讯）** | `deepseek-v4.1-flash-1017` | DeepSeek V4.1 Flash 的 10 月快照版本 | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余 1 天） | **90.07** | [→](https://www.workbuddy.ai/) |
-| **OpenCode Zen** | `deepseek-v4.1-flash-free` | DeepSeek 稀疏 MoE 模型，首个采用 CED 架构 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
-| **WorkBuddy 国际版（腾讯）** | `step-5-preview` | 阶跃旗舰，稀疏 MoE 激活 27B，面向 Agent | 限免模型不扣积分，另每日 30 Credits | 2026-10-31（剩余 1 天） | **89.13** | [→](https://www.workbuddy.ai/) |
-| **OpenCode Zen** | `glm-5.3-flash-free` | 智谱原生多模态模型 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
-| **Qoder** | `qwen3.8-flash` | 阿里通义多模态推理模型 | Flash 免费；DeepSeek 限免至 10/31 | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/zh/events/flashoffer) |
-| **OpenCode Zen** | `mimo-v2.6-flash-free` | 小米开源基础模型 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **85.27** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Go** | `beam-free` | Reflection 开源推理模型 Beam 1.0 | Beam Free 与 Iceman 两限免，不限量 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
-| **OpenCode Zen** | `beam-free` | Reflection 开源推理模型 Beam 1.0 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/zen/) |
-| **Vercel AI Gateway** | `reflection/beam-free` | Reflection 开源推理模型 Beam 1.0 | 4 个免费模型（$0），另有折扣促销 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
-| **OpenCode Zen** | `nemotron-3.5-super-vl-free` | 英伟达开源多模态 MoE，激活 12B、总参 120B | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **77.67** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Zen** | `nemotron-3-ultra-free` | 英伟达开源前沿推理与编排模型，激活 55B | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **75.27** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Go** | `iceman-contributor-free` | 官方未公布能力与参数量，仅标限时免费 | Beam Free 与 Iceman 两限免，不限量 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/go/) |
-| **OpenCode Zen** | `big-pickle` | OpenCode Zen 上的代号模型，官方未公布能力说明 | 9 个模型全项 Free，仅限应用内调用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
-| **Vercel AI Gateway** | `poolside/laguna-s-2.1-free` | Poolside 最新编码 Agent 模型 | 4 个免费模型（$0），另有折扣促销 | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
-| **AutoClaw（智谱）** | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 登录领 4,000 万 Tokens（每账号一次） | 2026-11-01（剩余 2 天） | **65.92** | [→](https://autoclaw.z.ai/) |
-| **AutoClaw（智谱）** | `glm-5.3-flash` | 智谱原生多模态模型 | 登录领 4,000 万 Tokens（每账号一次） | 2026-11-01（剩余 2 天） | **63.92** | [→](https://autoclaw.z.ai/) |
-| **AiHubMix** | `xiaomi-mimo-v2.6-pro-free` | 小米 MiMo V2.6 Pro 旗舰版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **53.47** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-glm-5.3-free` | 智谱 GLM 5.3 编码专用版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **52.47** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-glm-5.3-flash-free` | 智谱 GLM 5.3 Flash 编码快速版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **50.47** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `xiaomi-mimo-v2.6-flash-free` | 小米 MiMo V2.6 Flash 快速版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **47.87** | [→](https://aihubmix.com/models/free) |
-| **Ollama** | `beam:cloud` | Reflection 开源推理模型 Beam 1.0 | Beam 限时免费（1M 上下文） | 未公布截止日 | **45.16** | [→](https://ollama.com/download) |
-| **AutoClaw（智谱）** | `glm-5-turbo` | 智谱快速推理模型，面向 Agent 环境优化 | 登录领 4,000 万 Tokens（每账号一次） | 2026-11-01（剩余 2 天） | **43.65** | [→](https://autoclaw.z.ai/) |
-| **AiHubMix** | `coding-minimax-m3-free` | MiniMax M3 编码版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **42.07** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `hy3-free` | 腾讯混元 Hy3 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **39.47** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-glm-4.6-free` | 智谱 GLM 4.6 编码专用版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-glm-4.7-free` | 智谱 GLM 4.7 编码专用版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-glm-5-free` | 智谱 GLM 5 编码专用版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-glm-5-turbo-free` | 智谱 GLM 5 Turbo 编码加速版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-glm-5.1-free` | 智谱 GLM 5.1 编码专用版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-glm-5.2-free` | 智谱 GLM 5.2 编码专用版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-kimi-k3-free` | 月之暗面 Kimi K3 编码版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-minimax-m2-free` | MiniMax M2 编码版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-minimax-m2.1-free` | MiniMax M2.1 编码版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-minimax-m2.5-free` | MiniMax M2.5 编码版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `coding-minimax-m2.7-free` | MiniMax M2.7 编码版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `dots-3-note-preview-free` | 小红书 dots 3 Note 预览版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `flint-v1.0-free` | Recursive 开源 40B MoE 编码模型 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `gemma-4-26b-a4b-it-free` | 谷歌 Gemma 4 26B MoE 指令版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `gemma-4-31b-it-free` | 谷歌 Gemma 4 31B 稠密指令版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `glm-4.7-flash-free` | 智谱 GLM 4.7 Flash，低延迟对话 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `intern-s2-free` | 上海 AI 实验室 Intern S2 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `k2.6-code-preview-free` | 月之暗面 Kimi K2.6 代码预览版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `kimi-for-coding-free` | 月之暗面 Kimi 编码专用版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `laguna-s-2.1-free` | Poolside Laguna S 2.1 编码模型 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `laguna-xs-2.1-free` | Poolside Laguna XS 2.1 小型编码模型 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `ling-3.0-flash-free` | 蚂蚁百灵 Ling 3.0 Flash 快速版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `mimo-v2-flash-free` | 小米 MiMo V2 Flash 快速版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `minimax-m2.7-free` | MiniMax M2.7 通用对话 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `nemotron-3-nano-30b-a3b-free` | 英伟达 Nemotron 3 Nano 30B MoE | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `nemotron-3-nano-omni-30b-a3b-reasoning-free` | 英伟达 Nemotron 3 Nano 全模态推理 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `nemotron-3-super-120b-a12b-free` | 英伟达 Nemotron 3 Super 120B MoE | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `nemotron-3-ultra-550b-a55b-free` | 英伟达 Nemotron 3 Ultra 550B MoE | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `qwen3.6-plus-preview-free` | 通义 Qwen3.6 Plus 预览版 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `union-alpha-free` | AiHubMix 免费池代号模型，未公布说明 | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | `xing4.0-29b-a4b-free` | 中国电信 TeleAI 开源 29B MoE，激活 4B | 免费模型池 $0，充值后 100 请求/天、1M tokens/天 | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **OpenCode Zen** | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash 限时免费模型 | 9 个模型全项 Free；仅限应用内 | 未公布截止日 | **90.07** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | `glm-5.3-flash-free` | GLM 5.3 Flash 限时免费模型 | 9 个模型全项 Free；仅限应用内 | 未公布截止日 | **87.87** | [→](https://opencode.ai/docs/zen/) |
+| **Qoder** | `qwen3.8-flash` | Qwen3.8-Flash 每日限额内不扣 Credits | Qwen3.8-Flash 每日免费；Efficient 档位 0.0× | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/events/flashoffer) |
+| **OpenCode Zen** | `mimo-v2.6-flash-free` | 小米开源基础模型 | 9 个模型全项 Free；仅限应用内 | 未公布截止日 | **85.27** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Go** | `beam-free` | OpenCode Go 内限时免费的 Beam 模型 | Beam 与 Iceman 限时免费；标注不限量 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
+| **OpenCode Zen** | `beam-free` | OpenCode Go 内限时免费的 Beam 模型 | 9 个模型全项 Free；仅限应用内 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/zen/) |
+| **Vercel AI Gateway** | `reflection/beam-free` | Beam 开放权重模型，约 501B 总参数 | 页面可读 3 个免费模型（38 个促销位） | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
+| **OpenCode Zen** | `nemotron-3.5-super-vl-free` | 英伟达开源多模态 MoE，激活 12B、总参 120B | 9 个模型全项 Free；仅限应用内 | 未公布截止日 | **77.67** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | `nemotron-3-ultra-free` | 英伟达开源前沿推理与编排模型，激活 55B | 9 个模型全项 Free；仅限应用内 | 未公布截止日 | **75.27** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Go** | `iceman-contributor-free` | 允许用提示词改进模型的限免档 | Beam 与 Iceman 限时免费；标注不限量 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/go/) |
+| **OpenCode Zen** | `big-pickle` | OpenCode Zen 定价页标注免费模型 | 9 个模型全项 Free；仅限应用内 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
+| **Vercel AI Gateway** | `poolside/laguna-s-2.1-free` | Poolside 最新编码 Agent 模型 | 页面可读 3 个免费模型（38 个促销位） | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
+| **AutoClaw（智谱）** | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 登录领 4,000 万 Tokens；11 月 8 日到期 | 2026-11-08（剩余 7 天） | **65.92** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw（智谱）** | `glm-5.3-flash` | AutoClaw 产品内 GLM-5.3-Flash 额度 | 登录领 4,000 万 Tokens；11 月 8 日到期 | 2026-11-08（剩余 7 天） | **63.92** | [→](https://autoclaw.z.ai/) |
+| **AiHubMix** | `xiaomi-mimo-v2.6-pro-free` | 小米 MiMo V2.6 Pro 旗舰版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **53.47** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-glm-5.3-free` | 智谱 GLM 5.3 编码专用版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **52.47** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-glm-5.3-flash-free` | 智谱 GLM 5.3 Flash 编码快速版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **50.47** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `xiaomi-mimo-v2.6-flash-free` | 小米 MiMo V2.6 Flash 快速版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **47.87** | [→](https://aihubmix.com/models/free) |
+| **Ollama** | `beam:cloud` | Beam MoE 模型，501B 总参数、23B 激活 | Beam 限时免费，1M 上下文 | 未公布截止日 | **45.16** | [→](https://ollama.com/download) |
+| **AutoClaw（智谱）** | `glm-5-turbo` | 智谱快速推理模型，面向 Agent 环境优化 | 登录领 4,000 万 Tokens；11 月 8 日到期 | 2026-11-08（剩余 7 天） | **43.65** | [→](https://autoclaw.z.ai/) |
+| **AiHubMix** | `coding-minimax-m3-free` | MiniMax M3 编码模型 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **42.07** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `hy3-free` | 腾讯混元 Hy3 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **39.47** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-glm-4.6-free` | 智谱 GLM 4.6 编码专用版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-glm-4.7-free` | 智谱 GLM 4.7 编码专用版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-glm-5-free` | 智谱 GLM 5 编码专用版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-glm-5-turbo-free` | 智谱 GLM 5 Turbo 编码加速版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-glm-5.1-free` | 智谱 GLM 5.1 编码专用版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-glm-5.2-free` | 智谱 GLM 5.2 编码专用版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-kimi-k3-free` | 月之暗面 Kimi K3 编码版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-minimax-m2-free` | MiniMax M2 编码版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-minimax-m2.1-free` | MiniMax M2.1 编码版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-minimax-m2.5-free` | MiniMax M2.5 编码版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `coding-minimax-m2.7-free` | MiniMax M2.7 编码版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `dots-3-note-preview-free` | 小红书 dots 3 Note 预览版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `flint-v1.0-free` | Recursive 开源 40B MoE 编码模型 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `gemma-4-26b-a4b-it-free` | 谷歌 Gemma 4 26B MoE 指令版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `gemma-4-31b-it-free` | 谷歌 Gemma 4 31B 稠密指令版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `glm-4.7-flash-free` | 智谱 GLM 4.7 Flash，低延迟对话 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `intern-s2-free` | 上海 AI 实验室 Intern S2 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `k2.6-code-preview-free` | 月之暗面 Kimi K2.6 代码预览版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `kimi-for-coding-free` | 月之暗面 Kimi 编码专用版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `laguna-s-2.1-free` | Poolside Laguna S 2.1 编码模型 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `laguna-xs-2.1-free` | Poolside Laguna XS 2.1 小型编码模型 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `ling-3.0-flash-free` | 蚂蚁百灵 Ling 3.0 Flash 快速版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `mimo-v2-flash-free` | 小米 MiMo V2 Flash 快速版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `minimax-m2.7-free` | MiniMax M2.7 通用对话 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `nemotron-3-nano-30b-a3b-free` | 英伟达 Nemotron 3 Nano 30B MoE | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `nemotron-3-nano-omni-30b-a3b-reasoning-free` | 英伟达 Nemotron 3 Nano 全模态推理 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `nemotron-3-super-120b-a12b-free` | 英伟达 Nemotron 3 Super 120B MoE | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `nemotron-3-ultra-550b-a55b-free` | 英伟达 Nemotron 3 Ultra 550B MoE | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `qwen3.6-plus-preview-free` | 通义 Qwen3.6 Plus 预览版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `union-alpha-free` | AiHubMix 免费池代号模型，未公布说明 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |
+| **AiHubMix** | `xing4.0-29b-a4b-free` | 中国电信 TeleAI 开源 29B MoE，激活 4B | 70 款模型 $0；充值后每日 100 请求、1M tokens | 未公布截止日 | **30.20** | [→](https://aihubmix.com/models/free) |

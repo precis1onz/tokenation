@@ -1,17 +1,17 @@
 各平台常态免费额度，按推荐指数从高到低排列，口径见首页
 
-（更新至 2026-10-30）
+（更新至 2026-11-01）
 
 | 平台 | 模型 ID | 介绍 | 免费额度 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- |
-| **Novita AI** | `apodex-1.1-mini` | Novita 上架，但未公布模型说明 | 部分模型免费，其余按 Token 计 | **77.60** | [→](https://novita.ai/pricing) |
+| **Novita AI** | `apodex-1.1-mini` | Apodex 1.1 Mini 免费模型，256K 上下文 | 部分模型免费，其余按 Token 计 | **77.60** | [→](https://novita.ai/pricing) |
 | **Google Gemini API** | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | 免费层按 RPM/RPD/TPM 限额 | **75.25** | [→](https://aistudio.google.com/apikey) |
-| **Zhipu AI（智谱）** | `glm-4-flash-250414` | 智谱免费文本模型，128K 上下文 | 6 款 Flash 模型输入输出免费，128K-200K 上下文 | **67.60** | [→](https://open.bigmodel.cn/) |
-| **Zhipu AI（智谱）** | `glm-4.1v-thinking-flash` | 智谱免费视觉推理模型，64K 上下文 | 6 款 Flash 模型输入输出免费，128K-200K 上下文 | **67.60** | [→](https://open.bigmodel.cn/) |
-| **Zhipu AI（智谱）** | `glm-4.5-flash` | 智谱免费文本模型，128K 上下文 | 6 款 Flash 模型输入输出免费，128K-200K 上下文 | **67.60** | [→](https://open.bigmodel.cn/) |
-| **Zhipu AI（智谱）** | `glm-4.6v-flash` | 智谱多模态模型，强于视觉理解与长上下文推理 | 6 款 Flash 模型输入输出免费，128K-200K 上下文 | **67.60** | [→](https://open.bigmodel.cn/) |
-| **Zhipu AI（智谱）** | `glm-4.7-flash` | 智谱 30B 级模型，兼顾性能与成本 | 6 款 Flash 模型输入输出免费，128K-200K 上下文 | **67.60** | [→](https://open.bigmodel.cn/) |
-| **Zhipu AI（智谱）** | `glm-4v-flash` | 智谱免费图像理解模型，16K 上下文 | 6 款 Flash 模型输入输出免费，128K-200K 上下文 | **67.60** | [→](https://open.bigmodel.cn/) |
+| **Zhipu AI（智谱）** | `glm-4-flash-250414` | 智谱免费文本模型，128K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
+| **Zhipu AI（智谱）** | `glm-4.1v-thinking-flash` | 智谱免费视觉推理模型，64K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
+| **Zhipu AI（智谱）** | `glm-4.5-flash` | 免费文本模型，128K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
+| **Zhipu AI（智谱）** | `glm-4.6v-flash` | 免费视觉推理模型，128K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
+| **Zhipu AI（智谱）** | `glm-4.7-flash` | 免费文本模型，200K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
+| **Zhipu AI（智谱）** | `glm-4v-flash` | 智谱免费图像理解模型，16K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
 | **Google Gemini API** | `gemini-3.5-flash-lite` | 谷歌高性价比模型，强化 Agent 能力 | 免费层按 RPM/RPD/TPM 限额 | **62.79** | [→](https://aistudio.google.com/apikey) |
 | **OpenRouter** | `nvidia/nemotron-3.5-super-vl:free` | 英伟达开源多模态 MoE，激活 12B、总参 120B | :free 模型 $0，20 RPM、50 RPD | **51.81** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `thinkingmachines/inkling-small:free` | 开源多模态 MoE，激活 12B、总参 276B | :free 模型 $0，20 RPM、50 RPD | **51.28** | [→](https://openrouter.ai/collections/free-models) |
