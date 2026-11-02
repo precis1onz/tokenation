@@ -1,11 +1,11 @@
 各平台常态免费额度，按推荐指数从高到低排列，口径见首页
 
-（更新至 2026-11-01）
+（更新至 2026-11-02）
 
 | 平台 | 模型 ID | 介绍 | 免费额度 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- |
 | **Novita AI** | `apodex-1.1-mini` | Apodex 1.1 Mini 免费模型，256K 上下文 | Apodex 1.1 Mini 输入输出免费；限额未公布 | **77.60** | [→](https://novita.ai/pricing) |
-| **Google Gemini API** | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | 免费层按 RPM/RPD/TPM 限额 | **68.35** | [→](https://aistudio.google.com/apikey) |
+| **Google Gemini API** | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | 免费层输入输出 $0；按项目限流 | **68.35** | [→](https://aistudio.google.com/apikey) |
 | **Zhipu AI（智谱）** | `glm-4-flash-250414` | 智谱免费文本模型，128K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
 | **Zhipu AI（智谱）** | `glm-4.1v-thinking-flash` | 智谱免费视觉推理模型，64K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
 | **Zhipu AI（智谱）** | `glm-4.5-flash` | 免费文本模型，128K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
