@@ -1,11 +1,11 @@
 Free tiers by provider, ranked by the Tokenation score, highest first. Scoring rule on the landing page.
 
-Updated 2026-11-02
+Updated 2026-11-03
 
 | Provider | Model ID | Overview | Free quota | Score | Link |
 | --- | --- | --- | --- | --- | --- |
 | **Novita AI** | `apodex-1.1-mini` | Apodex 1.1 Mini free model with 256K context | Apodex 1.1 Mini free in/out; cap… | **77.60** | [→](https://novita.ai/pricing) |
-| **Google Gemini API** | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Free-tier input/output $0; per-project … | **68.35** | [→](https://aistudio.google.com/apikey) |
+| **Google Gemini API** | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Gemini 3.8 Flash free-tier input/output… | **68.35** | [→](https://aistudio.google.com/apikey) |
 | **Zhipu AI (BigModel)** | `glm-4-flash-250414` | Zhipu free text model, 128K context. | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |
 | **Zhipu AI (BigModel)** | `glm-4.1v-thinking-flash` | Zhipu free visual-reasoning model, 64K context. | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |
 | **Zhipu AI (BigModel)** | `glm-4.5-flash` | Free text model with 128K context | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |

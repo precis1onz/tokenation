@@ -1,4 +1,4 @@
-![updated](https://img.shields.io/badge/updated-2026--11--02-blue) ![offers](https://img.shields.io/badge/offers-11-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
+![updated](https://img.shields.io/badge/updated-2026--11--03-blue) ![offers](https://img.shields.io/badge/offers-11-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
 
 <a id="top"></a>**中文读者**：[直达中文部分](#cn) · [中文 Top 15](#top15-cn) · [中文评分说明](#score-cn)　|　**English**: [Top 15](#top15-en) · [How the score works](#score-en)
 
@@ -19,11 +19,11 @@ The 9 best deals on the site right now, ranked by the Tokenation score.
 | Provider | Type | Model ID | Overview | Free quota | AA | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | **Qoder** | Limited-time | `qwen3.8-flash` | Qwen3.8-Flash uses no Credits within daily allowance | Qwen3.8-Flash daily free allowance… | 39.8 | No deadline announced | **86.53** | [→](https://docs.qoder.com/events/flashoffer) |
-| **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash free for a limited time | 9 models free on all listed rates; Jev … | 32.5 | No deadline announced | **81.66** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash free for a limited time | 10 limited-time free models; app-only | 32.5 | No deadline announced | **81.66** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Go** | Limited-time | `beam-free` | Beam model free for a limited time in OpenCode Go | Beam + Iceman limited-time free; both… | 30.3 | No deadline announced | **80.20** | [→](https://opencode.ai/docs/go/) |
-| **Vercel AI Gateway** | Limited-time | `reflection/beam-free` | Beam open-weight model with ~501B total parameters | 4 visible free models (35 declared… | 30.3 | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
-| **Google Gemini API** | Evergreen | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Free-tier input/output $0; per-project … | 30.5 | Ongoing | **68.35** | [→](https://aistudio.google.com/apikey) |
-| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | Log in for 40M tokens; expires Nov 8 | 31.7 | 2026-11-08 (in 6 days) | **57.15** | [→](https://autoclaw.z.ai/) |
+| **Vercel AI Gateway** | Limited-time | `reflection/beam-free` | Beam open-weight model with ~501B total parameters | 3 visible models at $0 input/output (36… | 30.3 | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
+| **Google Gemini API** | Evergreen | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Gemini 3.8 Flash free-tier input/output… | 30.5 | Ongoing | **68.35** | [→](https://aistudio.google.com/apikey) |
+| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 40M tokens; Nov 4 bonus 100M, valid 24 … | 31.7 | 2026-11-08 (in 5 days) | **57.15** | [→](https://autoclaw.z.ai/) |
 | **AiHubMix** | Limited-time | `xiaomi-mimo-v2.6-pro-free` | Xiaomi MiMo V2.6 Pro flagship. | 70 models at $0; after top-up, 100 req/… | 46.3 | No deadline announced | **53.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | Limited-time | `coding-glm-5.3-free` | Z.ai GLM 5.3 coding variant. | 70 models at $0; after top-up, 100 req/… | 44.8 | No deadline announced | **52.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | Limited-time | `coding-glm-5.3-flash-free` | Z.ai GLM 5.3 Flash coding variant. | 70 models at $0; after top-up, 100 req/… | 41.8 | No deadline announced | **50.47** | [→](https://aihubmix.com/models/free) |
@@ -64,12 +64,12 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 
 | 平台 | 类型 | 模型 ID | 介绍 | 免费额度 | AA | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Qoder** | 限时 | `qwen3.8-flash` | Qwen3.8-Flash 每日限额内不扣 Credits | Qwen3.8-Flash 每日额度免费；Efficient 档位 0.0× | 39.8 | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/events/flashoffer) |
-| **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash 限时免费模型 | 9 个模型全项 Free；另 Jev 输入输出免费 | 32.5 | 未公布截止日 | **81.66** | [→](https://opencode.ai/docs/zen/) |
+| **Qoder** | 限时 | `qwen3.8-flash` | Qwen3.8-Flash 每日限额内不扣 Credits | Qwen3.8-Flash 每日额度免费；另每日领 100 Credits | 39.8 | 未公布截止日 | **86.53** | [→](https://docs.qoder.com/events/flashoffer) |
+| **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash 限时免费模型 | 10 个限时免费模型；仅限应用内使用 | 32.5 | 未公布截止日 | **81.66** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Go** | 限时 | `beam-free` | OpenCode Go 内限时免费的 Beam 模型 | Beam 与 Iceman 限时免费；均标 Unlimited | 30.3 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
-| **Vercel AI Gateway** | 限时 | `reflection/beam-free` | Beam 开放权重模型，约 501B 总参数 | 页面可读 4 个免费模型（35 个促销位） | 30.3 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
-| **Google Gemini API** | 常态 | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | 免费层输入输出 $0；按项目限流 | 30.5 | 长期有效 | **68.35** | [→](https://aistudio.google.com/apikey) |
-| **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 登录领 4,000 万 Tokens；11 月 8 日到期 | 31.7 | 2026-11-08（剩余 6 天） | **57.15** | [→](https://autoclaw.z.ai/) |
+| **Vercel AI Gateway** | 限时 | `reflection/beam-free` | Beam 开放权重模型，约 501B 总参数 | 3 个可读模型输入输出 $0（共 36 个促销位） | 30.3 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
+| **Google Gemini API** | 常态 | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | Gemini 3.8 Flash 免费层输入输出 $0；按项目限流 | 30.5 | 长期有效 | **68.35** | [→](https://aistudio.google.com/apikey) |
+| **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 4,000 万 Tokens；11/4 加码 1 亿，24 小时有效 | 31.7 | 2026-11-08（剩余 5 天） | **57.15** | [→](https://autoclaw.z.ai/) |
 | **AiHubMix** | 限时 | `xiaomi-mimo-v2.6-pro-free` | 小米 MiMo V2.6 Pro 旗舰版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 46.3 | 未公布截止日 | **53.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | 限时 | `coding-glm-5.3-free` | 智谱 GLM 5.3 编码专用版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 44.8 | 未公布截止日 | **52.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | 限时 | `coding-glm-5.3-flash-free` | 智谱 GLM 5.3 Flash 编码快速版 | 70 款模型 $0；充值后每日 100 请求、1M tokens | 41.8 | 未公布截止日 | **50.47** | [→](https://aihubmix.com/models/free) |
