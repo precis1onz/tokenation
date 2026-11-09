@@ -18,8 +18,8 @@ The 8 best deals on the site right now, ranked by the Tokenation score.
 
 | Provider | Type | Model ID | Overview | Free quota | AA | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash free for a limited time | 12 limited-time free models; OpenCode… | 32.6 | No deadline announced | **81.73** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Go** | Limited-time | `beam-free` | Beam open-weight model, 501B total | 3 limited-time free models; all marked … | 30.3 | No deadline announced | **80.20** | [→](https://opencode.ai/docs/go/) |
+| **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash free for a limited time | 14 limited-time free models; OpenCode… | 32.6 | No deadline announced | **81.73** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Go** | Limited-time | `beam-free` | Beam open-weight model, 501B total | 4 limited-time free models; all marked … | 30.3 | No deadline announced | **80.20** | [→](https://opencode.ai/docs/go/) |
 | **Vercel AI Gateway** | Limited-time | `reflection/beam-free` | Beam open-weight model with ~501B total parameters | 3 readable models at $0 in/out (38… | 30.3 | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
 | **Google Gemini API** | Evergreen | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Gemini 3.8 Flash free-tier input/output… | 30.8 | Ongoing | **68.55** | [→](https://aistudio.google.com/apikey) |
 | **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 100M tokens; expires Nov 15 at 23:59… | 31.7 | 2026-11-15 (in 6 days) | **57.15** | [→](https://autoclaw.z.ai/) |
@@ -63,8 +63,8 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 
 | 平台 | 类型 | 模型 ID | 介绍 | 免费额度 | AA | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash 限时免费模型 | 12 个限时免费模型；需在 OpenCode 内使用 | 32.6 | 未公布截止日 | **81.73** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Go** | 限时 | `beam-free` | Beam 开放权重模型，501B 总参数 | 3 个限时免费模型；均标 Unlimited | 30.3 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
+| **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash 限时免费模型 | 14 个限时免费模型；需在 OpenCode 内使用 | 32.6 | 未公布截止日 | **81.73** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Go** | 限时 | `beam-free` | Beam 开放权重模型，501B 总参数 | 4 个限时免费模型；均标 Unlimited | 30.3 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
 | **Vercel AI Gateway** | 限时 | `reflection/beam-free` | Beam 开放权重模型，约 501B 总参数 | 3 个可读模型输入输出 $0（共 38 个促销位） | 30.3 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
 | **Google Gemini API** | 常态 | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | Gemini 3.8 Flash 免费层输入输出免费；按项目限流 | 30.8 | 长期有效 | **68.55** | [→](https://aistudio.google.com/apikey) |
 | **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 1 亿 Tokens；11/15 23:59 到期 | 31.7 | 2026-11-15（剩余 6 天） | **57.15** | [→](https://autoclaw.z.ai/) |
