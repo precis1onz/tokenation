@@ -1,11 +1,12 @@
 Free tiers by provider, ranked by the Tokenation score, highest first. Scoring rule on the landing page.
 
-Updated 2026-11-14
+Updated 2026-11-15
 
 | Provider | Model ID | Overview | Free quota | Score | Link |
 | --- | --- | --- | --- | --- | --- |
+| **Google Gemini API** | `gemini-4-hydrogen` | Google's Gemini 4 flagship with a 1M-token context | Gemini 4 Hydrogen and 3.8 Flash… | **93.61** | [→](https://aistudio.google.com/apikey) |
 | **Novita AI** | `apodex-1.1-mini` | Apodex 1.1 Mini free model with 256K context | Apodex 1.1 Mini free in/out; cap… | **77.60** | [→](https://novita.ai/pricing) |
-| **Google Gemini API** | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Gemini 3.8 Flash free-tier input/output… | **68.55** | [→](https://aistudio.google.com/apikey) |
+| **Google Gemini API** | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Gemini 4 Hydrogen and 3.8 Flash… | **68.55** | [→](https://aistudio.google.com/apikey) |
 | **Together AI** | `prism-ml/ternary-bonsai-27b` | 27B ternary-quantized open model, 262K context. | Ternary Bonsai 27B free in/out | **67.60** | [→](https://www.together.ai/pricing) |
 | **Zhipu AI (BigModel)** | `glm-4-flash-250414` | Zhipu free text model, 128K context. | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |
 | **Zhipu AI (BigModel)** | `glm-4.1v-thinking-flash` | Zhipu free visual-reasoning model, 64K context. | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |
@@ -21,11 +22,9 @@ Updated 2026-11-14
 | **AiHubMix** | `xiaomi-mimo-v2.6-flash-free` | Xiaomi MiMo V2.6 Flash | 76 models at $0; 100 req/day, 1M tokens… | **47.87** | [→](https://aihubmix.com/models/free) |
 | **OpenRouter** | `baidu/ernie-5.5-flash-preview:free` | Baidu ERNIE 5.5 Flash Preview, 280B parameters. | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `dots-studio/dots-3-note-preview:free` | Dots Studio open 280B MoE, 16B active | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
-| **OpenRouter** | `google/gemma-4-26b-a4b-it:free` | Google open 26B MoE, 4B active, multimodal | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
-| **OpenRouter** | `google/gemma-4-31b-it:free` | Google Gemma 4 31B dense multimodal, 256K context. | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
-| **OpenRouter** | `inclusionai/ling-3.2-flash:free` | inclusionAI Ling 3.2 Flash hybrid reasoning, 1M context. | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `inclusionai/ling-3.2-flash:free` | inclusionAI Ling 3.2 hybrid reasoning model with image input | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `liquid/lfm-3-1.7b:free` | Compact 1.7B text model from Liquid AI, 256K context. | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
-| **OpenRouter** | `particle-ai/particle-1:free` | Particle AI agentic coding model, 1M context. | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `particle-ai/particle-1:free` | Particle AI agentic coding model with token-efficient reasoning | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `recursive/flint-v1.0:free` | Recursive 40B MoE coder, 2.5B active | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **AiHubMix** | `hy3-free` | Tencent Hunyuan Hy3 | 76 models at $0; 100 req/day, 1M tokens… | **39.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `gemini-3.5-flash-lite-free` | Gemini 3.5 Flash Lite | 76 models at $0; 100 req/day, 1M tokens… | **37.40** | [→](https://aihubmix.com/models/free) |

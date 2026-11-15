@@ -1,11 +1,12 @@
 各平台常态免费额度，按推荐指数从高到低排列，口径见首页
 
-（更新至 2026-11-14）
+（更新至 2026-11-15）
 
 | 平台 | 模型 ID | 介绍 | 免费额度 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- |
+| **Google Gemini API** | `gemini-4-hydrogen` | 谷歌 Gemini 4 旗舰，统一 1M 上下文 | Gemini 4 Hydrogen、3.8 Flash… | **93.61** | [→](https://aistudio.google.com/apikey) |
 | **Novita AI** | `apodex-1.1-mini` | Apodex 1.1 Mini 免费模型，256K 上下文 | Apodex 1.1 Mini 输入输出免费；限额未公布 | **77.60** | [→](https://novita.ai/pricing) |
-| **Google Gemini API** | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | Gemini 3.8 Flash 免费层输入输出免费；按项目限流 | **68.55** | [→](https://aistudio.google.com/apikey) |
+| **Google Gemini API** | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | Gemini 4 Hydrogen、3.8 Flash… | **68.55** | [→](https://aistudio.google.com/apikey) |
 | **Together AI** | `prism-ml/ternary-bonsai-27b` | 27B 三元量化开源模型，262K 上下文 | Ternary Bonsai 27B 输入输出免费 | **67.60** | [→](https://www.together.ai/pricing) |
 | **Zhipu AI（智谱）** | `glm-4-flash-250414` | 智谱免费文本模型，128K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
 | **Zhipu AI（智谱）** | `glm-4.1v-thinking-flash` | 智谱免费视觉推理模型，64K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |
@@ -21,11 +22,9 @@
 | **AiHubMix** | `xiaomi-mimo-v2.6-flash-free` | 小米 MiMo V2.6 Flash | 76 款模型 $0；充值后每日 100 请求、1M tokens | **47.87** | [→](https://aihubmix.com/models/free) |
 | **OpenRouter** | `baidu/ernie-5.5-flash-preview:free` | 百度 ERNIE 5.5 Flash 预览，280B 总参数 | :free 模型 $0，20 RPM、50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `dots-studio/dots-3-note-preview:free` | Dots Studio 开源 280B MoE，激活 16B | :free 模型 $0，20 RPM、50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
-| **OpenRouter** | `google/gemma-4-26b-a4b-it:free` | 谷歌开源 26B MoE，激活 4B，多模态 | :free 模型 $0，20 RPM、50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
-| **OpenRouter** | `google/gemma-4-31b-it:free` | 谷歌 Gemma 4 31B 稠密多模态，256K 上下文 | :free 模型 $0，20 RPM、50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
-| **OpenRouter** | `inclusionai/ling-3.2-flash:free` | 蚂蚁百灵 Ling 3.2 Flash 混合推理，1M 上下文 | :free 模型 $0，20 RPM、50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `inclusionai/ling-3.2-flash:free` | 蚂蚁 Ling 3.2 混合推理，支持图像 | :free 模型 $0，20 RPM、50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `liquid/lfm-3-1.7b:free` | Liquid AI 1.7B 轻量文本模型，256K 上下文 | :free 模型 $0，20 RPM、50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
-| **OpenRouter** | `particle-ai/particle-1:free` | Particle AI 编码 Agent 模型，1M 上下文 | :free 模型 $0，20 RPM、50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `particle-ai/particle-1:free` | 粒子 AI 智能体编码模型，省 token | :free 模型 $0，20 RPM、50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `recursive/flint-v1.0:free` | Recursive 40B MoE 编码模型，激活 2.5B | :free 模型 $0，20 RPM、50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **AiHubMix** | `hy3-free` | 腾讯混元 Hy3 | 76 款模型 $0；充值后每日 100 请求、1M tokens | **39.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `gemini-3.5-flash-lite-free` | Gemini 3.5 Flash Lite 轻量版 | 76 款模型 $0；充值后每日 100 请求、1M tokens | **37.40** | [→](https://aihubmix.com/models/free) |
