@@ -1,6 +1,6 @@
 Free tiers by provider, ranked by the Tokenation score, highest first. Scoring rule on the landing page.
 
-Updated 2026-11-15
+Updated 2026-11-17
 
 | Provider | Model ID | Overview | Free quota | Score | Link |
 | --- | --- | --- | --- | --- | --- |
