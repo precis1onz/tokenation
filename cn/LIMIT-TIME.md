@@ -1,20 +1,19 @@
 各平台限时免费活动，按推荐指数从高到低排列，口径见首页
 
-（更新至 2026-11-17）
+（更新至 2026-11-18）
 
 | 平台 | 模型 ID | 介绍 | 免费额度 | 截止 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- | --- |
-| **OpenCode Zen** | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash 限时免费模型 | 13 个限时免费模型；需在 OpenCode 内使用 | 未公布截止日 | **81.73** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash 限时免费模型 | 12 个限时免费模型；需在 OpenCode 内使用 | 未公布截止日 | **81.73** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Go** | `beam-free` | Beam 开放权重模型，501B 总参数 | 4 个限时免费模型；不计入 Go 月度额度 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
 | **Vercel AI Gateway** | `reflection/beam-free` | Beam 开放权重模型，约 501B 总参数 | 4 个可读模型输入输出 $0（共 28 个促销位） | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
-| **OpenCode Zen** | `glm-5.3-flash-free` | GLM 5.3 Flash 限时免费模型 | 13 个限时免费模型；需在 OpenCode 内使用 | 未公布截止日 | **78.54** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Zen** | `mimo-v2.6-flash-free` | 小米开源基础模型 | 13 个限时免费模型；需在 OpenCode 内使用 | 未公布截止日 | **77.82** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | `mimo-v2.6-flash-free` | 小米开源基础模型 | 12 个限时免费模型；需在 OpenCode 内使用 | 未公布截止日 | **77.82** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Go** | `hy4-flash-free` | 官方未公布 Hy4 Flash 的模型定位 | 4 个限时免费模型；不计入 Go 月度额度 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/go/) |
 | **OpenCode Go** | `iceman-contributor-free` | 允许用提示词改进模型的限免档 | 4 个限时免费模型；不计入 Go 月度额度 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/go/) |
-| **OpenCode Zen** | `big-pickle` | OpenCode 隐身模型，限时免费 | 13 个限时免费模型；需在 OpenCode 内使用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Zen** | `hy4-flash-free` | 官方未公布 Hy4 Flash 的模型定位 | 13 个限时免费模型；需在 OpenCode 内使用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | `big-pickle` | OpenCode 隐身模型，限时免费 | 12 个限时免费模型；需在 OpenCode 内使用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
+| **OpenCode Zen** | `hy4-flash-free` | 官方未公布 Hy4 Flash 的模型定位 | 12 个限时免费模型；需在 OpenCode 内使用 | 未公布截止日 | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | `efficient` | Efficient 标准推理档位，非单一模型 | Efficient 档位限时 0 Credits；另每日领 100… | 未公布截止日 | **67.60** | [→](https://docs.qoder.com/events/efficientunlimited.md) |
 | **Vercel AI Gateway** | `stealth/glyph-cluster` | Glyph Cluster 免费模型，官方未公布介绍 | 4 个可读模型输入输出 $0（共 28 个促销位） | 未公布截止日 | **67.60** | [→](https://vercel.com/ai-gateway) |
-| **AutoClaw（智谱）** | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 1 亿 Tokens；11/22 23:59 到期 | 2026-11-22（剩余 5 天） | **57.15** | [→](https://autoclaw.z.ai/) |
-| **AutoClaw（智谱）** | `glm-5.3-flash` | AutoClaw 产品内 GLM-5.3-Flash 额度 | 1 亿 Tokens；11/22 23:59 到期 | 2026-11-22（剩余 5 天） | **54.59** | [→](https://autoclaw.z.ai/) |
-| **AutoClaw（智谱）** | `glm-5-turbo` | 智谱快速推理模型，面向 Agent 环境优化 | 1 亿 Tokens；11/22 23:59 到期 | 2026-11-22（剩余 5 天） | **43.65** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw（智谱）** | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 1 亿 Tokens；11/22 23:59 到期 | 2026-11-22（剩余 4 天） | **57.15** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw（智谱）** | `glm-5.3-flash` | AutoClaw 产品内 GLM-5.3-Flash 额度 | 1 亿 Tokens；11/22 23:59 到期 | 2026-11-22（剩余 4 天） | **54.59** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw（智谱）** | `glm-5-turbo` | 智谱快速推理模型，面向 Agent 环境优化 | 1 亿 Tokens；11/22 23:59 到期 | 2026-11-22（剩余 4 天） | **43.65** | [→](https://autoclaw.z.ai/) |
