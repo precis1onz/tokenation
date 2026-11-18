@@ -75,3 +75,10 @@
 | **AiHubMix** | `xiaomi-mimo-v2.5-pro-free` | 小米 MiMo V2.5 Pro 旗舰 | 76 款模型 $0；充值后每日 100 请求、1M tokens | **30.20** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xing4.0-29b-a4b-free` | TeleAI Xing4.0 29B MoE | 76 款模型 $0；充值后每日 100 请求、1M tokens | **30.20** | [→](https://aihubmix.com/models/free) |
 | **GroqCloud** | `qwen/qwen3.8-27b` | 通义开源 27B 稠密视觉语言模型 | 30 RPM、1,000 RPD、200K TPD | **24.28** | [→](https://console.groq.com/keys) |
+| **AMD Radeon Cloud** | `DeepSeek-V4.1-Flash` | DeepSeek V4.1 Flash，AMD GPU 云官方托管，OpenAI 兼容 | 每天 1 积分（注册 14 天内每天 5 积分），12 个免费模型共用；需手机号注册 | 待评分 | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `DeepSeek-V4-Flash` | DeepSeek V4 Flash，AMD GPU 云官方托管，OpenAI 兼容 | 每天 1 积分（注册 14 天内每天 5 积分），12 个免费模型共用；需手机号注册 | 待评分 | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `GLM-5.3-Flash` | 智谱 GLM-5.3 Flash，AMD GPU 云官方托管，OpenAI 兼容 | 每天 1 积分（注册 14 天内每天 5 积分），12 个免费模型共用；需手机号注册 | 待评分 | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `MiMo-V2.6-Flash` | 小米 MiMo V2.6 Flash，AMD GPU 云官方托管，OpenAI 兼容 | 每天 1 积分（注册 14 天内每天 5 积分），12 个免费模型共用；需手机号注册 | 待评分 | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `Qwen3.8-27B` | 通义 Qwen3.8 27B，AMD GPU 云官方托管，OpenAI 兼容 | 每天 1 积分（注册 14 天内每天 5 积分），12 个免费模型共用；需手机号注册 | 待评分 | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `Gemma-4-31B-IT` | Google Gemma 4 31B，AMD GPU 云官方托管，OpenAI 兼容 | 每天 1 积分（注册 14 天内每天 5 积分），12 个免费模型共用；需手机号注册 | 待评分 | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `MiniCPM-V-4.7-35B-A3B` | 面壁 MiniCPM-V 4.7 35B-A3B 视觉模型，AMD GPU 云官方托管，OpenAI 兼容 | 每天 1 积分（注册 14 天内每天 5 积分），12 个免费模型共用；需手机号注册 | 待评分 | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
