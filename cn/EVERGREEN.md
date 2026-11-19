@@ -1,11 +1,10 @@
 各平台常态免费额度，按推荐指数从高到低排列，口径见首页
 
-（更新至 2026-11-18）
+（更新至 2026-11-19）
 
 | 平台 | 模型 ID | 介绍 | 免费额度 | 推荐指数 | 链接 |
 | --- | --- | --- | --- | --- | --- |
 | **Google Gemini API** | `gemini-4-hydrogen` | 谷歌 Gemini 4 旗舰，统一 1M 上下文 | Gemini 4 Hydrogen、3.8 Flash… | **93.61** | [→](https://aistudio.google.com/apikey) |
-| **Novita AI** | `apodex-1.1-mini` | Apodex 1.1 Mini 免费模型，256K 上下文 | Apodex 1.1 Mini 输入输出免费；限额未公布 | **77.60** | [→](https://novita.ai/pricing) |
 | **Google Gemini API** | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | Gemini 4 Hydrogen、3.8 Flash… | **68.55** | [→](https://aistudio.google.com/apikey) |
 | **Together AI** | `prism-ml/ternary-bonsai-27b` | 27B 三元量化开源模型，262K 上下文 | Ternary Bonsai 27B 输入输出免费 | **67.60** | [→](https://www.together.ai/pricing) |
 | **Zhipu AI（智谱）** | `glm-4-flash-250414` | 智谱免费文本模型，128K 上下文 | 多款 Flash 模型输入输出免费；限流未公布 | **67.60** | [→](https://open.bigmodel.cn/) |

@@ -1,11 +1,10 @@
 Free tiers by provider, ranked by the Tokenation score, highest first. Scoring rule on the landing page.
 
-Updated 2026-11-18
+Updated 2026-11-19
 
 | Provider | Model ID | Overview | Free quota | Score | Link |
 | --- | --- | --- | --- | --- | --- |
 | **Google Gemini API** | `gemini-4-hydrogen` | Google's Gemini 4 flagship with a 1M-token context | Gemini 4 Hydrogen and 3.8 Flash… | **93.61** | [→](https://aistudio.google.com/apikey) |
-| **Novita AI** | `apodex-1.1-mini` | Apodex 1.1 Mini free model with 256K context | Apodex 1.1 Mini free in/out; cap… | **77.60** | [→](https://novita.ai/pricing) |
 | **Google Gemini API** | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Gemini 4 Hydrogen and 3.8 Flash… | **68.55** | [→](https://aistudio.google.com/apikey) |
 | **Together AI** | `prism-ml/ternary-bonsai-27b` | 27B ternary-quantized open model, 262K context. | Ternary Bonsai 27B free in/out | **67.60** | [→](https://www.together.ai/pricing) |
 | **Zhipu AI (BigModel)** | `glm-4-flash-250414` | Zhipu free text model, 128K context. | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |
