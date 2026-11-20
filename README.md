@@ -1,4 +1,4 @@
-![updated](https://img.shields.io/badge/updated-2026--11--19-blue) ![offers](https://img.shields.io/badge/offers-11-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
+![updated](https://img.shields.io/badge/updated-2026--11--20-blue) ![offers](https://img.shields.io/badge/offers-11-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
 
 <a id="top"></a>**中文读者**：[直达中文部分](#cn) · [中文 Top 15](#top15-cn) · [中文评分说明](#score-cn)　|　**English**: [Top 15](#top15-en) · [How the score works](#score-en)
 
@@ -23,7 +23,7 @@ The 10 best deals on the site right now, ranked by the Tokenation score.
 | **OpenCode Go** | Limited-time | `beam-free` | Beam open-weight model, 501B total | 4 limited-time free models; outside the… | 30.3 | No deadline announced | **80.20** | [→](https://opencode.ai/docs/go/) |
 | **Vercel AI Gateway** | Limited-time | `reflection/beam-free` | Beam open-weight model with ~501B total parameters | 4 readable models at $0 in/out (28… | 30.3 | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
 | **Google Gemini API** | Evergreen | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Gemini 4 Hydrogen and 3.8 Flash… | 30.8 | Ongoing | **68.55** | [→](https://aistudio.google.com/apikey) |
-| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 100M tokens; expires Nov 22 at 23:59… | 31.7 | 2026-11-22 (in 3 days) | **57.15** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 50M intl / 100M CN tokens; Nov 29 | 31.7 | 2026-11-29 (over 7 days left) | **57.15** | [→](https://autoclaw.z.ai/) |
 | **OpenRouter** | Evergreen | `thinkingmachines/inkling-2-small:free` | Multimodal MoE reasoning model from Thinking Machines. | :free models $0, 20 RPM, 50 RPD | 30.6 | Ongoing | **54.57** | [→](https://openrouter.ai/collections/free-models) |
 | **AiHubMix** | Evergreen | `xiaomi-mimo-v2.6-pro-free` | Xiaomi MiMo V2.6 Pro flagship | 76 models at $0; 100 req/day, 1M tokens… | 46.3 | Ongoing | **53.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | Evergreen | `qwen3.8-max-free` | Qwen3.8 Max flagship | 76 models at $0; 100 req/day, 1M tokens… | 45.4 | Ongoing | **52.87** | [→](https://aihubmix.com/models/free) |
@@ -70,7 +70,7 @@ Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实�
 | **OpenCode Go** | 限时 | `beam-free` | Beam 开放权重模型，501B 总参数 | 4 个限时免费模型；不计入 Go 月度额度 | 30.3 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
 | **Vercel AI Gateway** | 限时 | `reflection/beam-free` | Beam 开放权重模型，约 501B 总参数 | 4 个可读模型输入输出 $0（共 28 个促销位） | 30.3 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
 | **Google Gemini API** | 常态 | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | Gemini 4 Hydrogen、3.8 Flash… | 30.8 | 长期有效 | **68.55** | [→](https://aistudio.google.com/apikey) |
-| **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 1 亿 Tokens；11/22 23:59 到期 | 31.7 | 2026-11-22（剩余 3 天） | **57.15** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 国际站 5,000 万、中文站 1 亿 Tokens；11/29 到期 | 31.7 | 2026-11-29（剩余超7天） | **57.15** | [→](https://autoclaw.z.ai/) |
 | **OpenRouter** | 常态 | `thinkingmachines/inkling-2-small:free` | Thinking Machines 多模态 MoE 推理模型 | :free 模型 $0，20 RPM、50 RPD | 30.6 | 长期有效 | **54.57** | [→](https://openrouter.ai/collections/free-models) |
 | **AiHubMix** | 常态 | `xiaomi-mimo-v2.6-pro-free` | 小米 MiMo V2.6 Pro 旗舰 | 76 款模型 $0；充值后每日 100 请求、1M tokens | 46.3 | 长期有效 | **53.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | 常态 | `qwen3.8-max-free` | 通义 Qwen3.8 Max 旗舰 | 76 款模型 $0；充值后每日 100 请求、1M tokens | 45.4 | 长期有效 | **52.87** | [→](https://aihubmix.com/models/free) |
