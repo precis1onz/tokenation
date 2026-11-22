@@ -1,8 +1,6 @@
-![updated](https://img.shields.io/badge/updated-2026--11--21-blue) ![offers](https://img.shields.io/badge/offers-11-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
+![updated](https://img.shields.io/badge/updated-2026--11--22-blue) ![offers](https://img.shields.io/badge/offers-12-brightgreen) ![verified](https://img.shields.io/badge/verified-against%20official%20pages-success) ![scored](https://img.shields.io/badge/every%20row-scored%200--100-blueviolet)
 
-<a id="top"></a>**中文读者**：[直达中文部分](#cn) · [中文 Top 15](#top15-cn) · [中文评分说明](#score-cn)　|　**English**: [Top 15](#top15-en) · [How the score works](#score-en)
-
-# Tokenation<a id="en"></a>
+# Tokenation<a id="top"></a>
 
 Tokenation collects free LLM API offers and checks every entry against the provider's own pages. Offers are split into two kinds:
 
@@ -12,26 +10,27 @@ Each row records the provider, the model ID, a one-line overview, the free quota
 **Limited-time offers**: announced by the provider as free for a limited time, either with a fixed end date \
 or with no published deadline (the entry says so). Offers whose announced deadline has already passed are removed.
 
-## Top 10 by Tokenation score<a id="top15-en"></a>
+## Top 11 by Tokenation score<a id="top15"></a>
 
-The 10 best deals on the site right now, ranked by the Tokenation score.
+The 11 best deals on the site right now, ranked by the Tokenation score.
 
 | Provider | Type | Model ID | Overview | Free quota | AA | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Google Gemini API** | Evergreen | `gemini-4-hydrogen` | Google's Gemini 4 flagship with a 1M-token context | Gemini 4 Hydrogen and 3.8 Flash… | 50.4 | Ongoing | **93.61** | [→](https://aistudio.google.com/apikey) |
+| **Google Gemini API** | Evergreen | `gemini-4-hydrogen` | Google's Gemini 4 flagship with a 1M-token context | Gemini 4 Hydrogen and 3.8 Flash… | 53.9 | Ongoing | **95.95** | [→](https://aistudio.google.com/apikey) |
+| **AMD Radeon Cloud** | Evergreen | `deepseek-v4.1-flash` | October 2026 snapshot of DeepSeek V4.1 Flash | 12 free models, daily cap unpublished | 32.6 | Ongoing | **81.73** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
 | **OpenCode Zen** | Limited-time | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash free for a limited time | 12 limited-time free models; OpenCode… | 32.6 | No deadline announced | **81.73** | [→](https://opencode.ai/docs/zen/) |
 | **OpenCode Go** | Limited-time | `beam-free` | Beam open-weight model, 501B total | 4 limited-time free models; outside the… | 30.3 | No deadline announced | **80.20** | [→](https://opencode.ai/docs/go/) |
 | **Vercel AI Gateway** | Limited-time | `reflection/beam-free` | Beam open-weight model with ~501B total parameters | 4 tracked models at $0 in/out (27 promo… | 30.3 | No deadline announced | **80.20** | [→](https://vercel.com/ai-gateway) |
 | **Google Gemini API** | Evergreen | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Gemini 4 Hydrogen and 3.8 Flash… | 30.8 | Ongoing | **68.55** | [→](https://aistudio.google.com/apikey) |
-| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 50M intl / 100M CN tokens; Nov 29 | 31.7 | 2026-11-29 (over 7 days left) | **57.15** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw (Z.ai / Zhipu)** | Limited-time | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 50M intl / 100M CN tokens; Nov 29 | 31.7 | 2026-11-29 (in 7 days) | **57.15** | [→](https://autoclaw.z.ai/) |
 | **OpenRouter** | Evergreen | `thinkingmachines/inkling-2-small:free` | Multimodal MoE reasoning model from Thinking Machines. | :free models $0, 20 RPM, 50 RPD | 30.6 | Ongoing | **54.57** | [→](https://openrouter.ai/collections/free-models) |
 | **AiHubMix** | Evergreen | `xiaomi-mimo-v2.6-pro-free` | Xiaomi MiMo V2.6 Pro flagship | 76 models at $0; 100 req/day, 1M tokens… | 46.3 | Ongoing | **53.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | Evergreen | `qwen3.8-max-free` | Qwen3.8 Max flagship | 76 models at $0; 100 req/day, 1M tokens… | 45.4 | Ongoing | **52.87** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | Evergreen | `coding-glm-5.3-free` | GLM 5.3 coding variant | 76 models at $0; 100 req/day, 1M tokens… | 44.8 | Ongoing | **52.47** | [→](https://aihubmix.com/models/free) |
 
-Top 10 of 84 scored model rows. Scoring rule below. Full lists below.
+Top 11 of 91 scored model rows. Scoring rule below. Full lists below.
 
-## How the score works<a id="score-en"></a>
+## How the score works<a id="score"></a>
 
 Every offer here carries one number from 0 to 100, so an offer you have never touched can be compared against one you already pay for. Free API tiers change every week, and signing up to test each one costs a weekend, so the score compresses that decision into a single number. It measures how much usable inference you get for free right now. It is not a ranking of model quality.
 
@@ -40,56 +39,7 @@ Every offer here carries one number from 0 to 100, so an offer you have never to
 - Every score traces back to the provider's own page, rechecked daily.
 - Out of scope, so never scored: decision models that return typed answers instead of text, routing endpoints (an "auto" model selection), and models under 20B total parameters.
 
-- [Chinese: Evergreen free tiers](cn/EVERGREEN.md)
-- [Chinese: Limited-time offers](cn/LIMIT-TIME.md)
-- [English: Evergreen free tiers](en/EVERGREEN.md)
-- [English: Limited-time offers](en/LIMIT-TIME.md)
+- [Evergreen free tiers](EVERGREEN.md)
+- [Limited-time offers](LIMIT-TIME.md)
 
-[↑ Back to top](#top) · [Chinese version](#cn)
-
----
-
-# Tokenation（中文）<a id="cn"></a>
-
-Tokenation 每日搜集免费 LLM API，并逐条回到厂商官方页面核实。条目分两类：
-
-**常态免费（Evergreen）**，官方定价页长期挂着、无公告结束时间的免费额度，含新用户免费额度。\
-每行记录平台、模型 ID、一段简介、免费额度、截止日与推荐指数。
-
-**限时免费（Limit-time）**，官方明示的限时免费 offer，含两类：写明固定截止日的，以及只写「限时」\
-未公布截止日的（会在日期字段注明）。已过公布截止日的条目一律移除。
-
-## 推荐指数榜 · Top 10<a id="top15-cn"></a>
-
-本站此刻最值的 10 单，按推荐指数从高到低。
-
-| 平台 | 类型 | 模型 ID | 介绍 | 免费额度 | AA | 截止 | 推荐指数 | 链接 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **Google Gemini API** | 常态 | `gemini-4-hydrogen` | 谷歌 Gemini 4 旗舰，统一 1M 上下文 | Gemini 4 Hydrogen、3.8 Flash… | 50.4 | 长期有效 | **93.61** | [→](https://aistudio.google.com/apikey) |
-| **OpenCode Zen** | 限时 | `deepseek-v4.1-flash-free` | DeepSeek V4.1 Flash 限时免费模型 | 12 个限时免费模型；需在 OpenCode 内使用 | 32.6 | 未公布截止日 | **81.73** | [→](https://opencode.ai/docs/zen/) |
-| **OpenCode Go** | 限时 | `beam-free` | Beam 开放权重模型，501B 总参数 | 4 个限时免费模型；不计入 Go 月度额度 | 30.3 | 未公布截止日 | **80.20** | [→](https://opencode.ai/docs/go/) |
-| **Vercel AI Gateway** | 限时 | `reflection/beam-free` | Beam 开放权重模型，约 501B 总参数 | 4 个已收录免费模型输入输出 $0（共 27 个促销位） | 30.3 | 未公布截止日 | **80.20** | [→](https://vercel.com/ai-gateway) |
-| **Google Gemini API** | 常态 | `gemini-3.8-flash` | 谷歌最强 Flash，擅长编码、Agent 与多步推理 | Gemini 4 Hydrogen、3.8 Flash… | 30.8 | 长期有效 | **68.55** | [→](https://aistudio.google.com/apikey) |
-| **AutoClaw（智谱）** | 限时 | `glm-5.3` | 智谱推理模型，面向软件工程与长周期 Agent 任务 | 国际站 5,000 万、中文站 1 亿 Tokens；11/29 到期 | 31.7 | 2026-11-29（剩余超7天） | **57.15** | [→](https://autoclaw.z.ai/) |
-| **OpenRouter** | 常态 | `thinkingmachines/inkling-2-small:free` | Thinking Machines 多模态 MoE 推理模型 | :free 模型 $0，20 RPM、50 RPD | 30.6 | 长期有效 | **54.57** | [→](https://openrouter.ai/collections/free-models) |
-| **AiHubMix** | 常态 | `xiaomi-mimo-v2.6-pro-free` | 小米 MiMo V2.6 Pro 旗舰 | 76 款模型 $0；充值后每日 100 请求、1M tokens | 46.3 | 长期有效 | **53.47** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | 常态 | `qwen3.8-max-free` | 通义 Qwen3.8 Max 旗舰 | 76 款模型 $0；充值后每日 100 请求、1M tokens | 45.4 | 长期有效 | **52.87** | [→](https://aihubmix.com/models/free) |
-| **AiHubMix** | 常态 | `coding-glm-5.3-free` | GLM 5.3 编码版 | 76 款模型 $0；充值后每日 100 请求、1M tokens | 44.8 | 长期有效 | **52.47** | [→](https://aihubmix.com/models/free) |
-
-上表从 84 行已评分条目中取前 10 行，评分口径见下节。完整清单见下方四个列表。
-
-## 评分怎么看<a id="score-cn"></a>
-
-本站每个条目都带一个 0 到 100 的分数，让你能拿一个没试过的免费额度，和一个已经在用的放在一起比。免费额度每周都在变，逐个注册去试要花掉一个周末，这个分数把这件事压缩成一个数字。它量的是此刻免费能拿到多少可用推理，不是模型强弱排名。
-
-- 智能占 40%：取模型在 Artificial Analysis 智能指数上的位置。
-- 免费额度占 60%：真跑起来撞墙之前能用多少。
-- 每个分数都能追回厂商自己的页面，每天重新核实一次。
-- 不参与评分：只返回类型化结果的决策模型、路由端点（auto 自动选模），以及总参数低于 20B 的模型。
-
-- [中文：常态免费](cn/EVERGREEN.md)
-- [中文：限时免费](cn/LIMIT-TIME.md)
-- [英文：常态免费](en/EVERGREEN.md)
-- [英文：限时免费](en/LIMIT-TIME.md)
-
-[↑ 回到顶部](#top) · [English version](#en)
+[↑ Back to top](#top)

@@ -1,6 +1,6 @@
 Limited-time offers by provider, ranked by the Tokenation score, highest first. Scoring rule on the landing page.
 
-Updated 2026-11-21
+Updated 2026-11-22
 
 | Provider | Model ID | Overview | Free quota | Free until | Score | Link |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -15,6 +15,6 @@ Updated 2026-11-21
 | **OpenCode Zen** | `tidepool-alpha-free` | OpenCode stealth model, free for a limited time | 12 limited-time free models; OpenCode… | No deadline announced | **67.60** | [→](https://opencode.ai/docs/zen/) |
 | **Qoder** | `efficient` | Efficient standard-reasoning tier, not a model | Efficient tier free of Credits; 100… | No deadline announced | **67.60** | [→](https://docs.qoder.com/events/efficientunlimited.md) |
 | **Vercel AI Gateway** | `stealth/glyph-cluster` | Glyph Cluster free model; vendor description not published | 4 tracked models at $0 in/out (27 promo… | No deadline announced | **67.60** | [→](https://vercel.com/ai-gateway) |
-| **AutoClaw (Z.ai / Zhipu)** | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 50M intl / 100M CN tokens; Nov 29 | 2026-11-29 (over 7 days left) | **57.15** | [→](https://autoclaw.z.ai/) |
-| **AutoClaw (Z.ai / Zhipu)** | `glm-5.3-flash` | GLM-5.3-Flash credits in AutoClaw | 50M intl / 100M CN tokens; Nov 29 | 2026-11-29 (over 7 days left) | **54.59** | [→](https://autoclaw.z.ai/) |
-| **AutoClaw (Z.ai / Zhipu)** | `glm-5-turbo` | Fast-inference Z.ai model tuned for agent environments. | 50M intl / 100M CN tokens; Nov 29 | 2026-11-29 (over 7 days left) | **43.65** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw (Z.ai / Zhipu)** | `glm-5.3` | Z.ai reasoning model for software engineering and long-horizon agent tasks. | 50M intl / 100M CN tokens; Nov 29 | 2026-11-29 (in 7 days) | **57.15** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw (Z.ai / Zhipu)** | `glm-5.3-flash` | Z.ai GLM-5.3 fast tier | 50M intl / 100M CN tokens; Nov 29 | 2026-11-29 (in 7 days) | **54.59** | [→](https://autoclaw.z.ai/) |
+| **AutoClaw (Z.ai / Zhipu)** | `glm-5-turbo` | Fast-inference Z.ai model tuned for agent environments. | 50M intl / 100M CN tokens; Nov 29 | 2026-11-29 (in 7 days) | **43.65** | [→](https://autoclaw.z.ai/) |
