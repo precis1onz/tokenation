@@ -1,6 +1,6 @@
 Free tiers by provider, ranked by the Tokenation score, highest first. Scoring rule on the landing page.
 
-Updated 2026-11-24
+Updated 2026-11-25
 
 | Provider | Model ID | Overview | Free quota | Score | Link |
 | --- | --- | --- | --- | --- | --- |
@@ -19,7 +19,6 @@ Updated 2026-11-24
 | **Zhipu AI (BigModel)** | `glm-4.6v-flash` | Free visual reasoning model with 128K context | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |
 | **Zhipu AI (BigModel)** | `glm-4.7-flash` | Free text model with 200K context | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |
 | **Zhipu AI (BigModel)** | `glm-4v-flash` | Zhipu free image-understanding model, 16K context. | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |
-| **OpenRouter** | `thinkingmachines/inkling-2-small:free` | Multimodal MoE reasoning model from Thinking Machines. | :free models $0, 20 RPM, 50 RPD | **54.57** | [→](https://openrouter.ai/collections/free-models) |
 | **AiHubMix** | `xiaomi-mimo-v2.6-pro-free` | Xiaomi MiMo V2.6 Pro flagship | 77 models at $0; 100 req/day, 1M tokens… | **53.47** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `qwen3.8-max-free` | Qwen3.8 Max flagship | 77 models at $0; 100 req/day, 1M tokens… | **52.87** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `coding-glm-5.3-free` | GLM 5.3 coding variant | 77 models at $0; 100 req/day, 1M tokens… | **52.47** | [→](https://aihubmix.com/models/free) |
@@ -27,7 +26,7 @@ Updated 2026-11-24
 | **AiHubMix** | `gemini-3.8-flash-free` | Gemini 3.8 Flash | 77 models at $0; 100 req/day, 1M tokens… | **49.87** | [→](https://aihubmix.com/models/free) |
 | **AiHubMix** | `xiaomi-mimo-v2.6-flash-free` | Xiaomi MiMo V2.6 Flash | 77 models at $0; 100 req/day, 1M tokens… | **47.87** | [→](https://aihubmix.com/models/free) |
 | **OpenRouter** | `baidu/ernie-5.5-flash-preview:free` | Baidu ERNIE 5.5 Flash Preview, 280B parameters. | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
-| **OpenRouter** | `dots-studio/dots-3-note-preview:free` | Dots Studio open 280B MoE, 16B active | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
+| **OpenRouter** | `google/gemma-4-26b-a4b-it:free` | Google open 26B MoE, 4B active, multimodal | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `inclusionai/ling-3.2-flash:free` | inclusionAI Ling 3.2 hybrid reasoning model with image input | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `liquid/lfm-3-1.7b:free` | Compact 1.7B text model from Liquid AI, 256K context. | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
 | **OpenRouter** | `particle-ai/particle-1:free` | Particle AI agentic coding model with token-efficient reasoning | :free models $0, 20 RPM, 50 RPD | **41.75** | [→](https://openrouter.ai/collections/free-models) |
