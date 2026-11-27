@@ -1,18 +1,18 @@
 Free tiers by provider, ranked by the Tokenation score, highest first. Scoring rule on the landing page.
 
-Updated 2026-11-26
+Updated 2026-11-27
 
 | Provider | Model ID | Overview | Free quota | Score | Link |
 | --- | --- | --- | --- | --- | --- |
 | **Google Gemini API** | `gemini-4-hydrogen` | Google's Gemini 4 flagship with a 1M-token context | Gemini 4 Hydrogen and 3.8 Flash… | **95.95** | [→](https://aistudio.google.com/apikey) |
-| **AMD Radeon Cloud** | `deepseek-v4.1-flash` | October 2026 snapshot of DeepSeek V4.1 Flash | 12 free models, daily cap unpublished | **81.73** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
-| **AMD Radeon Cloud** | `glm-5.3-flash` | Z.ai GLM-5.3 fast tier | 12 free models, daily cap unpublished | **78.54** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
-| **AMD Radeon Cloud** | `mimo-v2.6-flash` | Xiaomi MiMo V2.6 Flash | 12 free models, daily cap unpublished | **77.82** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
-| **AMD Radeon Cloud** | `qwen3.8-27b` | Open-weight 27B vision-language model from Qwen | 12 free models, daily cap unpublished | **73.40** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `deepseek-v4.1-flash` | October 2026 snapshot of DeepSeek V4.1 Flash | 13 free models; daily point cap… | **81.73** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `glm-5.3-flash` | Z.ai GLM-5.3 fast tier | 13 free models; daily point cap… | **78.54** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `mimo-v2.6-flash` | Xiaomi MiMo V2.6 Flash | 13 free models; daily point cap… | **77.82** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `qwen3.8-27b` | Open-weight 27B vision-language model from Qwen | 13 free models; daily point cap… | **73.40** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
 | **Google Gemini API** | `gemini-3.8-flash` | Google's strongest Flash model for coding, agents and multi-step reasoning. | Gemini 4 Hydrogen and 3.8 Flash… | **68.55** | [→](https://aistudio.google.com/apikey) |
-| **AMD Radeon Cloud** | `deepseek-v4-flash` | DeepSeek V4 Flash, text-only | 12 free models, daily cap unpublished | **67.60** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
-| **AMD Radeon Cloud** | `gemma-4-31b-it` | Gemma 4 31B dense instruct model | 12 free models, daily cap unpublished | **67.60** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
-| **AMD Radeon Cloud** | `minicpm-v-4.7-35b-a3b` | OpenBMB MiniCPM-V 4.7 multimodal MoE | 12 free models, daily cap unpublished | **67.60** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `deepseek-v4-flash` | DeepSeek V4 Flash, text-only | 13 free models; daily point cap… | **67.60** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `gemma-4-31b-it` | Gemma 4 31B dense instruct model | 13 free models; daily point cap… | **67.60** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
+| **AMD Radeon Cloud** | `minicpm-v-4.7-35b-a3b` | OpenBMB MiniCPM-V 4.7 multimodal MoE | 13 free models; daily point cap… | **67.60** | [→](https://developer.amd.com.cn/radeon/tokenfactory) |
 | **Together AI** | `prism-ml/ternary-bonsai-27b` | 27B ternary-quantized open model, 262K context. | Ternary Bonsai 27B free in/out | **67.60** | [→](https://www.together.ai/pricing) |
 | **Zhipu AI (BigModel)** | `glm-4-flash-250414` | Zhipu free text model, 128K context. | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |
 | **Zhipu AI (BigModel)** | `glm-4.1v-thinking-flash` | Zhipu free visual-reasoning model, 64K context. | Several Flash models free in/out; rate … | **67.60** | [→](https://open.bigmodel.cn/) |
